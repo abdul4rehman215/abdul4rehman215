@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdul Rehman 👋</h1>
 
 <p align="center">
-Cloud Cybersecurity Student • SOC & SIEM Practitioner • Aspiring SOC Analyst (L1)
+Cloud Cybersecurity Student • SOC & SIEM Practitioner • Aspiring SOC Analyst
 </p>
 
 <p align="center">
