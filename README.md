@@ -376,13 +376,15 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 ## 🎯 Interests & Hobbies
 
-<table width="100%">
+<div align="center">
+
+<table width="85%">
 <tr>
 <th width="50%">🏀 Outdoor & Fitness</th>
 <th width="50%">🎮 Gaming (PC)</th>
 </tr>
 <tr>
-<td align="left">
+<td align="left" valign="top">
 
 - 🏀 **Basketball** — agility & coordination  
 - 🏋️ **Gym** — strength, discipline & consistency  
@@ -390,7 +392,7 @@ My focus is **defensive security** — understanding how threats are **detected,
 - 🐎 **Horse Riding** — balance, control & confidence  
 
 </td>
-<td align="left">
+<td align="left" valign="top">
 
 - 🚗 **GTA V** — open-world strategy & exploration  
 - ⚽ **FIFA** — tactical gameplay & teamwork  
@@ -401,20 +403,20 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <br>
 
-<table width="100%">
+<table width="85%">
 <tr>
 <th width="50%">🧠 Professional Interests</th>
 <th width="50%">📚 Continuous Learning</th>
 </tr>
 <tr>
-<td align="left">
+<td align="left" valign="top">
 
 - 🤖 **AI-driven Security Automation**  
 - ☁️ **Cloud Security & SOC Tooling**  
 - 🛡 **Defensive & Blue Team Security**  
 
 </td>
-<td align="left">
+<td align="left" valign="top">
 
 - 📘 **Continuous Learning in Cybersecurity**  
 - 🧪 **Hands-on labs & real-world simulations**  
@@ -423,6 +425,8 @@ My focus is **defensive security** — understanding how threats are **detected,
 </td>
 </tr>
 </table>
+
+</div>
 
 <hr>
 
