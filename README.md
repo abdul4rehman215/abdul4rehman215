@@ -125,9 +125,30 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <hr>
 
+## 🛠 Practical SOC & Security Exposure
+
+### 🛡 SOC & SIEM Training
+- Hands-on SOC operations & real-world alert monitoring  
+- Wazuh SIEM deployment, alert analysis & incident triage  
+- Threat intelligence enrichment & MITRE ATT&CK mapping  
+
+### ☁️ Cloud & Linux Security
+- AWS CloudTrail monitoring & cloud activity analysis  
+- Linux system administration & security hardening  
+- Log analysis & basic system monitoring  
+
+### 🧪 Industry Simulations
+- Cybersecurity Forage job simulations — Deloitte, AIG, TATA, Datacom, Telstra  
+
+### ⚙️ Supporting / Practical Skills
+- Basic security automation using Python & Bash  
+- SOC-style security reporting & incident documentation  
+
+<hr>
+
 ## 🏅 Certifications & Professional Training
 - **EduQual RQF Level 3 Diploma in Cloud Cyber Security** — *Al-Nafi International College*
-- **Cyber Security Student Internship** — *Al-Nafi International College*
+- **Cyber Security Internship** — *Al-Nafi International College*
 - **ISO/IEC 27001:2022 Lead Auditor** — *Mastermind*
 - **ISC2 Certified in Cybersecurity (CC)**
 - **SOC Analyst & Cybersecurity Job Simulations** — *TATA, Deloitte, AIG, Datacom, Telstra* (Forage)
