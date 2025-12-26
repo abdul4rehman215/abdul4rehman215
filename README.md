@@ -69,8 +69,8 @@
 
 ## 👨‍💻 About Me
 
-<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/36dcd6ef-bca8-4e2b-b3e3-8d0268e04045/d1TFdZb3CF.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+<img align="right" alt="Data Security" width="400"
+src="https://raw.githubusercontent.com/abdul4rehman215/abdul4rehman215/main/DATA%20SECURITY.gif" />
 
 ```yaml
 ### 🔍 Quick Profile
