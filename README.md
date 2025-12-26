@@ -376,15 +376,55 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 ## 🎯 Interests & Hobbies
 
-| 🏀 Outdoor & Fitness | 🎮 Gaming (PC) |
-|--------------------|---------------|
-| **Outdoor & Fitness** <br><br> 🏀 **Basketball** — agility & coordination <br> 🏋️ **Gymastics** — strength, discipline & consistency <br> 🏊 **Swimming** — endurance & mental focus <br> 🐎 **Horse Riding** — balance, control & confidence | **Gaming (PC)** <br><br> 🚗 **GTA V** — open-world strategy & exploration <br> ⚽ **FIFA** — tactical gameplay & teamwork |
+<div align="center">
+
+<table>
+<tr>
+<th width="50%">🏀 Outdoor & Fitness</th>
+<th width="50%">🎮 Gaming (PC)</th>
+</tr>
+<tr>
+<td align="left">
+
+🏀 **Basketball** — agility & coordination  
+🏋️ **Gym** — strength, discipline & consistency  
+🏊 **Swimming** — endurance & mental focus  
+🐎 **Horse Riding** — balance, control & confidence  
+
+</td>
+<td align="left">
+
+🚗 **GTA V** — open-world strategy & exploration  
+⚽ **FIFA** — tactical gameplay & teamwork  
+
+</td>
+</tr>
+</table>
 
 <br>
 
-| 🧠 Professional Interests | 📚 Continuous Learning |
-|--------------------------|------------------------|
-| **Professional Interests** <br><br> 🤖 **AI-driven Security Automation** <br> ☁️ **Cloud Security & SOC Tooling** | **Learning Focus** <br><br> 📚 **Continuous Learning in Cybersecurity** <br> 🧠 **Skill-building through hands-on labs & practice** |
+<table>
+<tr>
+<th width="50%">🧠 Professional Interests</th>
+<th width="50%">📚 Continuous Learning</th>
+</tr>
+<tr>
+<td align="left">
+
+🤖 **AI-driven Security Automation**  
+☁️ **Cloud Security & SOC Tooling**  
+
+</td>
+<td align="left">
+
+📚 **Continuous Learning in Cybersecurity**  
+🧪 **Skill-building through hands-on labs & practice**  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <hr>
 
