@@ -50,6 +50,7 @@ I completed a **full-year unpaid student internship** alongside my cybersecurity
 
 My focus is **defensive security** — understanding how threats are **detected, analyzed, enriched, escalated, and documented** in real-world SOC operations.
 
+<hr>
 <!-- ===================== TECHNICAL SKILLS ===================== -->
 
 ## 🧠 Technical Skills
