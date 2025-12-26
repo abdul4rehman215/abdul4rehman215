@@ -378,24 +378,26 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <div align="center">
 
-<table width="85%">
+<table width="250%" style="table-layout:fixed;">
 <tr>
 <th width="50%">🏀 Outdoor & Fitness</th>
 <th width="50%">🎮 Gaming (PC)</th>
 </tr>
-<tr>
-<td align="left" valign="top">
 
-- 🏀 **Basketball** — agility & coordination  
-- 🏋️ **Gym** — strength, discipline & consistency  
-- 🏊 **Swimming** — endurance & mental focus  
-- 🐎 **Horse Riding** — balance, control & confidence  
+<tr>
+<td valign="middle" style="padding:24px 28px; white-space:nowrap;">
+
+🏀 <b>Basketball</b> — agility & coordination<br>
+🏋️ <b>Gym</b> — strength, discipline & consistency<br>
+🏊 <b>Swimming</b> — endurance & mental focus<br>
+🐎 <b>Horse Riding</b> — balance, control & confidence
 
 </td>
-<td align="left" valign="top">
 
-- 🚗 **GTA V** — open-world strategy & exploration  
-- ⚽ **FIFA** — tactical gameplay & teamwork  
+<td valign="middle" style="padding:24px 28px; white-space:nowrap;">
+
+🚗 <b>GTA V</b> — open-world strategy & exploration<br>
+⚽ <b>FIFA</b> — tactical gameplay & teamwork
 
 </td>
 </tr>
@@ -403,30 +405,34 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <br>
 
-<table width="85%">
+<table width="250%" style="table-layout:fixed;">
 <tr>
 <th width="50%">🧠 Professional Interests</th>
 <th width="50%">📚 Continuous Learning</th>
 </tr>
-<tr>
-<td align="left" valign="top">
 
-- 🤖 **AI-driven Security Automation**  
-- ☁️ **Cloud Security & SOC Tooling**  
-- 🛡 **Defensive & Blue Team Security**  
+<tr>
+<td valign="middle" style="padding:24px 28px; white-space:nowrap;">
+
+🤖 <b>AI-driven Security Automation</b><br>
+☁️ <b>Cloud Security & SOC Tooling</b><br>
+🛡 <b>Defensive & Blue Team Security</b>
 
 </td>
-<td align="left" valign="top">
 
-- 📘 **Continuous Learning in Cybersecurity**  
-- 🧪 **Hands-on labs & real-world simulations**  
-- 🧠 **Skill-building across SOC, SIEM & Linux**  
+<td valign="middle" style="padding:24px 28px; white-space:nowrap;">
+
+📘 <b>Continuous Learning in Cybersecurity</b><br>
+🧪 <b>Hands-on labs & real-world simulations</b><br>
+🧠 <b>Skill-building across SOC, SIEM & Linux</b>
 
 </td>
 </tr>
 </table>
 
 </div>
+
+
 
 <hr>
 
