@@ -327,7 +327,7 @@ My focus is **defensive security** — understanding how threats are **detected,
 </details>
 
 <details>
-<summary><b>📊 Data Science – Jupyter Notebook (Click to expand)</b></summary>
+<summary><b>📊 Data Science & Analytics Arsenal (Click to expand)</b></summary>
 
 ### 🧪 Data Analysis & Exploration
 - **Jupyter Notebook** – Interactive environment for writing, running, and documenting Python code
