@@ -90,8 +90,6 @@ My focus is **defensive security** — understanding how threats are **detected,
 <details open>
 <summary><b>🚀 Click to Expand / Collapse Technical Skills</b></summary>
 
----
-
 ### ☁️ Cloud & Platform Security
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -99,16 +97,12 @@ My focus is **defensive security** — understanding how threats are **detected,
   <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
----
-
 ### 🐳 Containers & Runtime
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubectl-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
 </p>
-
----
 
 ### 🔐 Security, SOC & Threat Detection
 <p align="left">
@@ -122,8 +116,6 @@ My focus is **defensive security** — understanding how threats are **detected,
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&logo=mitre&logoColor=white" />
 </p>
 
----
-
 ### 📊 SIEM, Logging & Case Management
 <p align="left">
   <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
@@ -134,8 +126,6 @@ My focus is **defensive security** — understanding how threats are **detected,
   <img src="https://img.shields.io/badge/MISP-2C3E50?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
----
-
 ### 🌐 Networking & Traffic Analysis
 <p align="left">
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
@@ -143,8 +133,6 @@ My focus is **defensive security** — understanding how threats are **detected,
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
-
----
 
 ### 🐧 Operating Systems
 <p align="left">
@@ -156,16 +144,12 @@ My focus is **defensive security** — understanding how threats are **detected,
   <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
 </p>
 
----
-
 ### 🧪 Programming, Automation & Analysis
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
-
----
 
 ### 📈 Data Science, ML & Security Analytics
 <p align="left">
@@ -182,9 +166,10 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <!-- ===================== MOST USED ===================== -->
 
-<p align="center">
+<!-- p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul4rehman215&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false&langs_count=10" />
 </p>
+-->
 
 <hr>
 
