@@ -11,49 +11,50 @@
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;SOC+Operations;SIEM+Monitoring+with+Wazuh;Threat+Detection;Incident+Response;Continuous+Learning+Hands-on+Labs" 
     alt="Typing SVG"
   />
-<div>
-  
-<h3 align="center" style="color:#58a6ff;">
-🔐 Cybersecurity Student • 🛡 SOC & SIEM Practitioner • 🐧 Linux Security • Aspiring SOC Analyst • 🤖 AI Automation 
+</div>
+
+<h3 align="center">
+🔐 Cybersecurity Student • 🛡 SOC & SIEM Practitioner • 🐧 Linux Security • Aspiring SOC Analyst • 🤖 AI Automation
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdul4rehman215&label=Profile%20views&color=0e75b6&style=flat" alt="abdul4rehman215" />
-  <img src="https://img.shields.io/github/followers/abdul4rehman215?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://komarev.com/ghpvc/?username=abdul4rehman215&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/abdul4rehman215?label=Followers&style=social" />
 </p>
 
-<!-- ===================== CONNECT TOP ===================== -->
+<hr>
+
+<!-- ===================== CONNECT ===================== -->
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://twitter.com/abdul4rehman215" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<p>
+  <a href="https://twitter.com/abdul4rehman215">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/abdul4rehman215" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/abdul4rehman215">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://instagram.com/abdul4rehman215">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/abdul4rehman215" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://fb.com/abdul4rehman215">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://fb.com/abdul4rehman215" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://wa.me/917848040230">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://wa.me/message/917848040230" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://linktr.ee/abdul4rehman215" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  <a href="https://linktr.ee/abdul4rehman215">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="mailto:abdul4rehman215@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/abdul4rehman215" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/abdul4rehman215">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -63,18 +64,16 @@
 
 ## 👨‍💻 About Me
 
-<img align="right"
-     alt="Cybersecurity"
-     width="400"
-     src="https://raw.githubusercontent.com/abdul4rehman215/abdul4rehman215/main/original-d83a738728eebaed199dfac800acb20c.gif" />
+<img align="right" width="400"
+src="https://raw.githubusercontent.com/abdul4rehman215/abdul4rehman215/main/original-d83a738728eebaed199dfac800acb20c.gif" />
 
 ```yaml
-- Role: Cloud Cybersecurity Student | SOC & SIEM Practitioner  
-- Location: India 🇮🇳  
-- Primary Focus: SOC (L1), SIEM, Linux Security  
-- Approach: Learn → Build → Break → Analyze → Document → Improve  
-- Goal: Grow into a skilled SOC Analyst with strong Linux & cloud foundations
-```
+Role: Cloud Cybersecurity Student | SOC & SIEM Practitioner
+Location: India 🇮🇳
+Primary Focus: SOC (L1), SIEM, Linux Security
+Approach: Learn → Build → Break → Analyze → Document → Improve
+Goal: Grow into a skilled SOC Analyst with strong Linux & cloud foundations
+
 
 I’m a **Cloud Cybersecurity student** with hands-on experience in **SOC operations, SIEM monitoring, Linux security, and incident response workflows**.  
 I completed a **One full-year student internship** alongside my cybersecurity studies, working extensively in **simulated enterprise SOC environments**.
