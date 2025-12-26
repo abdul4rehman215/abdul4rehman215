@@ -73,7 +73,7 @@ Location: India 🇮🇳
 Primary Focus: SOC (L1), SIEM, Linux Security
 Approach: Learn → Build → Break → Analyze → Document → Improve
 Goal: Grow into a skilled SOC Analyst with strong Linux & cloud foundations
-
+```
 
 I’m a **Cloud Cybersecurity student** with hands-on experience in **SOC operations, SIEM monitoring, Linux security, and incident response workflows**.  
 I completed a **One full-year student internship** alongside my cybersecurity studies, working extensively in **simulated enterprise SOC environments**.
