@@ -39,11 +39,11 @@
 
 ```yaml
 ### 🔍 Quick Profile
-- **Role:** Cloud Cybersecurity Student | SOC & SIEM Practitioner  
-- **Location:** India 🇮🇳  
-- **Primary Focus:** SOC (L1), SIEM, Linux Security  
-- **Approach:** Learn → Build → Break → Analyze → Document → Improve  
-- **Goal:** Grow into a skilled SOC Analyst with strong Linux & cloud foundations
+- Role: Cloud Cybersecurity Student | SOC & SIEM Practitioner  
+- Location: India 🇮🇳  
+- Primary Focus: SOC (L1), SIEM, Linux Security  
+- Approach: Learn → Build → Break → Analyze → Document → Improve  
+- Goal: Grow into a skilled SOC Analyst with strong Linux & cloud foundations
 ```
 
 I’m a **Cloud Cybersecurity student** with hands-on experience in **SOC operations, SIEM monitoring, Linux security, and incident response workflows**.  
