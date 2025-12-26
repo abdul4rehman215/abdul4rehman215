@@ -34,10 +34,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Cloud Cybersecurity student** with hands-on experience in **SOC operations, SIEM monitoring, Linux security, and incident response workflows**.  
-I completed a **full-year unpaid student internship** alongside my cybersecurity studies, working extensively in **simulated enterprise SOC environments**.
-
-My focus is **defensive security** — understanding how threats are **detected, analyzed, enriched, escalated, and documented** in real-world SOC operations.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```yaml
 ### 🔍 Quick Profile
@@ -47,9 +44,11 @@ My focus is **defensive security** — understanding how threats are **detected,
 - **Approach:** Learn → Build → Break → Analyze → Document → Improve  
 - **Goal:** Grow into a skilled SOC Analyst with strong Linux & cloud foundations
 ```
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<hr>
+I’m a **Cloud Cybersecurity student** with hands-on experience in **SOC operations, SIEM monitoring, Linux security, and incident response workflows**.  
+I completed a **full-year unpaid student internship** alongside my cybersecurity studies, working extensively in **simulated enterprise SOC environments**.
+
+My focus is **defensive security** — understanding how threats are **detected, analyzed, enriched, escalated, and documented** in real-world SOC operations.
 
 <!-- ===================== TECHNICAL SKILLS ===================== -->
 
