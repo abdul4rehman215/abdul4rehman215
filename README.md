@@ -28,7 +28,7 @@
 
 ## 🌐 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://twitter.com/abdul4rehman215">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
