@@ -376,9 +376,7 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 ## 🎯 Interests & Hobbies
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 <th width="50%">🏀 Outdoor & Fitness</th>
 <th width="50%">🎮 Gaming (PC)</th>
@@ -386,16 +384,16 @@ My focus is **defensive security** — understanding how threats are **detected,
 <tr>
 <td align="left">
 
-🏀 **Basketball** — agility & coordination  
-🏋️ **Gym** — strength, discipline & consistency  
-🏊 **Swimming** — endurance & mental focus  
-🐎 **Horse Riding** — balance, control & confidence  
+- 🏀 **Basketball** — agility & coordination  
+- 🏋️ **Gym** — strength, discipline & consistency  
+- 🏊 **Swimming** — endurance & mental focus  
+- 🐎 **Horse Riding** — balance, control & confidence  
 
 </td>
 <td align="left">
 
-🚗 **GTA V** — open-world strategy & exploration  
-⚽ **FIFA** — tactical gameplay & teamwork  
+- 🚗 **GTA V** — open-world strategy & exploration  
+- ⚽ **FIFA** — tactical gameplay & teamwork  
 
 </td>
 </tr>
@@ -403,7 +401,7 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <th width="50%">🧠 Professional Interests</th>
 <th width="50%">📚 Continuous Learning</th>
@@ -411,20 +409,20 @@ My focus is **defensive security** — understanding how threats are **detected,
 <tr>
 <td align="left">
 
-🤖 **AI-driven Security Automation**  
-☁️ **Cloud Security & SOC Tooling**  
+- 🤖 **AI-driven Security Automation**  
+- ☁️ **Cloud Security & SOC Tooling**  
+- 🛡 **Defensive & Blue Team Security**  
 
 </td>
 <td align="left">
 
-📚 **Continuous Learning in Cybersecurity**  
-🧪 **Skill-building through hands-on labs & practice**  
+- 📘 **Continuous Learning in Cybersecurity**  
+- 🧪 **Hands-on labs & real-world simulations**  
+- 🧠 **Skill-building across SOC, SIEM & Linux**  
 
 </td>
 </tr>
 </table>
-
-</div>
 
 <hr>
 
