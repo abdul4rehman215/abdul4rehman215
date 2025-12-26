@@ -59,15 +59,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul4rehman215"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://twitter.com/abdul4rehman215"><img src="https://img.shields.io/badge/X-Follow-black?logo=x"></a>
-  <a href="https://www.facebook.com/abdul4rehman215"><img src="https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook"></a>
-  <a href="https://www.instagram.com/abdul4rehman215"><img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram"></a>
-  <a href="https://linktr.ee/abdul4rehman215"><img src="https://img.shields.io/badge/Linktree-Explore-brightgreen?logo=linktree"></a>
-</p>
-
-
 <hr>
 
 <!-- ===================== ABOUT ME ===================== -->
