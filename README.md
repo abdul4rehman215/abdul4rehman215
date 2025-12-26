@@ -18,8 +18,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdul4rehman215&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/abdul4rehman215?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=abdul4rehman215&label=Profile%20views&color=006400&style=flat" alt="abdul4rehman215" />
+  <img src="https://img.shields.io/github/followers/abdul4rehman215?label=Followers&style=social" alt="GitHub Badge" />
 </p>
 
 <hr>
