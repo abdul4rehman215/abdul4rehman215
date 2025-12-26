@@ -32,31 +32,31 @@
 
 <p align="center">
   <a href="https://twitter.com/abdul4rehman215">
-     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
   </a>
   <a href="https://linkedin.com/in/abdul4rehman215">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=1" />
   </a>
   <a href="https://instagram.com/abdul4rehman215">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://fb.com/abdul4rehman215">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://wa.me/917848040230">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
   </a>
   <a href="https://linktr.ee/abdul4rehman215">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linktree-42E661?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://wa.me/917848040230">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   <a href="mailto:abdul4rehman215@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EE0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/abdul4rehman215">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -92,7 +92,7 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 ### ☁️ Cloud & Platform Security
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
@@ -269,7 +269,7 @@ My focus is **defensive security** — understanding how threats are **detected,
 - **OpenVAS** - Vulnerability scanner
 - **Qualys** - Cloud security & compliance
 - **Nessus** - Vulnerability scanner
-- **Burp Suite ** - Web application security
+- **Burp Suite** - Web application security
 
 ### 🔴 Penetration Testing
 - **Metasploit** - Penetration testing framework
