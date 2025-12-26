@@ -75,7 +75,6 @@
      src="https://raw.githubusercontent.com/abdul4rehman215/abdul4rehman215/main/DATA%20SECURITY.gif" />
 
 ```yaml
-### 🔍 Quick Profile
 - Role: Cloud Cybersecurity Student | SOC & SIEM Practitioner  
 - Location: India 🇮🇳  
 - Primary Focus: SOC (L1), SIEM, Linux Security  
