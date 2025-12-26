@@ -83,7 +83,7 @@
 ```
 
 I’m a **Cloud Cybersecurity student** with hands-on experience in **SOC operations, SIEM monitoring, Linux security, and incident response workflows**.  
-I completed a **full-year unpaid student internship** alongside my cybersecurity studies, working extensively in **simulated enterprise SOC environments**.
+I completed a **One full-year student internship** alongside my cybersecurity studies, working extensively in **simulated enterprise SOC environments**.
 
 My focus is **defensive security** — understanding how threats are **detected, analyzed, enriched, escalated, and documented** in real-world SOC operations.
 
