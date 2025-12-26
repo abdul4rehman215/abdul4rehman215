@@ -38,14 +38,14 @@ I’m a **Cloud Cybersecurity student** with hands-on experience in **SOC operat
 I completed a **full-year unpaid student internship** alongside my cybersecurity studies, working extensively in **simulated enterprise SOC environments**.
 
 My focus is **defensive security** — understanding how threats are **detected, analyzed, enriched, escalated, and documented** in real-world SOC operations.
-
+```
 ### 🔍 Quick Profile
 - **Role:** Cloud Cybersecurity Student | SOC & SIEM Practitioner  
 - **Location:** India 🇮🇳  
 - **Primary Focus:** SOC (L1), SIEM, Linux Security  
 - **Approach:** Learn → Build → Break → Analyze → Document → Improve  
 - **Goal:** Grow into a skilled SOC Analyst with strong Linux & cloud foundations
-
+```
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="140">
 </p>
