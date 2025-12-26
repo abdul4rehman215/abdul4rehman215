@@ -8,7 +8,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;SOC+Operations;SIEM+Monitoring+with+Wazuh;Threat+Detection;Incident+Response;Continuous+Learning+Hands-on+Labs" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3585F9&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;SOC+Operations;SIEM+Monitoring+with+Wazuh;Threat+Detection;Incident+Response;Continuous+Learning+Hands-on+Labs" 
     alt="Typing SVG"
   />
 </div>
@@ -106,7 +106,7 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 ### 🔐 Security, SOC & Threat Detection
 <p align="left">
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-326CE5?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/OSSEC-2E2E2E?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-1679A7?style=for-the-badge&logo=metasploit&logoColor=white" />
@@ -432,49 +432,100 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 </div>
 
-
-
 <hr>
 
 <!-- ===================== LANGUAGES ===================== -->
 
 ## 🌍 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Urdu%20%2F%20Hindi-Native-green">
-  <img src="https://img.shields.io/badge/English-Duolingo%2083-blue">
-  <img src="https://img.shields.io/badge/Arabic-Duolingo%2011-orange">
+<p align="center">
+  <img src="https://img.shields.io/badge/Urdu%20%2F%20Hindi-Native-009639?style=for-the-badge&logo=google-translate" alt="Urdu / Hindi" />
+  <img src="https://img.shields.io/badge/Arabic-Elementary%20Proficiency-006400?style=for-the-badge&logo=google-translate" alt="Arabic" />
+  <img src="https://img.shields.io/badge/English-Native%20%2F%20Bilingual-0052B4?style=for-the-badge&logo=google-translate" alt="English" />
+</p>
+
+### 🟢 Duolingo Language Scores
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arabic-11-58CC02?style=for-the-badge&logo=duolingo" alt="Arabic Duolingo Score" />
+  <img src="https://img.shields.io/badge/Dec%202025-Elementary%20Proficiency-326CE5?style=for-the-badge" alt="Arabic Proficiency" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/English-83-58CC02?style=for-the-badge&logo=duolingo" alt="English Duolingo Score" />
+  <img src="https://img.shields.io/badge/Dec%202025-Limited%20Working%20Proficiency-EE0000?style=for-the-badge" alt="English Proficiency" />
 </p>
 
 <hr>
 
 <!-- ===================== SERVICES ===================== -->
 
-## 💼 Professional Services
+<div align="center">
+<h2 align="center">
+  🤝✨ Let's Connect & Collaborate! ✨🤝
+</h2>
 
-- 🔍 SOC Monitoring & Alert Analysis  
-- 🐧 Linux Security Hardening  
-- 📊 Log Analysis & Threat Detection  
-- ⚙️ Basic SIEM Setup & Guidance  
-- 🖥 Linux Server Administration  
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3585F9&center=true&vCenter=true&width=1200&lines=SOC+%26+SIEM+Hands-On+Learner+;Open+to+Internships%2C+Freelance+%26+Junior+Roles+;Wazuh+SIEM+%E2%80%A2+Log+Analysis+%E2%80%A2+Alert+Triage+;Entry-Level+SOC+Analyst+Aspirant+"
+    alt="Typing SVG"
+  />
+</div>
 
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=footer" width="100%" />
+
+# 💼 Professional Services
+
+### 🔍 SOC Monitoring & Alert Analysis
+Entry-level SOC support including alert triage, false-positive analysis, and basic incident documentation using **Wazuh SIEM**.
+
+### 🧾 Log Analysis & Threat Detection
+Analyzing Linux, server, and application logs to identify suspicious activity, brute-force attempts, and security misconfigurations.
+
+### 🛡 Linux Security Hardening
+Securing Linux servers (**Ubuntu / Debian / CentOS**) with SSH hardening, firewall rules, user permissions, and basic system hardening.
+
+### ⚙️ Basic SIEM Setup & Guidance
+Assisting with beginner-level **Wazuh SIEM** setup, agent deployment, log ingestion, and dashboard visibility for learning or small environments.
+
+### 🖥 Linux Server Administration Support
+Basic server setup, monitoring, user management, service checks, and troubleshooting for VPS, labs, and small cloud setups.
+
+### ☁️ Cloud Security Basics (AWS)
+Monitoring AWS activity using **CloudTrail** for IAM events, login tracking, and basic cloud security visibility.
+
+### 🤖 Security Automation (Python & Bash)
+Simple scripts for log parsing, basic checks, and SOC workflow support (learning-focused automation).
 
 <!-- ===================== REACH OUT ===================== -->
 
-## 🤝 Reach Out
+## 📧 Reach Out
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~013c81f100fc1492ec"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-green?logo=upwork"></a>
-  <a href="https://fiverr.com/users/abdul4rehman215"><img src="https://img.shields.io/badge/Fiverr-Services-brightgreen?logo=fiverr"></a>
-  <a href="mailto:abdul4rehman215@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
-  <a href="https://wa.me/917848040230"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp"></a>
+  <a href="https://www.upwork.com/freelancers/~013c81f100fc1492ec">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-37A000?logo=upwork&style=for-the-badge">
+  </a>
+
+  <a href="https://fiverr.com/users/abdul4rehman215">
+    <img src="https://img.shields.io/badge/Fiverr-Services-00B22D?logo=fiverr&style=for-the-badge">
+  </a>
+
+  <a href="mailto:abdul4rehman215@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&style=for-the-badge">
+  </a>
+
+  <a href="https://wa.me/917848040230">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&style=for-the-badge">
+  </a>
 </p>
+
+### 🌟 If you find my work interesting, please consider:
 
 <p align="center">
-  ⭐ <a href="https://github.com/abdul4rehman215">Follow on GitHub</a> if you find my work interesting
+  <a href="https://github.com/abdul4rehman215">
+    <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
+  </a>
 </p>
-
 <hr>
 
 <!-- ===================== QUOTE ===================== -->
@@ -489,21 +540,21 @@ My focus is **defensive security** — understanding how threats are **detected,
 <!-- ===================== FOOTER ===================== -->
 
 <!-- Animated Thank You Footer -->
-<p align="center">
-<svg width="100%" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        fill="#8ecaff" font-size="28" font-family="Arial, sans-serif">
-    Thank You 💙
-    <animate
-      attributeName="opacity"
-      values="0.3;1;0.3"
-      dur="4s"
-      repeatCount="indefinite" />
-  </text>
-</svg>
-</p>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=6,11,20,24,30)
 
 <p align="center">
-  <sub>Last updated automatically on commit</sub>
+  <img src="https://komarev.com/ghpvc/?username=abdul4rehman215&label=Total%20Profile%20Views&color=006400&style=for-the-badge" alt="Profile Views" />
 </p>
+
+</div>
+
+<p align="center">
+  Made with 💙  by <a href="https://github.com/abdul4rehman215">Abdul Rehman</a>
+</p>
+
+<p align="center">
+  <sub>Last Updated: December 2025</sub>
+</p>
+
+</div>
