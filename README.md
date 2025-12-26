@@ -85,43 +85,100 @@ My focus is **defensive security** — understanding how threats are **detected,
 <hr>
 <!-- ===================== TECHNICAL SKILLS ===================== -->
 
-## 🧠 Technical Skills
+## 🛠 Technical Skills
 
-### 🛡 Security & SOC
-<p>
-  <img src="https://img.shields.io/badge/Wazuh-SIEM-blue">
-  <img src="https://img.shields.io/badge/TheHive-Case%20Management-orange">
-  <img src="https://img.shields.io/badge/MISP-Threat%20Intel-red">
-  <img src="https://img.shields.io/badge/MITRE-ATT%26CK-black">
+<details open>
+<summary><b>🚀 Click to Expand / Collapse Technical Skills</b></summary>
+
+---
+
+### ☁️ Cloud & Platform Security
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-### 🐧 Linux & Systems
-<p>
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-orange">
-  <img src="https://img.shields.io/badge/Kali-Linux-blue">
-  <img src="https://img.shields.io/badge/Debian-red">
-  <img src="https://img.shields.io/badge/CentOS-green">
-  <img src="https://img.shields.io/badge/RHEL-maroon">
+---
+
+### 🐳 Containers & Runtime
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubectl-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
 </p>
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/ELK-Stack-yellow">
-  <img src="https://img.shields.io/badge/Splunk-Log%20Analysis-black">
-  <img src="https://img.shields.io/badge/Wireshark-Network-blue">
-  <img src="https://img.shields.io/badge/Nmap-Scanning-blue">
-  <img src="https://img.shields.io/badge/Metasploit-Pentest-red">
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange">
-  <img src="https://img.shields.io/badge/Nessus-Vulnerability-green">
+---
+
+### 🔐 Security, SOC & Threat Detection
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSSEC-2E2E2E?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-1679A7?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&logo=mitre&logoColor=white" />
 </p>
 
-### 🧪 Scripting & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Automation-blue">
-  <img src="https://img.shields.io/badge/Bash-Scripting-black">
-  <img src="https://img.shields.io/badge/PowerShell-Windows-blue">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange">
+---
+
+### 📊 SIEM, Logging & Case Management
+<p align="left">
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TheHive-F5B041?style=for-the-badge&logo=thehive&logoColor=black" />
+  <img src="https://img.shields.io/badge/MISP-2C3E50?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
+
+---
+
+### 🌐 Networking & Traffic Analysis
+<p align="left">
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
+
+---
+
+### 🐧 Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
+</p>
+
+---
+
+### 🧪 Programming, Automation & Analysis
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
+
+---
+
+### 📈 Data Science, ML & Security Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-FA8C0A?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+</details>
 
 <!-- ===================== MOST USED ===================== -->
 
