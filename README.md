@@ -123,6 +123,12 @@ My focus is **defensive security** — understanding how threats are **detected,
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange">
 </p>
 
+<!-- ===================== MOST USED ===================== -->
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul4rehman215&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false&langs_count=10" />
+</p>
+
 <hr>
 
 ## 🛠 Practical SOC & Security Exposure
@@ -164,12 +170,16 @@ My focus is **defensive security** — understanding how threats are **detected,
 - **AI Masterclass & Workshops** — *Dhruv Rathee Academy, GrowthSchool, be10x*
 - **Data Analytics Job Simulation** — *Deloitte*
 
-<!-- ===================== MOST USED ===================== -->
+<hr>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul4rehman215&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false&langs_count=10" />
-</p>
+## 💼 Professional Focus
 
+| 🧭 Core Focus | 🌱 Learning & Growth |
+|-------------|---------------------|
+| **SOC Operations & Defensive Security** | **Continuous Skill Development** |
+| - SOC alert monitoring & triage (L1)  <br> - SIEM monitoring & incident analysis (Wazuh) <br> - Threat detection & MITRE ATT&CK mapping <br> - Incident escalation & documentation <br> - Linux security & log analysis | - 📘 Strengthening SOC (L1) fundamentals: alert triage, false positives, escalation workflows <br> - 🛡 Deepening SIEM (Wazuh): rules, decoders, FIM, vulnerability detection <br> - 🔍 Advancing threat intelligence: IOC handling, enrichment, MITRE ATT&CK <br> - ☁️ Expanding cloud security with AWS CloudTrail (IAM & activity monitoring) <br> - 🐧 Improving Linux security: hardening, permissions, service monitoring <br> - 🤖 Learning Python & Bash for SOC automation <br> - 📝 Enhancing SOC documentation aligned with ISO/IEC 27001 <br> - 🧪 Industry-focused labs simulating real-world SOC scenarios <br> - 🧠 Building foundations in AI & data analytics |
+
+<hr>
 
 <!-- ===================== INTERESTS ===================== -->
 
