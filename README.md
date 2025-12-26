@@ -13,7 +13,7 @@
   />
 </div>
 
-<div style="height:1px;background-color:#30363d;margin:24px 0;"></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=footer" width="100%" />
 
 <h3 align="center">
 🔐 Cybersecurity Student • 🛡 SOC & SIEM Practitioner • 🐧 Linux Security • Aspiring SOC Analyst
