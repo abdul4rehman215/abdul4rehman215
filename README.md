@@ -71,7 +71,7 @@
 
 <img align="right"
      alt="Data Security"
-     width="260"
+     style="width:260px; image-rendering: auto;"
      src="https://raw.githubusercontent.com/abdul4rehman215/abdul4rehman215/main/DATA%20SECURITY.gif" />
 
 ```yaml
