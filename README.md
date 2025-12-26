@@ -8,10 +8,11 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;SOC+Operations;SIEM+Monitoring+with+Wazuh;Threat+Detection;Incident+Response;Continuous+Learning+Hands-on+Labs" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;SOC+Operations;SIEM+Monitoring+with+Wazuh;Threat+Detection;Incident+Response;Continuous+Learning+Hands-on+Labs" 
+    alt="Typing SVG"
   />
 </div>
+
 
 
 <h3 align="center" style="color:#58a6ff;">
