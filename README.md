@@ -12,8 +12,8 @@
     alt="Typing SVG"
   />
 <div
-<p align="center">🔐 Cybersecurity Student • 🛡️ SOC & SIEM Practitioner • 🐧 Linux Security • 🤖 AI Automation</p>
-
+</h1>
+  
 <h3 align="center" style="color:#58a6ff;">
 🔐 Cybersecurity Student • 🛡 SOC & SIEM Practitioner • 🐧 Linux Security • Aspiring SOC Analyst • 🤖 AI Automation 
 </h3>
