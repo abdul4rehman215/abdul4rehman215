@@ -127,14 +127,10 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <!-- ===================== MOST USED ===================== -->
 
-## 📊 Most Used Technologies (Labs-Based)
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul4rehman215&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false&langs_count=10" />
+</p>
 
-- **Linux / Bash** — 40%
-- **Python** — 30%
-- **Jupyter Notebook** — 20%
-- **PowerShell** — 10%
-
-<hr>
 
 <!-- ===================== INTERESTS ===================== -->
 
