@@ -181,6 +181,15 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <hr>
 
+## 🚀 Featured Projects
+
+| 🔐 End-to-End Wazuh SIEM on AWS | 🧩 Open-Source SOC Ecosystem |
+|-------------------------------|-----------------------------|
+| **Wazuh SIEM Deployment (AWS)** | **Wazuh + TheHive + MISP** |
+| - ☁️ Deployed Wazuh Manager & Linux agents on AWS  <br> - 🛡 Enabled FIM, vulnerability detection & CIS benchmarks  <br> - 🔍 Integrated AWS CloudTrail for IAM & cloud activity monitoring  <br> - ⚠️ Validated alerts using real system & cloud-generated events | - 📥 Converted SIEM alerts into incident cases (TheHive)  <br> - 🧠 Enriched incidents using threat intelligence (IPs, hashes, domains)  <br> - 🔎 Performed alert triage (false positive vs true positive)  <br> - 🎯 Mapped detections to MITRE ATT&CK  <br> - 📝 Documented response actions & SOC reports |
+
+<hr>
+
 <!-- ===================== INTERESTS ===================== -->
 
 ## 🎯 Interests & Hobbies
