@@ -69,7 +69,8 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/36dcd6ef-bca8-4e2b-b3e3-8d0268e04045/d1TFdZb3CF.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
 
 ```yaml
 ### 🔍 Quick Profile
