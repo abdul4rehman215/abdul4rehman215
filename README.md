@@ -12,6 +12,8 @@
     alt="Typing SVG"
   />
 <div
+<hr style="width:90%; opacity:0.3;" />
+
   
 <h3 align="center" style="color:#58a6ff;">
 🔐 Cybersecurity Student • 🛡 SOC & SIEM Practitioner • 🐧 Linux Security • Aspiring SOC Analyst • 🤖 AI Automation 
