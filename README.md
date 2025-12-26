@@ -190,6 +190,35 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <hr>
 
+<!-- ===================== TOOLSET ===================== -->
+
+## 🧩 Complete Toolset Reference
+
+<details>
+<summary><strong>🔎 Monitoring & Logging</strong></summary>
+
+- Wazuh, ELK Stack, Kibana, Splunk  
+- Log analysis, alert tuning, dashboards  
+
+</details>
+
+<details>
+<summary><strong>🛡️ Network & Security Tools</strong></summary>
+
+- Wireshark, Nmap, Metasploit, Burp Suite, Nessus  
+- Vulnerability scanning & basic penetration testing  
+
+</details>
+
+<details>
+<summary><strong>⚙️ System & Automation</strong></summary>
+
+- Linux CLI, Bash, Python automation  
+- System hardening & monitoring  
+
+</details>
+
+<hr>
 <!-- ===================== INTERESTS ===================== -->
 
 ## 🎯 Interests & Hobbies
