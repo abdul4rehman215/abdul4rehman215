@@ -70,8 +70,9 @@
 src="https://raw.githubusercontent.com/abdul4rehman215/abdul4rehman215/main/original-d83a738728eebaed199dfac800acb20c.gif" />
 
 ```yaml
+Name: Abdul Rehman
 Role: Cloud Cybersecurity Student | SOC & SIEM Practitioner
-Location: India 🇮🇳
+Location: Bengaluru, India 🇮🇳
 Primary Focus: SOC (L1), SIEM, Linux Security
 Approach: Learn → Build → Break → Analyze → Document → Improve
 Goal: Grow into a skilled SOC Analyst with strong Linux & cloud foundations
