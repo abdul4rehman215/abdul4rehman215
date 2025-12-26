@@ -126,30 +126,22 @@ My focus is **defensive security** — understanding how threats are **detected,
 <hr>
 
 ## 🏅 Certifications & Professional Training
-
-- **EduQual RQF Level 3 Diploma in Cloud Cyber Security** — *Al-Nafi International College*  
-- **Cyber Security Student Internship** — *Al-Nafi International College*  
-
-- **ISO/IEC 27001:2022 Lead Auditor** — *Mastermind*  
-- **ISC2 Certified in Cybersecurity (CC)**  
-
-- **SOC Analyst & Cybersecurity Job Simulations** — *TATA, Deloitte, AIG, Datacom, Telstra* (Forage)  
-- **Cybersecurity Analyst Job Simulation** — *TATA*  
-- **Cybersecurity Operations & Defense** — *Datacom, AIG*  
-
-- **Cybersecurity Fundamentals & SOC in Practice** — *IBM SkillsBuild*  
-- **Enterprise Security in Practice** — *IBM SkillsBuild*  
-- **Threat Intelligence & Hunting Fundamentals** — *IBM SkillsBuild*  
-- **Artificial Intelligence Fundamentals** — *IBM SkillsBuild*  
-
-- **Data Analytics Essentials** — *Cisco Networking Academy*  
-- **Introduction to Data Science** — *Cisco Networking Academy*  
-
-- **Certified Phishing Prevention Specialist (CPPS)** — *Hack & Fix*  
-
-- **AI Masterclass & Workshops** — *Dhruv Rathee Academy, GrowthSchool, be10x*  
+- **EduQual RQF Level 3 Diploma in Cloud Cyber Security** — *Al-Nafi International College*
+- **Cyber Security Student Internship** — *Al-Nafi International College*
+- **ISO/IEC 27001:2022 Lead Auditor** — *Mastermind*
+- **ISC2 Certified in Cybersecurity (CC)**
+- **SOC Analyst & Cybersecurity Job Simulations** — *TATA, Deloitte, AIG, Datacom, Telstra* (Forage)
+- **Cybersecurity Analyst Job Simulation** — *TATA*
+- **Cybersecurity Operations & Defense** — *Datacom, AIG*
+- **Cybersecurity Fundamentals & SOC in Practice** — *IBM SkillsBuild*
+- **Enterprise Security in Practice** — *IBM SkillsBuild*
+- **Threat Intelligence & Hunting Fundamentals** — *IBM SkillsBuild*
+- **Artificial Intelligence Fundamentals** — *IBM SkillsBuild*
+- **Data Analytics Essentials** — *Cisco Networking Academy*
+- **Introduction to Data Science** — *Cisco Networking Academy*
+- **Certified Phishing Prevention Specialist (CPPS)** — *Hack & Fix*
+- **AI Masterclass & Workshops** — *Dhruv Rathee Academy, GrowthSchool, be10x*
 - **Data Analytics Job Simulation** — *Deloitte*
-
 
 <!-- ===================== MOST USED ===================== -->
 
