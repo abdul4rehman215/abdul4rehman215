@@ -12,7 +12,7 @@
     alt="Typing SVG"
   />
 </div>
-
+---
 <h3 align="center">
 🔐 Cybersecurity Student • 🛡 SOC & SIEM Practitioner • 🐧 Linux Security • Aspiring SOC Analyst
 </h3>
