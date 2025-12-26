@@ -13,7 +13,7 @@
   />
 </div>
 
-<hr>
+<hr style="border: none; border-top: 1px solid #30363d;">
 
 <h3 align="center">
 🔐 Cybersecurity Student • 🛡 SOC & SIEM Practitioner • 🐧 Linux Security • Aspiring SOC Analyst
