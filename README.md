@@ -69,8 +69,10 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Data Security" width="400"
-src="https://raw.githubusercontent.com/abdul4rehman215/abdul4rehman215/main/DATA%20SECURITY.gif" />
+<img align="right"
+     alt="Cybersecurity"
+     width="400"
+     src="https://raw.githubusercontent.com/abdul4rehman215/abdul4rehman215/main/original-d83a738728eebaed199dfac800acb20c.gif" />
 
 ```yaml
 - Role: Cloud Cybersecurity Student | SOC & SIEM Practitioner  
