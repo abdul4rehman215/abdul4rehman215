@@ -6,9 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cyber+Security+%7C+SOC+Operations;SIEM+Monitoring+with+Wazuh;Threat+Detection+%26+Incident+Response;Continuous+Learning+%26+Hands-on+Labs" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;SOC+Operations;SIEM+Monitoring+with+Wazuh;Threat+Detection;Incident+Response;Continuous+Learning+Hands-on+Labs)](https://git.io/typing-svg)
 
 <h3 align="center" style="color:#58a6ff;">
 🔐 Cybersecurity Student • 🛡 SOC & SIEM Practitioner • 🐧 Linux Security • Aspiring SOC Analyst • 🤖 AI Automation 
