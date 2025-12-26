@@ -192,29 +192,140 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <!-- ===================== TOOLSET ===================== -->
 
-## 🧩 Complete Toolset Reference
+## 🔧 Complete Toolset Reference
 
 <details>
-<summary><strong>🔎 Monitoring & Logging</strong></summary>
+<summary><b>🛠️ Monitoring & Logging Arsenal (Click to expand)</b></summary>
 
-- Wazuh, ELK Stack, Kibana, Splunk  
-- Log analysis, alert tuning, dashboards  
+### 🔎 SIEM & Monitoring Platforms
+- **Wazuh** — SIEM, endpoint monitoring, FIM, vulnerability detection
+- **ELK Stack** — Elasticsearch, Logstash, Kibana
+- **Kibana** — Log visualization & dashboards
+- **Splunk** — Log analysis & security monitoring
+- **Microsoft Sentinel** — Cloud SIEM (learning exposure)
+
+### 🗂️ Log Collection & Analysis
+- **Elasticsearch** — Log indexing & search
+- **Logstash** — Log ingestion & parsing
+- **Wazuh Decoders & Rules** — Event classification
+- **Alert Tuning** — Noise reduction & relevance filtering
+
+### 🧠 Threat Intelligence & SOC Context
+- **TheHive** — Incident & case management
+- **MISP** — IOC enrichment (IPs, domains, hashes)
+- **MITRE ATT&CK** — Technique mapping & analysis
 
 </details>
 
 <details>
-<summary><strong>🛡️ Network & Security Tools</strong></summary>
+<summary><b>🔒 Network Security & Penetration Testing Tools (Click to expand)</b></summary>
 
-- Wireshark, Nmap, Metasploit, Burp Suite, Nessus  
-- Vulnerability scanning & basic penetration testing  
+### 🛡️ Firewalls & Network Security
+- **pfSense** - Open source firewall
+
+### 🔍 Vulnerability Assessment
+- **OpenVAS** - Vulnerability scanner
+- **Qualys** - Cloud security & compliance
+- **Nessus** - Vulnerability scanner
+- **Burp Suite ** - Web application security
+
+### 🔴 Penetration Testing
+- **Metasploit** - Penetration testing framework
+- **Kali Linux** - Penetration testing distribution
+
+### 🔐 Security Tools
+- **Wireshark** - Network protocol analyzer
+- **NMAP** - Network discovery
+- **OSSEC** - Host-based intrusion detection
 
 </details>
 
 <details>
-<summary><strong>⚙️ System & Automation</strong></summary>
+<summary><b>💻 Command Line Tools & Utilities (Click to expand)</b></summary>
 
-- Linux CLI, Bash, Python automation  
-- System hardening & monitoring  
+### ☁️ Cloud CLI Tools
+- **AWS CLI** - Amazon Web Services command line
+- **ansible** - Automation tool
+
+### 🐳 Container Tools
+- **docker** - Container management
+- **kubectl** - Kubernetes command line
+- **Podman** - Daemonless container engine
+
+### 📜 Scripting Languages
+- **Linux** - Command Line Interface
+- **bash** - Bourne Again Shell
+- **vim/nano** - Text editor
+- **python** - Python interpreter
+- **Jupyter Console** – Lightweight Interactive command-line Python shell interface 
+
+### 🔍 Network Tools
+- **curl** - Transfer data with URLs
+- **wget** - Network downloader
+- **nmap** - Network exploration tool
+- **netcat (nc)** - Networking utility
+- **tcpdump** - Network packet analyzer
+- **dig** - DNS lookup utility
+- **traceroute** - Network path tracer
+- **ping** - Network connectivity test
+- **ip** - Network configuration
+
+### 🔐 Security Tools
+- **ssh** - Secure Shell
+- **openssl** - SSL/TLS toolkit
+- **fail2ban** - Intrusion prevention
+- **ufw** - Uncomplicated Firewall
+
+### 📊 Monitoring CLI
+- **htop** - Interactive process viewer
+- **top** - Process monitoring
+- **iotop** - I/O monitoring
+- **dstat** - System statistics
+
+</details>
+
+<details>
+<summary><b>📊 Data Science – Jupyter Notebook (Click to expand)</b></summary>
+
+### 🧪 Data Analysis & Exploration
+- **Jupyter Notebook** – Interactive environment for writing, running, and documenting Python code
+- **Jupyter Console** – Lightweight Interactive command-line Python shell interface 
+- **Pandas** – Data manipulation, cleaning, filtering, and aggregation
+- **NumPy** – Numerical computing with arrays and vectorized operations
+
+### 📈 Data Visualization & Storytelling
+- **Matplotlib** – Static and low-level data visualizations
+- **Seaborn** – Statistical visualizations with clean aesthetics
+- **Plotly** – Interactive charts and dashboards
+- **Bokeh** – Interactive visual analytics
+- **Jupyter Markdown & LaTeX** – Narrative reporting and data storytelling
+
+### 📊 Statistics & Probability
+- **Pandas Statistics** – Descriptive statistics and exploratory metrics
+- **SciPy / Stats Concepts** – Hypothesis testing and statistical validation
+- **Anomaly Detection** – Identifying irregular patterns in transactional and log data
+
+### 🤖 Machine Learning
+- **scikit-learn** – Regression, classification, clustering, and model evaluation
+- **Feature Engineering** – Data preprocessing and transformation
+- **Model Validation** – Cross-validation and performance comparison
+- **Recommendation Systems** – Practical ML use cases
+
+### 🧠 Applied NLP (Security-Oriented Use Cases)
+- **NLTK** – Text preprocessing and tokenization
+- **spaCy** – Named Entity Recognition and linguistic analysis
+- **NLP for Logs** – Analyzing cybersecurity logs and unstructured text
+
+### ⏱️ Time Series & Forecasting
+- **Time Series Decomposition** – Trend and seasonality analysis
+- **ARIMA / SARIMA** – Statistical forecasting models
+- **Prophet** – Business and operational forecasting
+- **Predictive Analytics** – Forecasting for logistics, finance, and operations
+
+### 🛠️ Reporting & Automation
+- **Jupyter Reporting** – Exporting notebooks to HTML/PDF
+- **Python Automation** – API data retrieval and scripted analysis
+- **Reproducible Research** – End-to-end documented workflows
 
 </details>
 
