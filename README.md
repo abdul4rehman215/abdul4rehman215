@@ -14,7 +14,7 @@
 </div>
 
 <h3 align="center">
-🔐 Cybersecurity Student • 🛡 SOC & SIEM Practitioner • 🐧 Linux Security • Aspiring SOC Analyst • 🤖 AI Automation
+🔐 Cybersecurity Student • 🛡 SOC & SIEM Practitioner • 🐧 Linux Security • Aspiring SOC Analyst
 </h3>
 
 <p align="center">
