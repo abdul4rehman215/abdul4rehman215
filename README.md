@@ -484,7 +484,7 @@ My focus is **defensive security** — understanding how threats are **detected,
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-84-58CC02?style=for-the-badge&logo=duolingo" alt="English Duolingo Score" />
+  <img src="https://img.shields.io/badge/English-85-58CC02?style=for-the-badge&logo=duolingo" alt="English Duolingo Score" />
   <img src="https://img.shields.io/badge/Dec%202025-Limited%20Working%20Proficiency-EE0000?style=for-the-badge" alt="English Proficiency" />
 </p>
 
