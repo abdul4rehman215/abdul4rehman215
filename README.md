@@ -167,11 +167,6 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <!-- ===================== MOST USED ===================== -->
 
-<!-- p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul4rehman215&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false&langs_count=10" />
-</p>
--->
-
 <hr>
 
 ## 🛠 Practical SOC & Security Exposure
@@ -212,6 +207,10 @@ My focus is **defensive security** — understanding how threats are **detected,
 - **Certified Phishing Prevention Specialist (CPPS)** — *Hack & Fix*
 - **AI Masterclass & Workshops** — *Dhruv Rathee Academy, GrowthSchool, be10x*
 - **Data Analytics Job Simulation** — *Deloitte*
+
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/abdul4rehman215.png" alt="Your Image Badge" />
+</p>
 
 <hr>
 
