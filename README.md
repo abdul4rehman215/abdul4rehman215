@@ -31,6 +31,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
+  
   <a href="https://twitter.com/abdul4rehman215">
      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
   </a>
@@ -556,7 +557,12 @@ Simple scripts for log parsing, basic checks, and SOC workflow support (learning
   <a href="https://github.com/abdul4rehman215">
     <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
   </a>
+
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abdul4rehman215" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow LinkedIn"/>
+  </a>
 </p>
+
 <hr>
 
 <!-- ===================== QUOTE ===================== -->
