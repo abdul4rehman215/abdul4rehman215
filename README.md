@@ -195,10 +195,8 @@ My focus is **defensive security** — understanding how threats are **detected,
 - **EduQual RQF Level 3 Diploma in Cloud Cyber Security** — *Al-Nafi International College*
 - **Cyber Security Internship** — *Al-Nafi International College*
 - **ISO/IEC 27001:2022 Lead Auditor** — *Mastermind*
-- **ISC2 Certified in Cybersecurity (CC)**
-- **SOC Analyst & Cybersecurity Job Simulations** — *TATA, Deloitte, AIG, Datacom, Telstra* (Forage)
-- **Cybersecurity Analyst Job Simulation** — *TATA*
-- **Cybersecurity Operations & Defense** — *Datacom, AIG*
+- **Certified in Cybersecurity (CC)** — *ISC2*
+- **SOC Analyst & Cybersecurity Job Simulations** — *TATA, Deloitte, AIG, Datacom, Telstra, Datacom, Commonwealth Bank* (Forage)
 - **Cybersecurity Fundamentals & SOC in Practice** — *IBM SkillsBuild*
 - **Enterprise Security in Practice** — *IBM SkillsBuild*
 - **Threat Intelligence & Hunting Fundamentals** — *IBM SkillsBuild*
@@ -210,7 +208,7 @@ My focus is **defensive security** — understanding how threats are **detected,
 - **Data Analytics Job Simulation** — *Deloitte*
 
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/abdul4rehman215.png" alt="Your Image Badge" />
+<!--<img src="https://tryhackme-badges.s3.amazonaws.com/abdul4rehman215.png" alt="Your Image Badge" />-->
 </p>
 
 <hr>
