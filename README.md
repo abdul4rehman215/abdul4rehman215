@@ -209,6 +209,11 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 <p align="center">
 <!--<img src="https://tryhackme-badges.s3.amazonaws.com/abdul4rehman215.png" alt="Your Image Badge" />-->
+   <a href="https://www.credly.com/users/abdul4rehman215" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Verified%20Badges-success?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+   <a href="https://www.credly.com/users/abdul4rehman215" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Certifications-black?style=for-the-badge&logo=credly&logoColor=orange" />
 </p>
 
 <hr>
@@ -477,12 +482,12 @@ My focus is **defensive security** — understanding how threats are **detected,
 ### 🟢 Duolingo Language Scores
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arabic-12-58CC02?style=for-the-badge&logo=duolingo" alt="Arabic Duolingo Score" />
+  <img src="https://img.shields.io/badge/Arabic-13-58CC02?style=for-the-badge&logo=duolingo" alt="Arabic Duolingo Score" />
   <img src="https://img.shields.io/badge/Dec%202025-Elementary%20Proficiency-326CE5?style=for-the-badge" alt="Arabic Proficiency" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-85-58CC02?style=for-the-badge&logo=duolingo" alt="English Duolingo Score" />
+  <img src="https://img.shields.io/badge/English-86-58CC02?style=for-the-badge&logo=duolingo" alt="English Duolingo Score" />
   <img src="https://img.shields.io/badge/Dec%202025-Limited%20Working%20Proficiency-EE0000?style=for-the-badge" alt="English Proficiency" />
 </p>
 
