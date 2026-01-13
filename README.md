@@ -210,7 +210,7 @@ My focus is **defensive security** — understanding how threats are **detected,
 <p align="center">
 <!--<img src="https://tryhackme-badges.s3.amazonaws.com/abdul4rehman215.png" alt="Your Image Badge" />-->
    <a href="https://www.credly.com/users/abdul4rehman215" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-Verified%20Badges-success?style=for-the-badge&logo=credly&logoColor=white" />
+    <img src="https://img.shields.io/badge/Credly-Verified%20Badges-success?style=for-the-badge&logo=credly&logoColor=orange" />
   </a>
    <a href="https://www.credly.com/users/abdul4rehman215" target="_blank">
     <img src="https://img.shields.io/badge/Credly-Certifications-black?style=for-the-badge&logo=credly&logoColor=orange" />
