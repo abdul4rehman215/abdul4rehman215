@@ -107,13 +107,13 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 ### 🔐 Security, SOC & Threat Detection
 <p align="left">
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&logo=mitre&logoColor=white" />
   <img src="https://img.shields.io/badge/MISP-2C3E50?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-1679A7?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" />
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&logo=mitre&logoColor=white" />
 </p>
 
 ### 📊 SIEM, Logging & Case Management
@@ -125,12 +125,12 @@ My focus is **defensive security** — understanding how threats are **detected,
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSSEC-2E2E2E?style=for-the-badge&logo=linux&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/OSSEC-2E2E2E?style=for-the-badge&logo=linux&logoColor=white" />-->
 </p>
 
 ### 🌐 Networking & Traffic Analysis
 <p align="left">
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />-->
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -487,7 +487,7 @@ My focus is **defensive security** — understanding how threats are **detected,
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-86-58CC02?style=for-the-badge&logo=duolingo" alt="English Duolingo Score" />
+  <img src="https://img.shields.io/badge/English-87-58CC02?style=for-the-badge&logo=duolingo" alt="English Duolingo Score" />
   <img src="https://img.shields.io/badge/Dec%202025-Limited%20Working%20Proficiency-EE0000?style=for-the-badge" alt="English Proficiency" />
 </p>
 
