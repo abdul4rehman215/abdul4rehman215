@@ -95,20 +95,19 @@ My focus is **defensive security** — understanding how threats are **detected,
 ### ☁️ Cloud & Platform Security
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />-->
 </p>
 
 ### 🐳 Containers & Runtime
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubectl-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<!--<img src="https://img.shields.io/badge/Kubectl-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />-->
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
 </p>
 
 ### 🔐 Security, SOC & Threat Detection
 <p align="left">
-  <img src="https://img.shields.io/badge/Wazuh-326CE5?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSSEC-2E2E2E?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MISP-2C3E50?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-1679A7?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
@@ -119,13 +118,14 @@ My focus is **defensive security** — understanding how threats are **detected,
 
 ### 📊 SIEM, Logging & Case Management
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-326CE5?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/TheHive-F5B041?style=for-the-badge&logo=thehive&logoColor=black" />
+  <!--<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />-->
   <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TheHive-F5B041?style=for-the-badge&logo=thehive&logoColor=black" />
-  <img src="https://img.shields.io/badge/MISP-2C3E50?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSSEC-2E2E2E?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ### 🌐 Networking & Traffic Analysis
