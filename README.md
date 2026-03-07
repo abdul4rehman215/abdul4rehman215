@@ -720,6 +720,154 @@ That is why I’m actively growing in:
 
 <hr />
 
+<!-- ===================== CAPSTONE ARCHITECTURE & WORKFLOW ===================== -->
+
+## 🏗️ Capstone Architecture & Workflow
+
+This section highlights the **end-to-end architecture, analyst workflow, and threat-intelligence feedback loop** behind my SOC / SOAR capstone work using **Wazuh, TheHive, Cortex, MISP, AWS, and Sysmon**.
+
+### 🔍 End-to-End SOC Analyst Workflow
+
+<p align="center">
+  <img src="https://github.com/abdul4rehman215/abdul4rehman215/blob/main/resources/soc-soar-workflow-1-profilereadme.png" alt="SOC Analyst End-to-End Workflow" width="100%" />
+</p>
+
+<details>
+<summary><b>🧩 View SOC / SOAR Architecture Pipeline Diagram</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/abdul4rehman215/abdul4rehman215/blob/main/resources/soc-soar-architecture-2-profilereadme.png" alt="SOC SOAR Architecture Workflow" width="100%" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📐 View Mermaid Workflow Diagram</b></summary>
+
+<br>
+
+```mermaid
+flowchart LR
+  %% =========================================================
+  %% SOC + SOAR + TI — End-to-End Workflow (Swimlanes, Boxed)
+  %% with stronger lane separators (GitHub Mermaid friendly)
+  %% =========================================================
+
+  A_ENR[" "]:::anchor
+  A_IR[" "]:::anchor
+  A_TI[" "]:::anchor
+  A_FB1[" "]:::anchor
+  A_FB2[" "]:::anchor
+
+  F1[" "]:::frame
+  F2[" "]:::frame
+  F3[" "]:::frame
+  F4[" "]:::frame
+  F5[" "]:::frame
+  F6[" "]:::frame
+
+  F1 -.-> F2
+  F2 -.-> F3
+  F3 -.-> F4
+  F4 -.-> F5
+  F5 -.-> F6
+
+  subgraph L1[" "]
+    direction TB
+    H1["🪟 Endpoint"]:::laneHeader
+    SIM["🧨 Controlled Attack Simulation<br/>PowerShell • DNS • File Drop • Persistence • Network"]:::stage
+    ENDPOINT["Sysmon + Wazuh Agent<br/>Telemetry collection"]:::stage
+    H1 --> SIM --> ENDPOINT --> F1
+  end
+
+  subgraph L2[" "]
+    direction TB
+    H2["🛡️ SIEM / XDR (Wazuh)"]:::laneHeader
+    WAZ["Wazuh Manager<br/>Rules • Correlation • Alerts"]:::stage
+    IDX["Wazuh Indexer<br/>OpenSearch"]:::stage
+    WDASH["Wazuh Dashboard<br/>Hunting • Evidence • Discover"]:::stage
+    H2 --> WAZ --> IDX --> WDASH --> F2
+  end
+
+  subgraph L3[" "]
+    direction TB
+    H3["👨‍💻 SOC Analyst"]:::laneHeader
+    ANALYST["Triage + Investigation<br/>Review ➜ Correlate ➜ Extract IOCs"]:::human
+    GATE["Decision Gate<br/>True Positive confirmed?"]:::decision
+    H3 --> ANALYST --> GATE --> F3
+  end
+
+  subgraph L4[" "]
+    direction TB
+    H4["🗂️ Case Mgmt + SOAR (TheHive + Cortex)"]:::laneHeader
+    THEHIVE["TheHive Case<br/>Alert ➜ Case ➜ Tasks ➜ Timeline"]:::stage
+    OBS["Observables / IOCs<br/>Hash • Domain • IP • URL • File • Registry"]:::stage
+    CORTEX["Cortex Automation<br/>Analyzers / Responders"]:::stage
+    ENR["Enrichment Results<br/>VT • OTX • MISP lookups etc."]:::stage
+    MITRE["MITRE ATT&CK Mapping<br/>Evidence ➜ Techniques ➜ TTPs"]:::stage
+
+    H4 --> THEHIVE --> OBS --> A_ENR
+    A_ENR --> CORTEX --> ENR --> A_ENR
+    ENR --> THEHIVE
+    THEHIVE --> MITRE --> A_IR --> F4
+  end
+
+  subgraph L5[" "]
+    direction TB
+    H5["🛠️ Incident Response"]:::laneHeader
+    IRFLOW["IR Lifecycle<br/>Identify ➜ Analyze ➜ Contain ➜ Eradicate ➜ Recover ➜ Review"]:::ir
+    ACTIONS["Endpoint Actions<br/>Triage • Kill proc • Block C2 • Remove persistence • Export EVTX"]:::action
+    CLOSE["Case Closure<br/>Final report • Timeline • Metrics • Lessons learned"]:::outcome
+
+    H5 --> IRFLOW --> ACTIONS --> IRFLOW
+    IRFLOW --> CLOSE --> A_TI --> F5
+  end
+
+  subgraph L6[" "]
+    direction TB
+    H6["🧠 Threat Intelligence (MISP)"]:::laneHeader
+    MISP["MISP Event<br/>Validated IOCs + Tags + Context"]:::ti
+    SHARE["Share / Reuse<br/>Correlation • Community • Future detections"]:::ti
+    H6 --> MISP --> SHARE --> F6
+  end
+
+  ENDPOINT -->|📤 Sysmon telemetry| WAZ
+  WDASH --> ANALYST
+  GATE -->|📌 Escalate IOCs + evidence| THEHIVE
+  A_IR --> IRFLOW
+  A_TI -->|✅ Export validated IOCs| MISP
+
+  SHARE -.-> A_FB1 -.->|♻️ Improve detections| WAZ
+  SHARE -.-> A_FB2 -.->|🔍 Faster correlation| WDASH
+
+  OUT["🏁 Outcome<br/>End-to-end SOC workflow + SOAR automation + TI feedback loop"]:::outcome
+  CLOSE --> OUT
+
+  classDef laneHeader fill:#0b1220,stroke:#94a3b8,stroke-width:3px,stroke-dasharray: 6 4,color:#e5e7eb;
+  classDef stage fill:#111827,stroke:#475569,stroke-width:1px,color:#e5e7eb;
+  classDef human fill:#0f172a,stroke:#22c55e,stroke-width:1px,color:#e5e7eb;
+  classDef decision fill:#0f172a,stroke:#f59e0b,stroke-width:2px,color:#e5e7eb;
+  classDef ir fill:#0f172a,stroke:#60a5fa,stroke-width:1px,color:#e5e7eb;
+  classDef action fill:#0f172a,stroke:#ef4444,stroke-width:1px,color:#e5e7eb;
+  classDef ti fill:#0f172a,stroke:#a78bfa,stroke-width:1px,color:#e5e7eb;
+  classDef outcome fill:#0f172a,stroke:#14b8a6,stroke-width:2px,color:#e5e7eb;
+
+  classDef anchor fill:transparent,stroke:transparent,color:transparent;
+  classDef frame fill:transparent,stroke:transparent,color:transparent;
+
+  class A_ENR,A_IR,A_TI,A_FB1,A_FB2 anchor;
+  class F1,F2,F3,F4,F5,F6 frame;
+
+  linkStyle 0 stroke:#94a3b8,stroke-width:4px,stroke-dasharray:10 6,opacity:0.95;
+  linkStyle 1 stroke:#94a3b8,stroke-width:4px,stroke-dasharray:10 6,opacity:0.95;
+  linkStyle 2 stroke:#94a3b8,stroke-width:4px,stroke-dasharray:10 6,opacity:0.95;
+  linkStyle 3 stroke:#94a3b8,stroke-width:4px,stroke-dasharray:10 6,opacity:0.95;
+  linkStyle 4 stroke:#94a3b8,stroke-width:4px,stroke-dasharray:10 6,opacity:0.95;
+```
+</details> <hr> 
+
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 ## 📊 GitHub Analytics
