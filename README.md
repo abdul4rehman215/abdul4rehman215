@@ -157,6 +157,41 @@ I also completed a **full-year student internship** alongside my cybersecurity s
 
 <hr>
 
+<!-- ===================== FULL SKILL MATRIX ===================== -->
+
+## 📊 Full Skill Matrix
+
+This matrix reflects my **portfolio-wide hands-on implementation** across SOC operations, SIEM, Linux security, AWS monitoring, incident response, automation, AI automation, and analytics.
+
+> Exposure bars reflect practical breadth across repositories, capstones, self-built labs, workflow experiments, and documented hands-on projects.
+
+| Skill Area | Exposure Level | Practical Depth | Tools / Frameworks Used |
+|---|---:|---|---|
+| 🛡️ SOC Operations & Alert Triage | ██████████ **100%** | Alert triage, investigation logic, false-positive review, escalation context, analyst-style documentation | Wazuh, TheHive, MITRE ATT&CK |
+| 📊 SIEM Monitoring & Detection Engineering | ██████████ **100%** | Wazuh monitoring, rules, decoders, FIM, alert visibility, validation, detection-focused workflows | Wazuh, ELK, Kibana, Sysmon |
+| 🧾 Incident Response & Case Documentation | █████████░ **95%** | Alert-to-case thinking, response notes, investigation timelines, lessons learned, structured reporting | TheHive, MISP, SOC reporting workflows |
+| 🧠 Threat Intelligence & ATT&CK Mapping | █████████░ **95%** | IOC enrichment, ATT&CK mapping, investigation context building, alert enrichment support | MISP, Cortex, VirusTotal, MITRE ATT&CK |
+| 🐧 Linux Security & System Hardening | ██████████ **100%** | SSH hardening, permissions, services, auditing, logging, firewalling, admin troubleshooting | Linux, Ubuntu, Debian, RHEL, auditd, ufw, fail2ban |
+| ☁️ AWS Security Monitoring & Cloud Visibility | █████████░ **90%** | CloudTrail monitoring, IAM activity awareness, cloud event visibility, AWS lab security observation | AWS, CloudTrail, AWS CLI |
+| 🧪 Vulnerability Assessment & Security Validation | █████████░ **90%** | Vulnerability review, hardening validation, scan interpretation, security posture improvement thinking | Nessus, OpenVAS, CIS benchmarks |
+| 🌐 Web / Network Security Observation | ████████░░ **85%** | Traffic review, service visibility, Nginx / web log observation, safe testing-lab workflows | Wireshark, Nmap, Burp Suite, OWASP ZAP, Nginx, pfSense |
+| ⚙️ Scripting, Workflow Support & Automation | █████████░ **90%** | Bash/Python helper scripts, admin automation, log parsing, repeatable workflow execution | Python, Bash, PowerShell, Ansible |
+| 🤖 AI Automation & Agentic Workflows | ████████░░ **85%** | n8n workflow prototyping, prompt engineering, context design, agentic experiments, AI-assisted task automation | n8n, LLM workflows, RAG concepts, vector workflows |
+| 🎩 RHEL, Containers & Admin Automation | ████████░░ **85%** | Enterprise-style administration exposure, container workflows, operational consistency, system management | RHEL, Podman, Docker, Kubernetes, OpenShift |
+| 📈 Data Analytics & Security-Oriented Analysis | ████████░░ **85%** | Python-based analysis, data handling, visualization, statistics, ML/NLP foundations, analytical reasoning | Jupyter, Pandas, NumPy, Matplotlib, scikit-learn |
+
+## 🔍 Proficiency Scale
+
+- ██████████ = High practical exposure across multiple repositories, labs, capstones, and repeat implementations
+- █████████░ = Strong applied experience with clear portfolio depth and documented workflows
+- ████████░░ = Solid working implementation with growing depth and continued expansion
+
+This matrix reflects **overall portfolio capability**, not one isolated repository — covering:
+
+> SOC → Detection → Investigation → Enrichment → Hardening → Monitoring → Automation → Documentation → Continuous Improvement
+
+<hr>
+
 <!-- ===================== CORE FOCUS ===================== -->
 
 ## 🎯 Core Focus Areas
