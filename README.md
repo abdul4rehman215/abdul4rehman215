@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Portfolio-20%2B%20Repositories-1F6FEB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS%20LABS-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/40%2B%20SELF--BUILT%20PROJECTS-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hands--On-700%2B%20Labs%20%26%20Projects-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hands--On-700%2B%20Labs-238636?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation-10%2B%20n8n%20Workflows-F97316?style=for-the-badge" />
 </p>
 
