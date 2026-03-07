@@ -20,8 +20,12 @@
 </h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Slogan-Automating%20Smarter%20Security%20Operations-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mission-AI%20Automation%20for%20Security%20Operations-0A66C2?style=for-the-badge" />
+  <!--
   <img src="https://img.shields.io/badge/Slogan-Automate%20Everything-7B61FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mission-AI%20Automation%20for%20Security%20Operations-0A66C2?style=for-the-badge" />
+  -->
 </p>
 
 <p align="center">
