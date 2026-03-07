@@ -20,6 +20,11 @@
 </h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Built%20From%20Scratch-Self--Made%20Knowledge%20%26%20Experience-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built%20From%20Scratch-Skills%20Forged%20Through%20Hands--On%20Work-8B0000?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Slogan-Automate%20Everything-7B61FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mission-AI%20Automation%20for%20Security%20Operations-0A66C2?style=for-the-badge" />
   
@@ -1273,6 +1278,13 @@ Support for **building portfolio labs, documenting projects clearly, structuring
     “In cybersecurity, continuous learning is not optional — it is survival.”
   </em><br>
   — Bruce Schneier
+</p>
+
+<p align="center">
+  <em>
+    “A man who builds from scratch never fears loss, because what made him cannot be taken away: knowledge, experience, and resilience.”
+  </em><br>
+  — Mastering Manhood
 </p>
 
 <!-- ===================== FOOTER ===================== -->
