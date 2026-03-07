@@ -38,13 +38,6 @@
   <img src="https://img.shields.io/badge/Automation-10%2B%20n8n%20Workflows-F97316?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20SIEM%20%7C%20Linux%20Security-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Portfolio-20%2B%20Repositories-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hands--On-700%2B%20Labs%20%26%20Projects-238636?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-10%2B%20n8n%20Workflows-F97316?style=for-the-badge" />
-</p>
-
 <hr>
 
 <!-- ===================== CONNECT ===================== -->
@@ -128,6 +121,7 @@ Over time, I’ve built and documented work across:
 * **TheHive / MISP / Cortex workflows**
 * **Linux security hardening and administration**
 * **AWS CloudTrail monitoring and cloud activity visibility**
+* **Java-based cloud integration labs and backend workflow development**
 * **Incident response simulations and case documentation**
 * **Vulnerability validation and security review**
 * **Python / Bash / Ansible automation**
@@ -173,6 +167,7 @@ This matrix reflects my **portfolio-wide hands-on implementation** across SOC op
 | 🧠 Threat Intelligence & ATT&CK Mapping | █████████░ **95%** | IOC enrichment, ATT&CK mapping, investigation context building, alert enrichment support | MISP, Cortex, VirusTotal, MITRE ATT&CK |
 | 🐧 Linux Security & System Hardening | ██████████ **100%** | SSH hardening, permissions, services, auditing, logging, firewalling, admin troubleshooting | Linux, Ubuntu, Debian, RHEL, auditd, ufw, fail2ban |
 | ☁️ AWS Security Monitoring & Cloud Visibility | █████████░ **90%** | CloudTrail monitoring, IAM activity awareness, cloud event visibility, AWS lab security observation | AWS, CloudTrail, AWS CLI |
+| ☕ Java & Cloud Integration | ████████░░ **85%** | Java-based cloud integration labs, backend service workflows, practical implementation, and integration-oriented development exposure | Java, backend integration labs, cloud workflows |
 | 🧪 Vulnerability Assessment & Security Validation | █████████░ **90%** | Vulnerability review, hardening validation, scan interpretation, security posture improvement thinking | Nessus, OpenVAS, CIS benchmarks |
 | 🌐 Web / Network Security Observation | ████████░░ **85%** | Traffic review, service visibility, Nginx / web log observation, safe testing-lab workflows | Wireshark, Nmap, Burp Suite, OWASP ZAP, Nginx, pfSense |
 | ⚙️ Scripting, Workflow Support & Automation | █████████░ **90%** | Bash/Python helper scripts, admin automation, log parsing, repeatable workflow execution | Python, Bash, PowerShell, Ansible |
@@ -450,8 +445,17 @@ That is why I’m actively growing in:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+### ☕ Java & Integration Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Labs-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Integration-0EA5E9?style=for-the-badge" />
 </p>
 
 ### 🤖 AI Automation, Agentic Workflows & Prompting
@@ -514,6 +518,13 @@ That is why I’m actively growing in:
 * IAM-related event awareness
 * monitoring cloud actions in lab environments
 * cloud security observation and documentation
+
+### ☕ Java & Cloud Integration Labs
+
+* Java-based cloud integration lab work
+* backend workflow understanding and service interaction
+* practical implementation exposure through integration-focused labs
+* growing development-side understanding alongside security operations
 
 ### 🤖 AI Automation & Workflow Prototyping
 
