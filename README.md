@@ -20,7 +20,9 @@
 </h3>
 
 <p align="center">
+  <!--
   <img src="https://img.shields.io/badge/Built%20From%20Scratch-Self--Made%20Knowledge%20%26%20Experience-8B0000?style=for-the-badge" />
+  -->
   <img src="https://img.shields.io/badge/Built%20From%20Scratch-Skills%20Forged%20Through%20Hands--On%20Work-8B0000?style=for-the-badge" />
 </p>
 
