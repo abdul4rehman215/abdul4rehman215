@@ -885,6 +885,20 @@ flowchart LR
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdul4rehman215&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul4rehman215&theme=highcontrast&hide_border=false&border=00ff00&ring=00ff00&fire=ff6b6b&currStreakLabel=00ff00" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul4rehman215&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false&langs_count=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abdul4rehman215&theme=react_dark&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false&border_color=00ff00" alt="Contribution Graph" />
+</p>
+
+<!--
+<p align="center">
    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdul4rehman215&show_icons=true&theme=algolia&bg_color=0d1117&title_color=00ff00&icon_color=ffffff&text_color=ffffff&border_color=00ff00&hide_border=false&langs_count=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
@@ -896,6 +910,7 @@ flowchart LR
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=abdul4rehman215&theme=react_dark&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false&border_color=00ff00" alt="Contribution Graph" />
 </p>
+-->
 
 <details>
 <summary><b>📈 More GitHub Metrics</b></summary>
