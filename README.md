@@ -647,8 +647,8 @@ That is why I’m actively growing in:
         <li>Documented findings in a portfolio-first, investigation-driven format</li>
       </ul>
       <p align="left">
-        <a href="https://github.com/abdul4rehman215?tab=repositories&q=malware">
-          <img src="https://img.shields.io/badge/GitHub-Project%20Search-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Malware Project Search" />
+        <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/19-capstone-soc-soar-malware-incident-response/part01-windows-malware-detection-and-analysis">
+          <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Malware Project" />
         </a>
         <a href="https://www.linkedin.com/posts/abdul4rehman215_soc-capstone-project-malware-detection-and-activity-7430280092578172943-Avqu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
           <img src="https://img.shields.io/badge/LinkedIn-Post%2001-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Post 01" />
@@ -664,8 +664,8 @@ That is why I’m actively growing in:
         <li>Strengthened IR workflow discipline through hands-on portfolio labs</li>
       </ul>
       <p align="left">
-        <a href="https://github.com/abdul4rehman215?tab=repositories&q=incident">
-          <img src="https://img.shields.io/badge/GitHub-Project%20Search-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Incident Response Project Search" />
+        <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/19-capstone-soc-soar-malware-incident-response/part02-incident-response-case-management-threat-intel">
+          <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Incident Response Project" />
         </a>
         <a href="https://www.linkedin.com/posts/abdul4rehman215_soc-capstone-project-incident-response-activity-7430997244033658880-uzzZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
           <img src="https://img.shields.io/badge/LinkedIn-Post%2002-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Post 02" />
@@ -1175,7 +1175,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-87-58CC02?style=for-the-badge&logo=duolingo" alt="English Duolingo Score" />
+  <img src="https://img.shields.io/badge/English-88-58CC02?style=for-the-badge&logo=duolingo" alt="English Duolingo Score" />
   <img src="https://img.shields.io/badge/Dec%202025-Limited%20Working%20Proficiency-EE0000?style=for-the-badge" alt="English Proficiency" />
 </p>
 
