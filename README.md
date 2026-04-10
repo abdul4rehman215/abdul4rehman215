@@ -687,8 +687,8 @@ That is why I’m actively growing in:
         <li>Showcased operational thinking beyond single-tool deployment</li>
       </ul>
       <p align="left">
-        <a href="https://github.com/abdul4rehman215?tab=repositories&q=wazuh">
-          <img src="https://img.shields.io/badge/GitHub-SOC%20%2B%20SOAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub SOC SOAR Search" />
+        <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/19-capstone-soc-soar-malware-incident-response">
+          <img src="https://img.shields.io/badge/GitHub-SOC%20%2B%20SOAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub SOC SOAR" />
         </a>
         <a href="https://www.linkedin.com/posts/abdul4rehman215_soc-soar-cybersecurity-activity-7431722094020816896-UKtd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
           <img src="https://img.shields.io/badge/Capstone-Post%2003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Post 03" />
@@ -710,8 +710,8 @@ That is why I’m actively growing in:
         <li>Aligned long-term goal with AI automation for security operations</li>
       </ul>
       <p align="left">
-        <a href="https://github.com/abdul4rehman215?tab=repositories&q=automation">
-          <img src="https://img.shields.io/badge/GitHub-AI%20Automation-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub AI Automation Search" />
+        <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/20-ai-driven-soc-alert-triage-automation">
+          <img src="https://img.shields.io/badge/GitHub-AI%20Automation-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub AI Automation" />
         </a>
         <a href="https://www.linkedin.com/posts/abdul4rehman215_ai-driven-soc-triage-automation-using-wazuh-activity-7433537734859751424-DIzc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
           <img src="https://img.shields.io/badge/LinkedIn-Post%2001-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="AI LinkedIn Post 01" />
