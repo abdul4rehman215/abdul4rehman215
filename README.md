@@ -885,9 +885,9 @@ flowchart LR
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=abdul4rehman215&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdul4rehman215&theme=onedark&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+  </a>
 </p>
 
 ---
