@@ -882,6 +882,16 @@ flowchart LR
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=abdul4rehman215&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
