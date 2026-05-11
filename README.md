@@ -560,8 +560,9 @@ That is why I’m actively growing in:
 ## 🏅 Certifications & Professional Training
 
 * **EduQual RQF Level 3 Diploma in Cloud Cyber Security** — *Al-Nafi International College* *(in progress)*
-* **Cyber Security Internship** — *Al-Nafi International College* *(in progress)*
+* **Cyber Security Internship** — *Al-Nafi International College*
 * **Cloud Cyber Security Course Completion** — *Al-Nafi International College*
+* **Certified Information Systems Security Professional (Training)** — *Al-Nafi International College*
 * **Certified in Cybersecurity (CC)** — *ISC2*
 * **SOC Analyst & Cybersecurity Job Simulations** — *FORAGE* *(TATA, Deloitte, AIG, Datacom, Telstra, Datacom, Commonwealth Bank)*
 * **ISO/IEC 27001:2022 Lead Auditor** — *Mastermind*
