@@ -105,11 +105,11 @@ Primary Focus:
   - SOAR Workflows with Wazuh, TheHive, MISP, Cortex, n8n
   - GenAI Security Operations & AI-Assisted SOC Automation
 Current Growth Tracks:
-  - Detection-as-Code for Wazuh and AI security telemetry
-  - AWS IAM Security, GuardDuty, Security Hub, Config and CloudTrail workflows
-  - Python Security Automation, DevSecOps validation and observability
-  - MCP, RAG, Agentic AI, LangChain and Hugging Face AI workflows
-  - Advanced cyber labs across Blue Team, Red Team, Cloud, DevSecOps and AI
+  - Advanced SOC operations and defensive security engineering
+  - Detection, investigation, containment and response depth
+  - Cloud security, DevSecOps, validation and observability practices
+  - AI-driven SOC workflows, AI automation and agentic workflow design
+  - Continuous practical labs across cybersecurity and AI domains
 Approach: Build → Detect → Investigate → Automate → Document → Improve
 Philosophy: Automate Everything
 Goal: Grow into a cybersecurity expert who strengthens security operations with AI automation
