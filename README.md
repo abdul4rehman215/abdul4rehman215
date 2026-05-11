@@ -1187,59 +1187,24 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=footer" width="100%" />
 
+<!-- ===================== PROFESSIONAL SERVICES ===================== -->
+
 ## 💼 Professional Services
 
-### 🔍 SOC Monitoring & Alert Triage Support
+<div align="center">
 
-Hands-on support for **alert review, triage workflows, false-positive analysis, event context building, escalation notes, and analyst-style documentation** using open-source security monitoring workflows.
+- 🔍 **SOC Monitoring & Alert Triage** — Alert review, triage support, escalation notes, and analyst-style reporting.
+- 📊 **Wazuh SIEM & Detection Support** — Log visibility, rule/decoder support, dashboard checks, and detection workflow improvement.
+- 🧠 **Threat Intelligence & IOC Enrichment** — IOC review, enrichment, ATT&CK mapping, and investigation context building.
+- 📝 **Incident Response Documentation** — Case notes, timelines, containment tracking, lessons learned, and response reporting.
+- 🐧 **Linux Security Hardening** — SSH hardening, firewall setup, permissions, audit visibility, and service security checks.
+- 🌐 **Web & Network Security Visibility** — Web logs, WAF visibility, traffic review, Nmap/Wireshark analysis, and monitoring support.
+- 🧪 **Vulnerability Review & Validation** — Finding review, prioritization, hardening recommendations, and remediation documentation.
+- 🤖 **AI Security Automation & n8n Workflows** — Alert-to-case automation, AI-assisted triage, Slack/TheHive routing, and workflow prototyping.
+- ⚙️ **Python / Bash / DevSecOps Automation** — Helper scripts, log parsing, CLI tools, validation checks, and lightweight automation.
+- 📚 **Technical Documentation & Portfolio Writing** — GitHub READMEs, architecture writeups, project documentation, and technical presentation.
 
-### 📊 Wazuh SIEM Setup, Visibility & Detection Lab Support
-
-Support for **Wazuh installation, agent onboarding, feature exploration, log visibility checks, FIM monitoring, vulnerability detection exposure, custom rule/decoder learning, dashboard validation, and learning / small-environment deployments**.
-
-### ☁️ AWS Security Monitoring & IAM Workflow Support
-
-Support around **AWS CloudTrail visibility, IAM-related event awareness, GuardDuty/Security Hub-style finding review, activity monitoring, security observation in cloud labs, and cloud action review for learning and portfolio environments**.
-
-### 🏰 Secure AWS Infrastructure Review & Lab Support
-
-Support for **secure cloud lab design, public/private subnet thinking, bastion access patterns, IAM least-privilege review, logging baselines, assessment checks, and remediation-oriented documentation**.
-
-### 🐧 Linux Security Hardening & Administration
-
-Support for **Linux server hardening, SSH security, firewall setup, service checks, user and permission management, auditing visibility, troubleshooting, and security-minded administration**.
-
-### 🌐 Web Security, Server Visibility & Log Review
-
-Support for **basic web security learning-lab validation, Nginx / Apache / ModSecurity log review, web-facing visibility checks, and security observation for web/server environments**.
-
-### 🌍 Network Visibility & Traffic Analysis Support
-
-Support for **basic packet/log visibility, traffic review, service exposure checks, Nmap/Wireshark-oriented lab workflows, and network observation in controlled environments**.
-
-### 🧠 Threat Intelligence & IOC Enrichment Support
-
-Support for **IOC review, enrichment workflows, hash/IP/domain context gathering, ATT&CK alignment, investigation support notes, and intelligence-assisted triage thinking**.
-
-### 📝 Incident Response Documentation & Case Workflow Support
-
-Support for **investigation writeups, case notes, timeline building, response documentation, lessons learned, containment tracking, and structured SOC-style reporting**.
-
-### 🧪 Vulnerability Review & Security Validation Support
-
-Support for **reviewing vulnerability findings, prioritizing visible issues, improving hardening baselines, validating security posture in labs, and documenting remediation-oriented observations**.
-
-### 🤖 AI Security Automation & n8n Workflow Prototyping
-
-Support for **n8n-based automation prototyping, alert-to-case workflow design, prompt/context design, AI-assisted task flows, Slack/TheHive-style routing, and learning-environment automation for repetitive operational work**.
-
-### ⚙️ Python / Bash / DevSecOps Automation Support
-
-Support for **helper scripts, log parsing tasks, CLI tools, validation checks, testing workflows, evidence generation, repetitive admin automation, and lightweight technical automation for labs and small environments**.
-
-### 🧱 Security Portfolio / Lab Building Guidance
-
-Support for **building portfolio labs, documenting projects clearly, structuring repository READMEs, and presenting technical work professionally for GitHub and career growth**.
+</div>
 
 <!-- ===================== REACH OUT ===================== -->
 
