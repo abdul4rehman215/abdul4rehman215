@@ -8,7 +8,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2600&pause=800&color=3585F9&center=true&vCenter=true&width=920&lines=SOC+Analyst+%7C+SIEM+%7C+Linux+Security;Wazuh+%E2%80%A2+TheHive+%E2%80%A2+MISP+%E2%80%A2+Cortex;AWS+Monitoring+%E2%80%A2+IR+Workflows+%E2%80%A2+Detection;AI+Automation+%E2%80%A2+n8n+%E2%80%A2+Agentic+Workflows;Automate+Everything+%E2%80%A2+Detect+Faster+%E2%80%A2+Defend+Better" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2600&pause=800&color=3585F9&center=true&vCenter=true&width=980&lines=SOC+Analyst+%7C+Detection+Engineering+%7C+Security+Automation;Wazuh+SIEM%2FXDR+%7C+TheHive+%7C+MISP+%7C+Cortex;n8n+Workflow+Builder+%7C+Alert--to--Case+Automation;AWS+IAM+Security+%7C+Cloud+Monitoring+%7C+Secure+Infrastructure;GenAI+Security+Ops+%7C+MCP%2FRAG+%7C+Detection--as--Code;Automate+Everything+%E2%80%A2+Detect+Faster+%E2%80%A2+Defend+Better" 
     alt="Typing SVG"
   />
 </div>
@@ -16,24 +16,16 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=footer" width="100%" />
 
 <h3 align="center">
-🛡 SOC Analyst • 🔍 Cybersecurity Analyst • 🐧 Linux Security • ☁️ AWS Monitoring • 🤖 AI Automation Learner
+🛡 SOC Analyst • 🔍 Cybersecurity Analyst • 📊 Wazuh SIEM/XDR • ☁️ AWS Security • 🤖 AI Security Automation
 </h3>
 
 <p align="center">
-  <!--
-  <img src="https://img.shields.io/badge/Built%20From%20Scratch-Self--Made%20Knowledge%20%26%20Experience-8B0000?style=for-the-badge" />
-  -->
   <img src="https://img.shields.io/badge/Built%20From%20Scratch-Skills%20Forged%20Through%20Hands--On%20Work-8B0000?style=for-the-badge" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Slogan-Automate%20Everything-7B61FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mission-AI%20Automation%20for%20Security%20Operations-0A66C2?style=for-the-badge" />
-  
-  <!--
-  <img src="https://img.shields.io/badge/Slogan-Automating%20Smarter%20Security%20Operations-7B61FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mission-AI%20Automation%20for%20Security%20Operations-0A66C2?style=for-the-badge" />
-  -->
 </p>
 
 <p align="center">
@@ -42,12 +34,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20SIEM%20%7C%20Linux%20Security-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Portfolio-20%2B%20Repositories-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS%20LABS-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/40%2B%20SELF--BUILT%20PROJECTS-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hands--On-700%2B%20Labs-238636?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-10%2B%20n8n%20Workflows-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20SIEM%20%7C%20Security%20Automation-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Portfolio-28%20Repositories-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20Security-Labs%20%26%20Capstones-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/42%2B%20SELF--BUILT%20PROJECTS-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed%20Hands--On-700%2B%20Labs-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active%20Roadmap-720%20More%20Labs-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-15%2B%20n8n%20%2F%20SOAR%20Workflows-F97316?style=for-the-badge" />
 </p>
 
 <hr>
@@ -102,44 +95,44 @@ src="https://raw.githubusercontent.com/abdul4rehman215/abdul4rehman215/main/orig
 
 ```yaml
 Name: Abdul Rehman
-Role: SOC Analyst | Cybersecurity Analyst | Blue Team Portfolio Builder
+Role: SOC Analyst | Cybersecurity Analyst | Security Automation Portfolio Builder
 Location: Bengaluru, India 🇮🇳
 Primary Focus:
-  - SOC Operations
-  - SIEM Monitoring & Alert Triage
-  - Linux Security & Hardening
-  - AWS Security Monitoring
-  - Incident Response Workflows
-  - AI Automation for Security Operations
+  - SOC Operations & SIEM Monitoring
+  - Detection Engineering & Alert Triage
+  - Incident Response & Case Workflows
+  - AWS Security Monitoring & IAM Automation
+  - SOAR Workflows with Wazuh, TheHive, MISP, Cortex, n8n
+  - GenAI Security Operations & AI-Assisted SOC Automation
 Current Growth Tracks:
-  - n8n Automation
-  - Agentic AI Workflows
-  - Prompt Engineering
-  - Context Design
-  - RAG / Vector-Based Workflows
+  - Detection-as-Code for Wazuh and AI security telemetry
+  - AWS IAM Security, GuardDuty, Security Hub, Config and CloudTrail workflows
+  - Python Security Automation, DevSecOps validation and observability
+  - MCP, RAG, Agentic AI, LangChain and Hugging Face AI workflows
+  - Advanced cyber labs across Blue Team, Red Team, Cloud, DevSecOps and AI
 Approach: Build → Detect → Investigate → Automate → Document → Improve
 Philosophy: Automate Everything
-Goal: Become a cybersecurity expert who enhances security operations with AI automation
-````
+Goal: Grow into a cybersecurity expert who strengthens security operations with AI automation
+```
 
-I’m a **hands-on cybersecurity practitioner** focused on **SOC operations, SIEM monitoring, Linux security, AWS visibility, incident response workflows, and open-source security tooling**.
+I’m a **hands-on cybersecurity practitioner** focused on **SOC operations, SIEM monitoring, detection engineering, Linux security, AWS security visibility, incident response workflows, and open-source security tooling**.
 
-My portfolio is built around **real lab execution and deep documentation** — not just learning tools, but **deploying, validating, investigating, documenting, and improving complete environments**.
+My portfolio is built around **real lab execution and deep documentation** — not just learning tools, but **deploying, validating, investigating, automating, documenting, and improving complete environments**.
 
 Over time, I’ve built and documented work across:
 
-* **SOC & SIEM operations**
-* **Wazuh-based monitoring and detection**
-* **TheHive / MISP / Cortex workflows**
-* **Linux security hardening and administration**
-* **AWS CloudTrail monitoring and cloud activity visibility**
-* **Java-based cloud integration labs and backend workflow development**
-* **Incident response simulations and case documentation**
-* **Vulnerability validation and security review**
-* **Python / Bash / Ansible automation**
-* **AI automation, n8n workflows, agentic experiments, and prompt engineering**
+* **SOC & SIEM operations with Wazuh**
+* **TheHive / MISP / Cortex case, enrichment, and response workflows**
+* **Detection engineering across endpoint, network, web, cloud, and AI-app telemetry**
+* **Linux security hardening, administration, logging, and threat-hunting support**
+* **AWS security monitoring, IAM automation, GuardDuty / Security Hub style workflows, and secure infrastructure projects**
+* **Incident response simulations, containment logic, case documentation, and lifecycle closure**
+* **Python / Bash / Ansible automation for operational and security workflows**
+* **DevSecOps-style validation, secure automation, logging, metrics, and evidence generation**
+* **AI automation, n8n workflows, RAG, MCP, agentic workflows, Hugging Face, LangChain, and GenAI security operations**
+* **Data Science, Machine Learning, NLP, forecasting, and analytics foundations for stronger technical reasoning**
 
-I also completed a **full-year student internship** alongside my cybersecurity studies and have been consistently building a **large, structured GitHub portfolio** through hands-on labs, specialist repositories, and capstone-style projects.
+I also completed a **full-year student internship** alongside my cybersecurity studies and have been consistently building a **large, structured GitHub portfolio** through completed labs, specialist repositories, capstone-style projects, and an active long-term hands-on lab roadmap.
 
 <hr>
 
@@ -149,15 +142,17 @@ I also completed a **full-year student internship** alongside my cybersecurity s
 
 <div align="center">
 
-| 🔐 Portfolio Dimension                | 📈 What It Reflects                                                                     |
-| ------------------------------------- | --------------------------------------------------------------------------------------- |
-| **20+ structured repositories**       | Specialist tracks, capstones, guided labs, and portfolio-ready documentation            |
-| **700+ hands-on labs & projects**     | Practical execution across cybersecurity, Linux, cloud, automation, and analytics       |
-| **SOC + SIEM + IR depth**             | Wazuh, TheHive, MISP, Cortex, alert triage, enrichment, MITRE mapping, case workflows   |
-| **Linux / RHEL / Admin strength**     | Hardening, services, access control, logging, troubleshooting, automation               |
-| **Cloud monitoring exposure**         | AWS visibility, CloudTrail awareness, IAM activity review, cloud lab operations         |
-| **10+ n8n / AI automation workflows** | Agentic experiments, workflow prototyping, RAG basics, AI-assisted process automation   |
-| **Documentation-first mindset**       | Strong READMEs, notes, architecture diagrams, workflow mapping, and technical reporting |
+| 🔐 Portfolio Dimension | 📈 What It Reflects |
+| --- | --- |
+| **28 structured repositories** | Specialist tracks, capstones, guided labs, learning portfolios, and documentation-first technical projects |
+| **700+ completed hands-on labs & projects** | Practical execution already completed across cybersecurity, Linux, cloud, automation, analytics, AI, and security operations |
+| **720-lab active growth roadmap** | Ongoing next-stage roadmap across blue team, red team, DFIR, cloud security, DevSecOps, AI security, ML, automation, and advanced cyber labs |
+| **SOC/SOAR flagship ecosystem** | 42+ projects, 6 capstones, 11 installations/setups, 6 dashboards, and connected Wazuh + TheHive + MISP + Cortex + n8n workflows |
+| **SOC + SIEM + IR depth** | Wazuh, TheHive, MISP, Cortex, alert triage, enrichment, MITRE mapping, case workflows, incident response, and closure thinking |
+| **Cloud security engineering** | AWS IAM security automation, secure infrastructure MVPs, CloudTrail, GuardDuty, Config, Security Hub, VPC Flow Logs, and monitoring pipelines |
+| **AI security & automation track** | GenAI detection-as-code, MCP/RAG/agentic AI security operations, Hugging Face agents, LangChain RAG, and n8n-based SOC automation |
+| **Python, data & automation depth** | 57-lab Data Science portfolio and 39-lab Python automation/security engineering portfolio |
+| **Documentation-first mindset** | Strong READMEs, notes, architecture diagrams, workflow mapping, interview Q&A, troubleshooting, evidence packs, and technical reporting |
 
 </div>
 
@@ -167,25 +162,26 @@ I also completed a **full-year student internship** alongside my cybersecurity s
 
 ## 📊 Full Skill Matrix
 
-This matrix reflects my **portfolio-wide hands-on implementation** across SOC operations, SIEM, Linux security, AWS monitoring, incident response, automation, AI automation, and analytics.
+This matrix reflects my **portfolio-wide hands-on implementation** across SOC operations, SIEM, Linux security, AWS monitoring, incident response, security automation, AI security operations, Python engineering, and analytics.
 
-> Exposure bars reflect practical breadth across repositories, capstones, self-built labs, workflow experiments, and documented hands-on projects.
+> Exposure bars reflect practical breadth across repositories, capstones, completed labs, workflow experiments, and documented hands-on projects.
 
 | Skill Area | Exposure Level | Practical Depth | Tools / Frameworks Used |
 |---|---:|---|---|
 | 🛡️ SOC Operations & Alert Triage | ██████████ **100%** | Alert triage, investigation logic, false-positive review, escalation context, analyst-style documentation | Wazuh, TheHive, MITRE ATT&CK |
-| 📊 SIEM Monitoring & Detection Engineering | ██████████ **100%** | Wazuh monitoring, rules, decoders, FIM, alert visibility, validation, detection-focused workflows | Wazuh, ELK, Kibana, Sysmon |
-| 🧾 Incident Response & Case Documentation | █████████░ **95%** | Alert-to-case thinking, response notes, investigation timelines, lessons learned, structured reporting | TheHive, MISP, SOC reporting workflows |
-| 🧠 Threat Intelligence & ATT&CK Mapping | █████████░ **95%** | IOC enrichment, ATT&CK mapping, investigation context building, alert enrichment support | MISP, Cortex, VirusTotal, MITRE ATT&CK |
-| 🐧 Linux Security & System Hardening | ██████████ **100%** | SSH hardening, permissions, services, auditing, logging, firewalling, admin troubleshooting | Linux, Ubuntu, Debian, RHEL, auditd, ufw, fail2ban |
-| ☁️ AWS Security Monitoring & Cloud Visibility | █████████░ **90%** | CloudTrail monitoring, IAM activity awareness, cloud event visibility, AWS lab security observation | AWS, CloudTrail, AWS CLI |
-| ☕ Java & Cloud Integration | ████████░░ **85%** | Java-based cloud integration labs, backend service workflows, practical implementation, and integration-oriented development exposure | Java, backend integration labs, cloud workflows |
-| 🧪 Vulnerability Assessment & Security Validation | █████████░ **90%** | Vulnerability review, hardening validation, scan interpretation, security posture improvement thinking | Nessus, OpenVAS, CIS benchmarks |
-| 🌐 Web / Network Security Observation | ████████░░ **85%** | Traffic review, service visibility, Nginx / web log observation, safe testing-lab workflows | Wireshark, Nmap, Burp Suite, OWASP ZAP, Nginx, pfSense |
-| ⚙️ Scripting, Workflow Support & Automation | █████████░ **90%** | Bash/Python helper scripts, admin automation, log parsing, repeatable workflow execution | Python, Bash, PowerShell, Ansible |
-| 🤖 AI Automation & Agentic Workflows | ████████░░ **85%** | n8n workflow prototyping, prompt engineering, context design, agentic experiments, AI-assisted task automation | n8n, LLM workflows, RAG concepts, vector workflows |
+| 📊 SIEM Monitoring & Detection Engineering | ██████████ **100%** | Wazuh monitoring, custom rules, decoders, FIM, alert visibility, validation, tuning, and detection-focused workflows | Wazuh, ELK, Kibana, Sysmon, auditd |
+| 🧾 Incident Response & Case Documentation | ██████████ **100%** | Alert-to-case thinking, investigation timelines, containment notes, response lifecycle, lessons learned, and closure documentation | TheHive, Cortex, MISP, SOC reporting workflows |
+| 🧠 Threat Intelligence & ATT&CK Mapping | █████████░ **95%** | IOC enrichment, ATT&CK mapping, investigation context, observable handling, threat intel support | MISP, Cortex, VirusTotal, AlienVault OTX, MITRE ATT&CK |
+| 🐧 Linux Security & System Hardening | ██████████ **100%** | SSH hardening, permissions, services, auditing, logging, firewalling, credential access monitoring, admin troubleshooting | Linux, Ubuntu, Debian, RHEL, auditd, ufw, fail2ban |
+| ☁️ AWS Security Monitoring & Cloud Visibility | █████████░ **95%** | CloudTrail monitoring, IAM activity review, cloud event visibility, GuardDuty/Security Hub style workflows, AWS lab security observation | AWS, CloudTrail, IAM, GuardDuty, Security Hub, AWS CLI |
+| ☁️ AWS Security Engineering & IAM Automation | █████████░ **90%** | IAM triage, containment workflows, scheduled IAM hygiene, secure infrastructure MVPs, assessment/remediation automation, cloud guardrails | AWS IAM, Security Hub, GuardDuty, CloudTrail, Config, VPC Flow Logs |
+| 🧬 GenAI Security Operations & Detection-as-Code | ████████░░ **85%** | AI-app telemetry detection, Wazuh rule CI/CD, MCP/RAG/agentic runtime triage, OWASP LLM mapping, case automation | Wazuh, GitHub PRs, n8n, TheHive, Slack, OWASP LLM, MCP, RAG |
+| ⚙️ Python Security Automation & DevSecOps | █████████░ **90%** | CLI tooling, config validation, testing, backend orchestration, workflow state, logging, metrics, incident-support automation | Python, Bash, FastAPI, Flask, pytest, PostgreSQL, Redis, Prometheus, Grafana |
+| 🤖 AI Automation, Agents, MCP & RAG | ████████░░ **85%** | n8n workflows, prompt/context design, LangChain RAG apps, Hugging Face agents, MCP servers, tool-use workflows | n8n, LangChain, Hugging Face, FastMCP, smolagents, LlamaIndex, LangGraph |
+| 🧪 Vulnerability Assessment & Security Validation | █████████░ **90%** | Vulnerability review, scan interpretation, hardening validation, posture improvement, remediation thinking | Nessus, OpenVAS, Checkov, CIS concepts, OWASP ZAP |
+| 🌐 Web / Network Security Observation | ████████░░ **85%** | Traffic review, service visibility, Nginx/web log observation, WAF monitoring, IDS/NSM visibility | Wireshark, Nmap, Burp Suite, OWASP ZAP, Nginx, Suricata, Snort, Zeek |
 | 🎩 RHEL, Containers & Admin Automation | ████████░░ **85%** | Enterprise-style administration exposure, container workflows, operational consistency, system management | RHEL, Podman, Docker, Kubernetes, OpenShift |
-| 📈 Data Analytics & Security-Oriented Analysis | ████████░░ **85%** | Python-based analysis, data handling, visualization, statistics, ML/NLP foundations, analytical reasoning | Jupyter, Pandas, NumPy, Matplotlib, scikit-learn |
+| 📈 Data Analytics, ML/NLP & Security-Oriented Analysis | ████████░░ **85%** | Data handling, visualization, statistics, ML/NLP foundations, forecasting, deep learning foundations, analytical reasoning | Jupyter, Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch |
 
 ## 🔍 Proficiency Scale
 
@@ -205,16 +201,19 @@ This matrix reflects **overall portfolio capability**, not one isolated reposito
 
 <div align="center">
 
-| 🧭 Domain                       | 🔍 Focus                                                                                      |
-| ------------------------------- | --------------------------------------------------------------------------------------------- |
-| **SOC Operations**              | alert triage, case context, event analysis, escalation thinking, documentation                |
-| **SIEM & Detection**            | Wazuh monitoring, rules, decoders, FIM, visibility tuning, vulnerability detection            |
-| **Incident Response Workflows** | investigation flow, IOC enrichment, MITRE ATT&CK mapping, reporting, lessons learned          |
-| **Linux Security**              | hardening, SSH security, permissions, auditing, services, system defense                      |
-| **AWS Monitoring**              | CloudTrail visibility, IAM event awareness, cloud activity review, cloud security observation |
-| **Automation**                  | Python, Bash, Ansible, workflow design, repetitive task reduction                             |
-| **AI Automation**               | n8n, agentic workflows, prompt engineering, context design, automation prototyping            |
-| **Security Analytics**          | data thinking, statistics, ML/NLP foundations, security-oriented analytical reasoning         |
+| 🧭 Domain | 🔍 Focus |
+| --- | --- |
+| **SOC Operations** | alert triage, case context, event analysis, escalation thinking, documentation, and analyst workflow discipline |
+| **SIEM & Detection Engineering** | Wazuh monitoring, rules, decoders, FIM, telemetry validation, detection tuning, and alert quality improvement |
+| **Incident Response Workflows** | investigation flow, containment logic, IOC enrichment, MITRE ATT&CK mapping, reporting, and lessons learned |
+| **Threat Intelligence & Case Enrichment** | MISP, Cortex, VirusTotal, OTX, observable context, case comments, and threat-intel feedback loops |
+| **Linux Security** | hardening, SSH security, permissions, auditing, services, endpoint visibility, and system defense |
+| **AWS Security & IAM Automation** | CloudTrail, IAM activity, GuardDuty, Security Hub, Config, identity triage, containment, and hygiene monitoring |
+| **Secure Cloud Infrastructure** | segmented AWS architecture, bastion access, encrypted logging, monitoring controls, validation, and remediation |
+| **Security Automation / SOAR** | n8n, Slack, TheHive, DataTables, workflow state, alert-to-case automation, and closure synchronization |
+| **GenAI Security Operations** | AI-app telemetry, OWASP LLM mapping, MCP/RAG/agentic runtime detection, Wazuh detection-as-code, and SOC triage |
+| **Python Automation & DevSecOps** | secure CLI tooling, backend orchestration, validation, testing, observability, metrics, and evidence generation |
+| **Security Analytics** | data thinking, statistics, ML/NLP foundations, dashboards, forecasting, and security-oriented analytical reasoning |
 
 </div>
 
@@ -226,18 +225,17 @@ This matrix reflects **overall portfolio capability**, not one isolated reposito
 
 ### 🛡 1) End-to-End SOC + SOAR Security Ecosystem on AWS
 
-A flagship **open-source security operations environment** built around detection, alerting, triage, investigation, case handling, response support, and feedback-driven improvement.
+A flagship **open-source security operations environment** built around detection, alerting, triage, investigation, case handling, response support, threat intelligence, automation, and feedback-driven improvement.
 
 **Highlights:**
 
-* Wazuh SIEM deployment and monitoring
-* TheHive case management workflows
-* MISP threat intelligence enrichment
-* Cortex analyzer integration
-* MITRE ATT&CK-aligned investigation thinking
-* AWS-hosted security lab architecture
-* Alert-to-case operational flow
-* Structured documentation, workflows, and architecture diagrams
+* 42+ connected SOC/SOAR projects inside one ecosystem
+* 6 portfolio-grade capstones across SOC, cloud security, and GenAI security operations
+* Wazuh SIEM/XDR deployment, tuning, detection logic, rules, decoders, and dashboards
+* TheHive case management workflows with Cortex enrichment and MISP intelligence flow
+* Endpoint, network, web, cloud, and AI-app telemetry coverage
+* n8n workflow orchestration for alert routing, triage, ticketing, closure sync, and automation
+* Structured documentation, workflow mapping, architecture diagrams, evidence packs, and interview-ready notes
 
 ---
 
@@ -248,11 +246,11 @@ A structured defensive-security portfolio focused on **monitoring, visibility, a
 **Highlights:**
 
 * Windows and Linux detection scenarios
-* Sysmon-aligned visibility
-* SIEM alert validation and investigation
-* Threat simulation in controlled lab settings
-* Detection workflows with practical documentation
-* Security operations reasoning beyond simple tool installation
+* Sysmon, auditd, Osquery, Wazuh agent, and endpoint telemetry visibility
+* Suricata, Snort, Zeek, DNS, web, and cloud monitoring projects
+* Wazuh alert validation, custom rules, decoders, and tuning concepts
+* MITRE ATT&CK-aligned investigation thinking
+* Detection workflows with practical documentation and evidence
 
 ---
 
@@ -268,6 +266,7 @@ A large body of work centered on **Linux administration, system hardening, servi
 * service monitoring and troubleshooting
 * auditing, logging, and baseline defense
 * backup, recovery, and maintenance workflows
+* Linux credential access monitoring with auditd and Wazuh
 
 ---
 
@@ -286,67 +285,63 @@ A portfolio direction showing growth in **RHEL administration, repeatable operat
 
 ---
 
-### ☁️ 5) AWS Security Monitoring & Cloud Visibility Labs
+### ☁️ 5) AWS Security Monitoring, IAM Automation & Secure Infrastructure
 
-Hands-on work around **cloud logging, IAM-related activity awareness, event visibility, and practical cloud monitoring use cases**.
+Hands-on work around **cloud logging, IAM-related activity awareness, event visibility, secure AWS infrastructure, and practical cloud monitoring use cases**.
 
 **Highlights:**
 
-* CloudTrail monitoring
-* IAM event awareness
-* login and activity visibility
-* cloud-side action review
-* security observation in AWS lab environments
-* cloud monitoring documentation and validation
+* AWS CloudTrail monitoring and activity review
+* IAM finding triage, enrichment, containment, and scheduled hygiene workflows
+* GuardDuty / Security Hub style detection and routing concepts
+* Secure AWS infrastructure MVP with public/private subnet separation, bastion access, IAM least privilege, encrypted logging, and continuous monitoring
+* AWS Config, VPC Flow Logs, EventBridge, SNS, and remediation-oriented cloud security thinking
+* security observation in AWS lab environments with documentation and validation
 
 ---
 
 ### 🧪 6) Vulnerability Management / Security Validation Labs
 
-Hands-on exposure to **vulnerability review, hardening validation, security checks, and remediation-oriented analysis**.
+Hands-on exposure to **vulnerability review, hardening validation, security checks, scanning, and remediation-oriented analysis**.
 
 **Highlights:**
 
 * vulnerability assessment workflows
 * configuration review and hardening validation
 * security posture observation
-* scan result interpretation
-* practical improvement mindset
-* documentation-backed validation
+* Checkov-based infrastructure scanning
+* scan result interpretation and remediation thinking
+* documentation-backed validation and evidence handling
 
 ---
 
-### 🤖 7) AI Automation / n8n / Agentic Workflow Experiments
+### 🤖 7) AI Security Automation / n8n / GenAI SOC Operations
 
-An active and growing track focused on **automating repetitive workflows, building AI-assisted task chains, testing agentic ideas, and learning how automation can improve real operations**.
+An active and growing track focused on **automating repetitive workflows, building AI-assisted SOC pipelines, testing agentic ideas, and learning how AI can improve real security operations**.
 
 **Highlights:**
 
-* Autonomous Browser Agent
-* Email Responder Multi-AI Agent
-* AI Voice Email Sender Agent
-* LinkedIn Content Creator Agent
-* Inventory Management RAG workflow
-* prompt engineering and context design practice
-* workflow testing in safe learning environments
-* growing focus on operational AI automation
+* AI-driven SOC alert triage using Wazuh, n8n, Gemini, and analyst-ready reports
+* GenAI detection-as-code CI/CD for Wazuh rule validation and controlled deployment
+* MCP, RAG/memory, and agentic AI runtime triage through Wazuh → n8n → Slack → TheHive
+* Hugging Face Agents, LLM, and MCP course portfolios
+* LangChain RAG projects and multilingual AI application development
+* prompt engineering, context design, tool-use workflows, and human-in-the-loop automation concepts
 
 ---
 
 ### 📊 8) Python, Data Science & Security Analytics Foundations
 
-A parallel skill track strengthening **scripting, analytical reasoning, automation potential, and data-driven thinking for technical/security-adjacent use cases**.
+A parallel skill track strengthening **scripting, analytical reasoning, automation potential, data-driven thinking, and AI/ML foundations for technical and security-adjacent use cases**.
 
 **Highlights:**
 
-* Python foundations
-* Pandas / NumPy workflows
-* visualization and exploratory analysis
-* statistics and probability
-* machine learning foundations
-* NLP exposure
-* time-series exposure
-* deep learning foundations
+* 57-lab Data Science with Python portfolio
+* 39-lab Python automation, security automation, DevSecOps, observability, and platform-engineering portfolio
+* Pandas / NumPy workflows, visualization, dashboards, statistics, and forecasting
+* machine learning, NLP, deep learning, TensorFlow, Keras, and PyTorch foundations
+* FastAPI / Flask services, PostgreSQL, Redis, workers, pytest, logging, metrics, Prometheus, and Grafana
+* AI-assisted runbooks, CI triage, policy automation, incident-support tooling, and compliance evidence generation
 
 <hr>
 
@@ -354,26 +349,26 @@ A parallel skill track strengthening **scripting, analytical reasoning, automati
 
 ## 🚀 Future Vision
 
-I want to become a **cybersecurity expert** who strengthens and scales security operations through **AI automation**.
+I want to become a **cybersecurity expert** who strengthens and scales security operations through **AI automation, detection engineering, and practical security tooling**.
 
-My long-term goal is to understand **how security teams, SOC workflows, investigations, monitoring pipelines, reporting, triage, and repetitive operational tasks can be improved through intelligent automation**.
+My long-term goal is to understand how **SOC workflows, investigations, monitoring pipelines, detection content, reporting, triage, cloud security operations, and repetitive response tasks** can be improved through reliable automation and human-in-the-loop AI.
 
 I believe this direction matters because:
 
-* security challenges are growing rapidly
-* AI is reshaping how work gets done
-* many repetitive tasks in security can be automated
-* better automation can improve analyst efficiency
+* security challenges are growing faster than manual workflows can handle alone
+* SOC teams need better ways to reduce alert fatigue without losing investigation quality
+* cloud identity, AI applications, and automation platforms are becoming major security surfaces
+* detection content should be validated, deployed, monitored, and improved like engineering work
 * AI-assisted operations can become more practical and cost-effective even for **small organizations**
 
 That is why I’m actively growing in:
 
-* **AI automation**
-* **agentic workflows**
-* **prompt engineering**
-* **workflow orchestration**
-* **security + automation integration**
-* **the idea of automating everything that should be automated**
+* **SOC operations and detection engineering**
+* **security automation and SOAR workflow design**
+* **AWS IAM security, secure cloud infrastructure, and cloud monitoring**
+* **GenAI security operations, MCP/RAG/agentic AI risk detection, and detection-as-code**
+* **Python automation, DevSecOps validation, observability, and evidence-driven reporting**
+* **advanced hands-on labs across blue team, red team, DFIR, cloud security, AI, ML, and automation**
 
 <hr>
 
@@ -388,7 +383,16 @@ That is why I’m actively growing in:
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%20Hub-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Config-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPC%20Flow%20Logs-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EventBridge-7B61FF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Checkov-111827?style=for-the-badge" />
 </p>
 
 ### 🐳 Containers & Runtime
@@ -404,6 +408,9 @@ That is why I’m actively growing in:
 
 <p align="left">
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATLAS--Inspired-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP%20LLM%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20MCP-7B61FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MISP-2C3E50?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/TheHive-F5B041?style=for-the-badge&logo=thehive&logoColor=black" />
   <img src="https://img.shields.io/badge/Cortex-7B61FF?style=for-the-badge" />
@@ -422,11 +429,13 @@ That is why I’m actively growing in:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Wazuh-326CE5?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/TheHive-F5B041?style=for-the-badge&logo=thehive&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wazuh%20Rules%20%26%20Decoders-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TheHive%205-F5B041?style=for-the-badge&logo=thehive&logoColor=black" />
   <img src="https://img.shields.io/badge/Cortex-7B61FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/auditd-4B5563?style=for-the-badge" />
 </p>
@@ -435,6 +444,8 @@ That is why I’m actively growing in:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/ModSecurity-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
@@ -458,8 +469,23 @@ That is why I’m actively growing in:
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+### 🧩 Backend, DevSecOps & Observability
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Structured%20Logging-4B5563?style=for-the-badge" />
 </p>
 
 ### ☕ Java & Integration Development
@@ -474,11 +500,15 @@ That is why I’m actively growing in:
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI%20Automation-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GenAI%20Security%20Ops-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Detection--as--Code-0F766E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic%20Workflows-7B61FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-F97316?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Context%20Design-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-16A34A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Workflows-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/MCP-8E24AA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLM%20Workflow%20Prototyping-111827?style=for-the-badge" />
 </p>
 
@@ -486,11 +516,14 @@ That is why I’m actively growing in:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Jupyter-FA8C0A?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
@@ -506,52 +539,65 @@ That is why I’m actively growing in:
 ### 🔍 SOC Operations & SIEM Monitoring
 
 * alert triage and investigation thinking
-* Wazuh monitoring, visibility checks, and detection workflows
-* event interpretation, false-positive review, and escalation context
-* case-oriented analysis and reporting mindset
+* Wazuh monitoring, visibility checks, detection workflows, rules, and decoders
+* event interpretation, false-positive review, risk context, and escalation notes
+* case-oriented analysis, reporting, and analyst workflow documentation
 
 ### 🧠 Threat Intelligence & Incident Context
 
 * IOC review and enrichment
 * TheHive / MISP / Cortex-oriented workflows
 * MITRE ATT&CK mapping and analyst context building
-* structured investigation and response documentation
+* structured investigation, response documentation, and intelligence feedback loops
 
 ### 🐧 Linux Security & Administration
 
 * hardening Linux systems and services
 * SSH security, privilege control, permissions, and access management
-* logging, auditing, and service monitoring
+* logging, auditing, endpoint visibility, and service monitoring
 * troubleshooting and security-minded system administration
 
-### ☁️ AWS Security Monitoring
+### ☁️ AWS Security Monitoring & IAM Automation
 
-* CloudTrail visibility and activity review
-* IAM-related event awareness
-* monitoring cloud actions in lab environments
-* cloud security observation and documentation
+* CloudTrail visibility and AWS activity review
+* IAM-related event awareness, access-key containment concepts, and identity finding enrichment
+* GuardDuty / Security Hub style alert routing and cloud security observation
+* scheduled IAM hygiene thinking, closure tracking, and documentation-backed workflow design
 
-### ☕ Java & Cloud Integration Labs
+### 🏰 Secure Cloud Infrastructure Engineering
 
-* Java-based cloud integration lab work
-* backend workflow understanding and service interaction
-* practical implementation exposure through integration-focused labs
-* growing development-side understanding alongside security operations
+* secure-by-design AWS infrastructure planning
+* public/private subnet separation, bastion access, encrypted logging, and monitoring baselines
+* IAM least privilege, security assessment, Checkov scanning, and remediation scripts
+* cloud controls mapped to practical security value rather than only resource creation
+
+### 🧬 GenAI Security Operations & Detection-as-Code
+
+* Wazuh detection-as-code CI/CD concepts for AI-app security telemetry
+* GitHub PR validation, controlled deployment gates, replay testing, and deployment audit trails
+* MCP tool-risk, RAG/memory poisoning, and agentic AI runtime security monitoring
+* OWASP LLM / MCP-aligned thinking and MITRE ATLAS-style analyst context
 
 ### 🤖 AI Automation & Workflow Prototyping
 
 * n8n-based workflow building
 * multi-step automation experiments
 * prompt engineering and context design practice
-* AI-assisted task automation in learning environments
+* RAG, LangChain, Hugging Face agents, MCP, and LLM workflow prototyping
 * exploring how automation can support modern security operations
 
-### ⚙️ Automation & Workflow Thinking
+### ⚙️ Python Automation, DevSecOps & Observability
 
-* Bash / Python scripting for operational support
-* Ansible and repeatable admin tasks
-* structured documentation-backed execution
+* Python / Bash scripting for operational support
+* secure CLI tooling, configuration validation, testing, backend workflow services, and worker execution
+* structured logging, correlation IDs, metrics, dashboards, and evidence generation
 * reducing repetitive work through automation-first thinking
+
+### 📊 Data Science, ML/NLP & Analytical Reasoning
+
+* notebook-based analytics, data cleaning, visualization, and dashboards
+* statistics, machine learning, NLP, forecasting, and deep learning foundations
+* applying data-driven thinking to technical, security, and automation workflows
 
 <hr>
 
@@ -559,24 +605,28 @@ That is why I’m actively growing in:
 
 ## 🏅 Certifications & Professional Training
 
-* **EduQual RQF Level 3 Diploma in Cloud Cyber Security** — *Al-Nafi International College* *(in progress)*
+* **Cloud Cyber Security Certificate** — *Al-Nafi International College* *(issued Jan 2026)*
+* **EduQual RQF Level 3 Diploma in Cloud Cyber Security** — *Al-Nafi International College*
 * **Cyber Security Internship** — *Al-Nafi International College*
-* **Cloud Cyber Security Course Completion** — *Al-Nafi International College*
 * **Certified Information Systems Security Professional (Training)** — *Al-Nafi International College*
 * **Certified in Cybersecurity (CC)** — *ISC2*
-* **SOC Analyst & Cybersecurity Job Simulations** — *FORAGE* *(TATA, Deloitte, AIG, Datacom, Telstra, Datacom, Commonwealth Bank)*
+* **SOC Analyst & Cybersecurity Job Simulations** — *FORAGE* *(TATA, Deloitte, AIG, Datacom, Telstra, Commonwealth Bank)*
 * **ISO/IEC 27001:2022 Lead Auditor** — *Mastermind*
 * **Certified Phishing Prevention Specialist (CPPS)** — *Hack & Fix*
 * **Certified Threat Intelligence & Governance Analyst (CTIGA)** — *Red Team Leaders*
 * **Certified Red Team Operations Management (CRTOM)** — *Red Team Leaders*
-* **AI Masterclass & Workshops** — *Dhruv Rathee Academy, GrowthSchool, be10x*
-* **AWS DevOps and Agentic AI Masterclass** — *Train with Shubham*
-* **Data Analytics Essentials** — *Cisco Networking Academy*
 * **Certified Fundamentals in Cybersecurity** — *Fortinet*
 * **Cybersecurity Fundamentals & SOC in Practice** — *IBM SkillsBuild*
 * **Enterprise Security in Practice** — *IBM SkillsBuild*
 * **Threat Intelligence & Hunting Fundamentals** — *IBM SkillsBuild*
 * **Artificial Intelligence Fundamentals** — *IBM SkillsBuild*
+* **Data Analytics Essentials** — *Cisco Networking Academy*
+* **Introduction to Data Science** — *Cisco Networking Academy*
+* **Hugging Face AI Learning Tracks** — *Agents Course, LLM Fundamentals, Fundamentals of MCP, MCP for Production Automation*
+* **Anthropic AI Fluency & Claude Learning** — *AI Fluency, Claude 101, Claude Code 101, Claude Code in Action, Claude Cowork*
+* **Anthropic MCP / Agentic Workflow Certificates** — *Introduction to MCP, MCP Advanced Topics, Subagents, Agent Skills*
+* **AI Masterclass & Workshops** — *Dhruv Rathee Academy, GrowthSchool, be10x*
+* **AWS DevOps and Agentic AI Masterclass** — *Train with Shubham*
 
 <p align="center">
    <a href="https://www.credly.com/users/abdul4rehman215" target="_blank">
@@ -599,30 +649,30 @@ That is why I’m actively growing in:
   </tr>
   <tr>
     <td valign="top" width="35%">
-      <strong>SOC Operations &amp; Defensive Security</strong>
+      <strong>SOC Operations, Defensive Security &amp; Automation</strong>
       <ul>
-        <li>SOC alert monitoring, triage, and analyst-style investigation thinking</li>
-        <li>SIEM monitoring and incident analysis using <strong>Wazuh</strong></li>
-        <li>Threat detection, IOC context, and <strong>MITRE ATT&amp;CK</strong> mapping</li>
-        <li>Incident escalation, reporting, and structured case documentation</li>
-        <li>Linux security, log analysis, hardening, and operational administration</li>
-        <li>AWS monitoring visibility through <strong>CloudTrail</strong> and activity review</li>
-        <li>Open-source SOC ecosystem exposure with <strong>Wazuh + TheHive + MISP + Cortex</strong></li>
+        <li>SOC alert monitoring, triage, investigation logic, and analyst-style documentation</li>
+        <li>SIEM monitoring and detection engineering using <strong>Wazuh</strong>, rules, decoders, and telemetry validation</li>
+        <li>Threat detection, IOC context, enrichment, and <strong>MITRE ATT&amp;CK</strong> mapping</li>
+        <li>Incident escalation, case workflow documentation, containment thinking, and closure tracking</li>
+        <li>Linux security, log analysis, hardening, audit visibility, and operational administration</li>
+        <li>AWS monitoring and identity-security workflow exposure through CloudTrail, IAM, GuardDuty, Security Hub, and Config-style projects</li>
+        <li>Open-source SOC ecosystem implementation with <strong>Wazuh + TheHive + MISP + Cortex + n8n</strong></li>
+        <li>Python/Bash automation, workflow support, and documentation-first project execution</li>
       </ul>
     </td>
     <td valign="top" width="65%">
       <strong>Security Growth, Engineering Depth &amp; AI Automation Direction</strong>
       <ul>
         <li>Deepening detection logic, alert quality tuning, and stronger SOC decision-making</li>
-        <li>Expanding SIEM depth in <strong>Wazuh</strong>: rules, decoders, FIM, and vulnerability detection</li>
-        <li>Advancing threat intelligence handling, enrichment workflows, and ATT&amp;CK-aligned analysis</li>
-        <li>Growing stronger in Linux security engineering, hardening strategy, and enterprise administration</li>
-        <li>Building more mature AWS security monitoring and cloud visibility understanding</li>
-        <li>Improving Python, Bash, Ansible, and automation-first workflow execution</li>
-        <li>Learning <strong>AI automation</strong>, <strong>n8n</strong>, agentic workflows, prompt engineering, and context design</li>
-        <li>Exploring how repetitive SOC and security operations tasks can be automated efficiently</li>
-        <li>Strengthening documentation quality, project storytelling, and portfolio presentation</li>
-        <li>Moving toward becoming a cybersecurity expert who enhances security operations through AI automation</li>
+        <li>Expanding Wazuh depth through custom rules, decoders, deployment control, regression testing, and dashboard visibility</li>
+        <li>Advancing cloud security engineering around AWS IAM, secure infrastructure, posture monitoring, and remediation workflows</li>
+        <li>Building stronger Python automation, DevSecOps validation, backend workflow services, observability, and evidence generation</li>
+        <li>Growing in <strong>GenAI security operations</strong>, detection-as-code, MCP/RAG/agentic AI risk detection, and AI-app telemetry monitoring</li>
+        <li>Learning advanced AI workflow implementation with <strong>Hugging Face</strong>, <strong>LangChain</strong>, <strong>MCP</strong>, agents, and human-in-the-loop automation</li>
+        <li>Working through a new <strong>720-lab advanced roadmap</strong> across blue team, red team, DFIR, cloud security, DevSecOps, AI, ML, and automation domains</li>
+        <li>Strengthening documentation quality, project storytelling, architecture explanation, and portfolio presentation</li>
+        <li>Moving toward becoming a cybersecurity expert who enhances security operations through reliable, explainable, and practical AI automation</li>
       </ul>
     </td>
   </tr>
@@ -635,96 +685,105 @@ That is why I’m actively growing in:
 
 <table>
   <tr>
-    <th width="50%">🛡️ SOC Capstone — Malware Detection &amp; Analysis</th>
-    <th width="50%">📑 SOC Capstone — Incident Response &amp; Case Handling</th>
+    <th width="50%">🛡️ SOC + SOAR Malware Incident Response</th>
+    <th width="50%">🤖 AI-Driven SOC Alert Triage Automation</th>
   </tr>
   <tr>
     <td valign="top">
-      <strong>🔎 Malware Detection Workflow</strong>
+      <strong>🔎 Alert → Investigation → Case → Threat Intel</strong>
       <ul>
-        <li>Simulated suspicious / malicious activity in controlled lab environments</li>
-        <li>Used Wazuh + endpoint telemetry for detection visibility and alert review</li>
-        <li>Practiced analyst-style triage, validation, and event interpretation</li>
-        <li>Documented findings in a portfolio-first, investigation-driven format</li>
-      </ul>
-      <p align="left">
-        <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/19-capstone-soc-soar-malware-incident-response/part01-windows-malware-detection-and-analysis">
-          <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Malware Project" />
-        </a>
-        <a href="https://www.linkedin.com/posts/abdul4rehman215_soc-capstone-project-malware-detection-and-activity-7430280092578172943-Avqu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
-          <img src="https://img.shields.io/badge/LinkedIn-Post%2001-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Post 01" />
-        </a>
-      </p>
-    </td>
-    <td valign="top">
-      <strong>📋 Incident Response Workflow</strong>
-      <ul>
-        <li>Followed alert-to-investigation thinking for SOC-style incident handling</li>
-        <li>Built documentation around investigation steps, findings, and response logic</li>
-        <li>Practiced structured case handling, reporting, and analyst communication</li>
-        <li>Strengthened IR workflow discipline through hands-on portfolio labs</li>
-      </ul>
-      <p align="left">
-        <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/19-capstone-soc-soar-malware-incident-response/part02-incident-response-case-management-threat-intel">
-          <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Incident Response Project" />
-        </a>
-        <a href="https://www.linkedin.com/posts/abdul4rehman215_soc-capstone-project-incident-response-activity-7430997244033658880-uzzZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
-          <img src="https://img.shields.io/badge/LinkedIn-Post%2002-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Post 02" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <th width="50%">☁️ Open-Source SOC + SOAR Ecosystem on AWS</th>
-    <th width="50%">🤖 AI-Driven SOC Triage &amp; Automation</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>🧩 End-to-End Security Operations Build</strong>
-      <ul>
-        <li>Built an open-source SOC ecosystem around <strong>Wazuh + TheHive + MISP + Cortex</strong></li>
-        <li>Connected SIEM alerting, enrichment, case handling, and analyst workflows</li>
-        <li>Extended visibility with AWS monitoring, documentation, architecture, and capstone reporting</li>
-        <li>Showcased operational thinking beyond single-tool deployment</li>
+        <li>Built a complete SOC/SOAR malware investigation workflow on AWS</li>
+        <li>Used Windows endpoint telemetry, Sysmon, Wazuh, TheHive, Cortex, and MISP</li>
+        <li>Practiced triage, validation, enrichment, ATT&amp;CK mapping, case handling, and IOC sharing</li>
+        <li>Documented the full incident lifecycle in an interview-ready portfolio format</li>
       </ul>
       <p align="left">
         <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/19-capstone-soc-soar-malware-incident-response">
-          <img src="https://img.shields.io/badge/GitHub-SOC%20%2B%20SOAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub SOC SOAR" />
-        </a>
-        <a href="https://www.linkedin.com/posts/abdul4rehman215_soc-soar-cybersecurity-activity-7431722094020816896-UKtd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
-          <img src="https://img.shields.io/badge/Capstone-Post%2003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Post 03" />
-        </a>
-        <a href="https://www.linkedin.com/posts/abdul4rehman215_socarchitecture-soar-securityengineering-activity-7431359622495510528-ZYVd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
-          <img src="https://img.shields.io/badge/Architecture-Post%2004-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Architecture Post 04" />
-        </a>
-        <a href="https://www.linkedin.com/posts/abdul4rehman215_soc-soar-blueteam-activity-7432088167048167424-7xns?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
-          <img src="https://img.shields.io/badge/Recruiter-Post%2005-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Recruiter Post 05" />
+          <img src="https://img.shields.io/badge/GitHub-SOC%20%2B%20SOAR%20Capstone-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub SOC SOAR Capstone" />
         </a>
       </p>
     </td>
     <td valign="top">
-      <strong>⚙️ AI-First SOC Workflow Direction</strong>
+      <strong>⚙️ Wazuh → n8n → Gemini → Analyst Report</strong>
       <ul>
-        <li>Explored AI-assisted SOC triage, workflow acceleration, and analyst support concepts</li>
-        <li>Practiced <strong>n8n</strong>, prompt engineering, context design, and agentic workflow building</li>
-        <li>Built automation experiments for repetitive operational tasks and response support</li>
-        <li>Aligned long-term goal with AI automation for security operations</li>
+        <li>Forwarded Wazuh alerts into n8n for AI-assisted triage</li>
+        <li>Normalized alert context and generated analyst-ready summaries using Gemini</li>
+        <li>Focused on reducing manual triage effort and improving decision support</li>
+        <li>Practiced prompt/context design for SOC workflow acceleration</li>
       </ul>
       <p align="left">
         <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/20-ai-driven-soc-alert-triage-automation">
-          <img src="https://img.shields.io/badge/GitHub-AI%20Automation-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub AI Automation" />
+          <img src="https://img.shields.io/badge/GitHub-AI%20SOC%20Triage-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub AI SOC Triage" />
         </a>
-        <a href="https://www.linkedin.com/posts/abdul4rehman215_ai-driven-soc-triage-automation-using-wazuh-activity-7433537734859751424-DIzc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
-          <img src="https://img.shields.io/badge/LinkedIn-Post%2001-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="AI LinkedIn Post 01" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <th width="50%">☁️ AWS IAM Identity Security Automation</th>
+    <th width="50%">🏰 Secure AWS Infrastructure MVP</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>🔐 Identity Finding → Enrichment → Containment → Closure</strong>
+      <ul>
+        <li>Designed a four-flow AWS IAM security automation prototype</li>
+        <li>Connected identity triage, IAM enrichment, access-key containment, TheHive alert/case handling, and closure sync</li>
+        <li>Used n8n, AWS GuardDuty/Security Hub/IAM/CloudTrail concepts, Slack, DataTable, and TheHive 5</li>
+        <li>Demonstrated SOC lifecycle thinking for cloud identity incidents and IAM hygiene monitoring</li>
+      </ul>
+      <p align="left">
+        <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/24-aws-iam-identity-security-automation-capstone">
+          <img src="https://img.shields.io/badge/GitHub-AWS%20IAM%20Capstone-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub AWS IAM Capstone" />
         </a>
-        <a href="https://www.linkedin.com/posts/abdul4rehman215_aifirstsoc-soc-soar-activity-7434624890126708736-XUa1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
-          <img src="https://img.shields.io/badge/Capstone-Post%2002-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="AI LinkedIn Post 02" />
+      </p>
+    </td>
+    <td valign="top">
+      <strong>🧱 Build → Govern → Assess → Remediate → Monitor</strong>
+      <ul>
+        <li>Built a secure-by-design AWS infrastructure MVP using a layered defense model</li>
+        <li>Implemented public/private subnet separation, bastion access, IAM guardrails, encrypted logging, and monitoring controls</li>
+        <li>Used Terraform, Python automation, Checkov, CloudTrail, VPC Flow Logs, AWS Config, GuardDuty, EventBridge, and SNS</li>
+        <li>Focused on secure cloud architecture, validation, remediation, and continuous visibility</li>
+      </ul>
+      <p align="left">
+        <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/25-aws-secure-infrastructure-mvp">
+          <img src="https://img.shields.io/badge/GitHub-Secure%20AWS%20MVP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Secure AWS MVP" />
         </a>
-        <a href="https://www.linkedin.com/posts/abdul4rehman215_socarchitecture-soar-aiautomation-activity-7433900113137315840-ly49?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
-          <img src="https://img.shields.io/badge/Architecture-Post%2003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="AI Architecture Post 03" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <th width="50%">🧬 GenAI Detection-as-Code CI/CD for Wazuh</th>
+    <th width="50%">🧠 GenAI Detection-as-Code V2 — MCP, RAG & Agentic AI</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>🚦 Detection Code → CI Gate → Wazuh Deploy → Runtime Triage</strong>
+      <ul>
+        <li>Built a GenAI security detection-as-code prototype for Wazuh</li>
+        <li>Validated Wazuh XML, Sigma, metadata, mappings, and replay logic through GitHub PR workflows</li>
+        <li>Created controlled deployment gates, runtime GenAI alert triage, Slack notifications, TheHive alerts/cases, and audit tables</li>
+        <li>Mapped prompt-injection and output-handling detections to OWASP LLM and MITRE ATLAS-style context</li>
+      </ul>
+      <p align="left">
+        <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/26-genai-detection-as-code-cicd-wazuh-n8n-thehive">
+          <img src="https://img.shields.io/badge/GitHub-GenAI%20DaC%20CI%2FCD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub GenAI DaC CI/CD" />
         </a>
-        <a href="https://www.linkedin.com/posts/abdul4rehman215_soc-aiautomation-cybersecurity-activity-7435406994892652544-g8zH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuho14BQnjOksWA5iihN6dnsE3C-o3yBUU">
-          <img src="https://img.shields.io/badge/Recruiter-Post%20004-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="AI Recruiter Post 04" />
+      </p>
+    </td>
+    <td valign="top">
+      <strong>🧩 MCP Tool Risk → RAG/Memory Risk → Agentic Runtime Risk</strong>
+      <ul>
+        <li>Extended the GenAI detection-as-code model into MCP, RAG/memory, and agentic AI security operations</li>
+        <li>Built Flow A2/B2/C2 style validation, deployment, and runtime triage logic using GitHub, Wazuh, n8n, Slack, TheHive, and DataTables</li>
+        <li>Added MCP policy monitoring, red-team replay regression, false-positive analytics, and SOC posture metrics</li>
+        <li>Documented prototype boundaries honestly while showing practical AI-security engineering depth</li>
+      </ul>
+      <p align="left">
+        <a href="https://github.com/abdul4rehman215/SOC-SOAR-ECOSYSTEM-AWS/tree/main/27-genai-detection-as-code-v2-mcp-rag-agentic-wazuh-n8n-thehive">
+          <img src="https://img.shields.io/badge/GitHub-GenAI%20DaC%20V2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub GenAI DaC V2" />
         </a>
       </p>
     </td>
@@ -737,7 +796,7 @@ That is why I’m actively growing in:
 
 ## 🏗️ Capstone Architecture & Workflow
 
-This section highlights the **end-to-end architecture, analyst workflow, and threat-intelligence feedback loop** behind my SOC / SOAR capstone work using **Wazuh, TheHive, Cortex, MISP, AWS, and Sysmon**.
+This section highlights the **original SOC / SOAR malware investigation architecture, analyst workflow, and threat-intelligence feedback loop** using **Wazuh, TheHive, Cortex, MISP, AWS, and Sysmon**. The featured capstone table above shows how the portfolio has expanded further into **AWS IAM automation, secure AWS infrastructure, GenAI detection-as-code, MCP/RAG security, and agentic AI security operations**.
 
 ### 🔍 End-to-End SOC Analyst Workflow
 
@@ -948,27 +1007,38 @@ flowchart LR
 
 ### 🔎 SIEM & Monitoring Platforms
 
-* **Wazuh** — SIEM, endpoint monitoring, FIM, vulnerability detection
+* **Wazuh** — SIEM/XDR, endpoint monitoring, FIM, vulnerability detection, custom rules, decoders, and alert routing
 * **ELK Stack** — Elasticsearch, Logstash, Kibana
+* **OpenSearch** — dashboarding and search-style visibility exposure
 * **Kibana** — dashboards, visualization, and security monitoring views
 * **Splunk** — log analysis and operational visibility
 * **CloudTrail** — AWS activity visibility and event review
+* **VPC Flow Logs** — cloud network visibility
+* **AWS Config** — compliance posture and configuration visibility
+* **GuardDuty / Security Hub** — AWS security finding and routing concepts
 
 ### 🗂️ Log Collection & Analysis
 
 * **Elasticsearch** — log indexing and search
 * **Logstash** — ingestion and parsing
 * **Wazuh Decoders & Rules** — event classification and alerting logic
+* **Wazuh Custom Integrations** — forwarding security alerts into automation workflows
 * **auditd** — Linux audit logging
+* **Sysmon / Sysmon for Linux** — endpoint telemetry and event visibility
+* **Osquery** — endpoint state inspection and threat-hunting visibility
 * **Syslog / Linux Logs** — operational and security visibility
 * **Alert Tuning Concepts** — relevance filtering and signal improvement
 
 ### 🧠 Threat Intelligence & SOC Context
 
-* **TheHive** — incident and case management
+* **TheHive 5** — incident, alert, case, task, comment, and lifecycle management
 * **MISP** — IOC enrichment and sharing concepts
 * **Cortex** — analyzer-oriented enrichment support
+* **VirusTotal / AlienVault OTX** — external IOC enrichment
 * **MITRE ATT&CK** — technique mapping and analyst context
+* **MITRE ATLAS-style mapping** — AI threat-context language for GenAI security detections
+* **OWASP LLM / GenAI Security** — LLM risk classification and AI-app security reference
+* **OWASP MCP** — MCP-specific AI tool-risk reference
 
 </details>
 
@@ -978,10 +1048,13 @@ flowchart LR
 ### 🛡️ Network Security
 
 * **pfSense** — firewall and network edge concepts
-* **Nginx** — reverse proxy / web stack exposure
+* **Nginx / Apache** — web stack exposure and log visibility
+* **ModSecurity + OWASP CRS** — WAF detection and web attack monitoring
+* **Fail2Ban** — automated host-level blocking for repeated attack behavior
 * **Wireshark** — traffic inspection and packet analysis
 * **tcpdump** — packet capture and CLI-based visibility
 * **Nmap** — service enumeration and discovery
+* **Suricata / Snort / Zeek** — IDS/NSM visibility, alerting, and protocol-aware detection
 
 ### 🔍 Vulnerability & Security Assessment
 
@@ -990,13 +1063,16 @@ flowchart LR
 * **Nessus** — vulnerability review
 * **Burp Suite** — web security testing workflows
 * **OWASP ZAP** — web application testing exposure
+* **Checkov** — infrastructure-as-code security scanning
+* **CIS concepts** — baseline hardening and control awareness
 
 ### 🔴 Security Testing / Detection Validation
 
 * **Metasploit** — offensive simulation in lab contexts
 * **Kali Linux** — testing and research environment
+* **Atomic Red Team concepts** — adversary emulation awareness
 * **VirusTotal** — file/hash/domain/IP enrichment
-* **Suricata / Snort / Zeek** — network detection and traffic visibility exposure
+* **Custom replay/test events** — detection validation and regression thinking
 
 </details>
 
@@ -1006,8 +1082,12 @@ flowchart LR
 ### ☁️ Cloud & Infra Tools
 
 * **AWS CLI** — cloud interaction and operational support
+* **AWS IAM** — identity, access, policy, and credential hygiene workflows
+* **AWS EC2 / VPC / S3 / CloudWatch** — cloud lab operations and monitoring
+* **Terraform** — infrastructure-as-code for secure AWS MVP design
+* **EventBridge / SNS** — cloud event routing and notification concepts
 * **Ansible** — automation and repeatable administration
-* **n8n** — workflow orchestration exposure
+* **n8n** — workflow orchestration and SOC/SOAR automation
 
 ### 🐳 Container Tools
 
@@ -1021,9 +1101,10 @@ flowchart LR
 * **Linux CLI** — core administration and troubleshooting
 * **bash** — automation and shell scripting
 * **PowerShell** — Windows-side scripting exposure
-* **python** — scripting, analytics, and automation
+* **python** — scripting, analytics, backend services, and automation
 * **vim / nano** — CLI editing
 * **systemctl / journalctl** — service and log management
+* **iptables / ufw** — firewall and containment actions
 
 ### 🔍 Networking Utilities
 
@@ -1046,15 +1127,46 @@ flowchart LR
 </details>
 
 <details>
+<summary><b>🧩 Python Automation, DevSecOps & Observability Stack (Click to expand)</b></summary>
+
+### ⚙️ Python Automation Engineering
+
+* **Python** — CLI tooling, scripts, data processing, workflow support, and service logic
+* **Bash** — repeatable execution, validation scripts, and lab automation
+* **FastAPI / Flask** — API services, policy/status endpoints, and integration workflows
+* **PostgreSQL** — workflow state, job registry, and queryable job history
+* **Redis** — queueing and worker-support patterns
+* **pytest / coverage** — testing, validation, and quality gates
+* **pre-commit** — local quality gate and security checks
+
+### 📦 Delivery, Validation & Governance
+
+* **GitHub / GitHub Actions** — PR workflows, validation signals, CI-style automation, and documentation versioning
+* **Artifact versioning** — repeatable delivery and rollback-aware workflow thinking
+* **Configuration validation** — schema checks, drift detection, golden config enforcement
+* **Policy engineering** — automation guardrails, rule enforcement, and compliance evidence
+
+### 📈 Observability & Evidence
+
+* **Structured Logging** — correlation IDs, JSON logs, and operational traceability
+* **Prometheus** — metrics instrumentation
+* **Grafana** — dashboard evidence and operational visualization
+* **Runbooks / Reports** — incident support, CI triage, evidence generation, and documentation
+
+</details>
+
+<details>
 <summary><b>🤖 AI Automation, Workflow Design & Prompting Stack (Click to expand)</b></summary>
 
 ### 🧠 AI Automation & Agentic Workflows
 
-* **n8n** — workflow orchestration and agent chaining
-* **AI Agents** — task-driven automation experiments
-* **Multi-step Automations** — process chaining and action flows
-* **Autonomous Browser Workflow Concepts** — browser-driven automation exposure
-* **AI Email / Voice / Content Workflow Concepts** — AI-assisted communication automation
+* **n8n** — workflow orchestration, node chaining, Slack/TheHive routing, DataTable state, and automation prototypes
+* **Gemini API** — AI-assisted SOC triage and RAG application workflows
+* **AI Agents** — task-driven automation experiments and tool-use workflows
+* **Hugging Face** — agents, LLM fundamentals, MCP learning, Spaces, and model ecosystem practice
+* **smolagents / LlamaIndex / LangGraph** — agent and RAG-oriented learning exposure
+* **FastMCP / MCP servers** — MCP workflow servers, tools, resources, and automation integrations
+* **GitHub Actions + Slack automation** — production-style MCP notification and workflow automation practice
 * **RAG Basics** — retrieval-augmented generation exposure
 * **Vector Workflow Basics** — vector-based retrieval understanding
 
@@ -1063,7 +1175,15 @@ flowchart LR
 * **Prompt Engineering** — structuring effective instructions
 * **Context Design** — grounding and response quality improvement
 * **Workflow Prompt Chaining** — passing instructions across nodes and tasks
-* **LLM-Assisted Automation Thinking** — using AI to reduce repetitive operational work
+* **Human-in-the-Loop Design** — keeping analyst review, approval, and decision quality in automation workflows
+* **LLM-Assisted Automation Thinking** — using AI to reduce repetitive operational work responsibly
+
+### 🧬 GenAI Security Operations
+
+* **Detection-as-Code** — detection content validation, deployment gating, and regression thinking
+* **OWASP LLM / GenAI risk mapping** — prompt injection, output handling, sensitive disclosure, and excessive agency thinking
+* **MCP/RAG/Agentic AI security** — MCP tool misuse, context injection, memory poisoning, retrieval risk, and agentic action monitoring
+* **TheHive + Slack + DataTables** — analyst-facing case, notification, and audit evidence handling for AI security alerts
 
 </details>
 
@@ -1072,22 +1192,25 @@ flowchart LR
 
 ### 🧪 Data Analysis & Exploration
 
-* **Jupyter Notebook** — interactive coding and lab documentation
+* **Jupyter Notebook / Google Colab** — interactive coding and lab documentation
 * **Pandas** — cleaning, filtering, and analysis
 * **NumPy** — numerical workflows
+* **Regex / JSON / CSV workflows** — practical extraction and data handling
 * **Exploratory Data Analysis** — dataset understanding and pattern discovery
 
 ### 📈 Visualization & Storytelling
 
 * **Matplotlib** — static charting
 * **Seaborn** — statistical visualization
-* **Plotly** — interactive visualization exposure
+* **Plotly / Bokeh / Dash / Streamlit** — interactive visualization, dashboards, and app-style reporting
+* **Folium / GeoJSON** — geospatial visualization exposure
 * **Notebook Reporting** — documenting technical insights clearly
 
 ### 📊 Statistics & ML Foundations
 
 * **Descriptive Statistics** — summarization and variability analysis
 * **Probability Concepts** — statistical reasoning
+* **A/B Testing & Hypothesis Testing** — experiment-style analysis
 * **scikit-learn** — ML foundations
 * **Feature Engineering** — preprocessing and transformation
 * **Model Evaluation** — comparing outputs and improving quality
@@ -1096,7 +1219,8 @@ flowchart LR
 
 * **NLP Concepts** — text processing and language-oriented workflows
 * **Time Series Concepts** — trend and forecasting exposure
-* **TensorFlow / PyTorch** — deep learning foundations
+* **TensorFlow / Keras / PyTorch** — deep learning foundations
+* **CNN / RNN / Transformer Foundations** — computer vision and sequence-model learning exposure
 * **Analytical Thinking for Security** — data-backed reasoning for security-adjacent workflows
 
 </details>
@@ -1145,10 +1269,10 @@ flowchart LR
 <tr>
 <td valign="middle" style="padding:24px 28px; white-space:nowrap;">
 
-🤖 <b>AI Automation</b><br>
-☁️ <b>Cloud Security Monitoring</b><br>
-🛡 <b>Blue Team & Defensive Security</b><br>
-🐧 <b>Linux Security Engineering</b>
+🛡 <b>SOC Operations & Detection Engineering</b><br>
+☁️ <b>AWS Security & IAM Automation</b><br>
+🤖 <b>AI Security Automation & SOAR Workflows</b><br>
+🧬 <b>GenAI Security, MCP/RAG & Detection-as-Code</b>
 
 </td>
 
@@ -1156,7 +1280,7 @@ flowchart LR
 
 📘 <b>Hands-on labs & portfolio building</b><br>
 🧪 <b>Real-world security simulations</b><br>
-🧠 <b>Skill growth across SOC, Linux, cloud & automation</b><br>
+🧠 <b>Skill growth across SOC, cloud, AI, DevSecOps & automation</b><br>
 📈 <b>Analytics-driven technical improvement</b>
 
 </td>
@@ -1201,7 +1325,7 @@ flowchart LR
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=3585F9&center=true&vCenter=true&width=980&lines=SOC+Monitoring+%E2%80%A2+SIEM+Visibility+%E2%80%A2+Linux+Security;AWS+Monitoring+%E2%80%A2+IR+Documentation+%E2%80%A2+Automation;AI+Automation+%E2%80%A2+n8n+%E2%80%A2+Workflow+Prototyping;Open+to+Internships%2C+Freelance%2C+Collaboration+%26+Junior+Roles"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=3585F9&center=true&vCenter=true&width=980&lines=SOC+Monitoring+%E2%80%A2+SIEM+Visibility+%E2%80%A2+Detection+Engineering;AWS+Security+%E2%80%A2+IAM+Automation+%E2%80%A2+IR+Documentation;AI+Security+Automation+%E2%80%A2+n8n+%E2%80%A2+SOAR+Workflow+Prototyping;Python+Automation+%E2%80%A2+DevSecOps+Validation+%E2%80%A2+Observability;Open+to+Internships%2C+Freelance%2C+Collaboration+%26+Junior+Roles"
     alt="Typing SVG"
   />
 </div>
@@ -1214,13 +1338,17 @@ flowchart LR
 
 Hands-on support for **alert review, triage workflows, false-positive analysis, event context building, escalation notes, and analyst-style documentation** using open-source security monitoring workflows.
 
-### 📊 Wazuh SIEM Setup, Visibility & Lab Support
+### 📊 Wazuh SIEM Setup, Visibility & Detection Lab Support
 
-Support for **Wazuh installation, agent onboarding, feature exploration, log visibility checks, FIM monitoring, vulnerability detection exposure, dashboard validation, and learning / small-environment deployments**.
+Support for **Wazuh installation, agent onboarding, feature exploration, log visibility checks, FIM monitoring, vulnerability detection exposure, custom rule/decoder learning, dashboard validation, and learning / small-environment deployments**.
 
-### ☁️ AWS Security Monitoring & Cloud Visibility
+### ☁️ AWS Security Monitoring & IAM Workflow Support
 
-Support around **AWS CloudTrail visibility, IAM-related event awareness, activity monitoring, security observation in cloud labs, and cloud action review for learning and portfolio environments**.
+Support around **AWS CloudTrail visibility, IAM-related event awareness, GuardDuty/Security Hub-style finding review, activity monitoring, security observation in cloud labs, and cloud action review for learning and portfolio environments**.
+
+### 🏰 Secure AWS Infrastructure Review & Lab Support
+
+Support for **secure cloud lab design, public/private subnet thinking, bastion access patterns, IAM least-privilege review, logging baselines, assessment checks, and remediation-oriented documentation**.
 
 ### 🐧 Linux Security Hardening & Administration
 
@@ -1228,7 +1356,7 @@ Support for **Linux server hardening, SSH security, firewall setup, service chec
 
 ### 🌐 Web Security, Server Visibility & Log Review
 
-Support for **basic web security learning-lab validation, Nginx / web log review, web-facing visibility checks, and security observation for web/server environments**.
+Support for **basic web security learning-lab validation, Nginx / Apache / ModSecurity log review, web-facing visibility checks, and security observation for web/server environments**.
 
 ### 🌍 Network Visibility & Traffic Analysis Support
 
@@ -1246,13 +1374,13 @@ Support for **investigation writeups, case notes, timeline building, response do
 
 Support for **reviewing vulnerability findings, prioritizing visible issues, improving hardening baselines, validating security posture in labs, and documenting remediation-oriented observations**.
 
-### 🤖 AI Automation & n8n Workflow Prototyping
+### 🤖 AI Security Automation & n8n Workflow Prototyping
 
-Support for **n8n-based automation prototyping, workflow chaining, prompt/context design, AI-assisted task flows, and learning-environment automation for repetitive operational work**.
+Support for **n8n-based automation prototyping, alert-to-case workflow design, prompt/context design, AI-assisted task flows, Slack/TheHive-style routing, and learning-environment automation for repetitive operational work**.
 
-### ⚙️ Bash / Python / Admin Automation Support
+### ⚙️ Python / Bash / DevSecOps Automation Support
 
-Support for **helper scripts, log parsing tasks, repetitive admin automation, workflow simplification, and lightweight technical automation for labs and small environments**.
+Support for **helper scripts, log parsing tasks, CLI tools, validation checks, testing workflows, evidence generation, repetitive admin automation, and lightweight technical automation for labs and small environments**.
 
 ### 🧱 Security Portfolio / Lab Building Guidance
 
@@ -1328,5 +1456,5 @@ Support for **building portfolio labs, documenting projects clearly, structuring
 </p>
 
 <p align="center">
-  <sub>Last Updated: March 2026</sub>
+  <sub>Last Updated: May 2026</sub>
 </p>
