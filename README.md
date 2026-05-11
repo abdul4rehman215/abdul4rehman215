@@ -8,7 +8,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2600&pause=800&color=3585F9&center=true&vCenter=true&width=980&lines=SOC+Analyst+%7C+Detection+Engineering+%7C+Security+Automation;Wazuh+SIEM%2FXDR+%7C+TheHive+%7C+MISP+%7C+Cortex;n8n+Workflow+Builder+%7C+Alert--to--Case+Automation;AWS+IAM+Security+%7C+Cloud+Monitoring+%7C+Secure+Infrastructure;GenAI+Security+Ops+%7C+MCP%2FRAG+%7C+Detection--as--Code;Automate+Everything+%E2%80%A2+Detect+Faster+%E2%80%A2+Defend+Better" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=3585F9&center=true&vCenter=true&width=900&lines=SOC+Analyst+%7C+Detection+Engineering+%7C+Security+Automation;Wazuh+SIEM%2FXDR+%E2%86%92+TheHive+%E2%86%92+n8n+SOAR;AWS+Security+%7C+IAM+Automation+%7C+Cloud+Monitoring;GenAI+Security+%7C+MCP%2FRAG+%7C+AI--Driven+SOC;Turning+Alerts+Into+Automated+Workflows" 
     alt="Typing SVG"
   />
 </div>
@@ -16,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=footer" width="100%" />
 
 <h3 align="center">
-🛡 SOC Analyst • 🔍 Cybersecurity Analyst • 📊 Wazuh SIEM/XDR • ☁️ AWS Security • 🤖 AI Security Automation
+🛡 SOC Analyst • 🔍 Detection Engineering • ⚙️ Security Automation • ☁️ AWS Security • 🤖 AI-Driven SOC
 </h3>
 
 <p align="center">
@@ -29,6 +29,10 @@
 </p>
 
 <p align="center">
+  <code>Telemetry → Detection → Enrichment → Case Management → Automation → Feedback</code>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdul4rehman215&label=Profile%20views&color=0e75b6&style=flat" alt="abdul4rehman215" />
   <img src="https://img.shields.io/github/followers/abdul4rehman215?label=Followers&style=social" alt="GitHub Badge" />
 </p>
@@ -36,11 +40,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20SIEM%20%7C%20Security%20Automation-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Portfolio-28%20Repositories-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS%20Security-Labs%20%26%20Capstones-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/42%2B%20SELF--BUILT%20PROJECTS-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed%20Hands--On-700%2B%20Labs-238636?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Active%20Roadmap-720%20More%20Labs-7B61FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-15%2B%20n8n%20%2F%20SOAR%20Workflows-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-700%2B%20Hands--On%20Labs%20%26%20Projects-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flagship-42%2B%20SOC%2FSOAR%20Projects-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active Roadmap-720--Labs%20Advanced%20Track-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-n8n%20%7C%20SOAR%20%7C%20AI%20Workflows-F97316?style=for-the-badge" />
 </p>
 
 <hr>
@@ -95,44 +98,47 @@ src="https://raw.githubusercontent.com/abdul4rehman215/abdul4rehman215/main/orig
 
 ```yaml
 Name: Abdul Rehman
-Role: SOC Analyst | Cybersecurity Analyst | Security Automation Portfolio Builder
+Role: SOC Analyst | Cybersecurity Analyst | Security Automation Builder
 Location: Bengaluru, India 🇮🇳
+
 Primary Focus:
   - SOC Operations & SIEM Monitoring
   - Detection Engineering & Alert Triage
   - Incident Response & Case Workflows
   - AWS Security Monitoring & IAM Automation
   - SOAR Workflows with Wazuh, TheHive, MISP, Cortex, n8n
-  - GenAI Security Operations & AI-Assisted SOC Automation
+  - AI-Assisted Security Operations
+
 Current Growth Tracks:
-  - Advanced SOC operations and defensive security engineering
-  - Detection, investigation, containment and response depth
-  - Cloud security, DevSecOps, validation and observability practices
-  - AI-driven SOC workflows, AI automation and agentic workflow design
-  - Continuous practical labs across cybersecurity and AI domains
+  - Defensive Security Engineering
+  - Advanced SOC Operations
+  - DevSecOps & Cloud Security
+  - AI-Driven Security Operations
+  - AI Automation & Agentic Workflows
+  - Cybersecurity + AI Practical Lab Roadmap
+
 Approach: Build → Detect → Investigate → Automate → Document → Improve
 Philosophy: Automate Everything
-Goal: Grow into a cybersecurity expert who strengthens security operations with AI automation
+Goal: Strengthen security operations through practical automation and AI-assisted workflows
 ```
 
-I’m a **hands-on cybersecurity practitioner** focused on **SOC operations, SIEM monitoring, detection engineering, Linux security, AWS security visibility, incident response workflows, and open-source security tooling**.
+I’m a **hands-on cybersecurity practitioner** focused on **SOC operations, SIEM monitoring, detection engineering, AWS security, incident response workflows, and open-source security tooling**.
 
-My portfolio is built around **real lab execution and deep documentation** — not just learning tools, but **deploying, validating, investigating, automating, documenting, and improving complete environments**.
+My portfolio is built around **real lab execution and deep documentation** — not just learning tools, but **deploying, validating, investigating, automating, documenting, and improving complete technical environments**.
 
 Over time, I’ve built and documented work across:
 
-* **SOC & SIEM operations with Wazuh**
-* **TheHive / MISP / Cortex case, enrichment, and response workflows**
-* **Detection engineering across endpoint, network, web, cloud, and AI-app telemetry**
-* **Linux security hardening, administration, logging, and threat-hunting support**
-* **AWS security monitoring, IAM automation, GuardDuty / Security Hub style workflows, and secure infrastructure projects**
-* **Incident response simulations, containment logic, case documentation, and lifecycle closure**
-* **Python / Bash / Ansible automation for operational and security workflows**
-* **DevSecOps-style validation, secure automation, logging, metrics, and evidence generation**
-* **AI automation, n8n workflows, RAG, MCP, agentic workflows, Hugging Face, LangChain, and GenAI security operations**
-* **Data Science, Machine Learning, NLP, forecasting, and analytics foundations for stronger technical reasoning**
+* **SOC & SIEM operations**
+* **Wazuh-based monitoring, detection, and alert triage**
+* **TheHive, MISP, Cortex, and n8n-based SOAR workflows**
+* **AWS security monitoring, IAM automation, and secure cloud infrastructure**
+* **Linux security hardening, administration, and troubleshooting**
+* **Incident response simulations, containment workflows, and case documentation**
+* **Python automation, DevSecOps-style validation, and observability workflows**
+* **AI-assisted SOC workflows, GenAI security operations, MCP/RAG learning, and agentic automation experiments**
+* **Data science, machine learning, NLP, and analytics foundations for security-adjacent analysis**
 
-I also completed a **full-year student internship** alongside my cybersecurity studies and have been consistently building a **large, structured GitHub portfolio** through completed labs, specialist repositories, capstone-style projects, and an active long-term hands-on lab roadmap.
+I also completed a **full-year student internship** alongside my cybersecurity studies and continue building a **large, structured GitHub portfolio** through completed labs, specialist repositories, capstone-style projects, and an active long-term hands-on learning roadmap.
 
 <hr>
 
@@ -146,14 +152,12 @@ I also completed a **full-year student internship** alongside my cybersecurity s
 | --- | --- |
 | **28 structured repositories** | Specialist tracks, capstones, guided labs, learning portfolios, and documentation-first technical projects |
 | **700+ completed hands-on labs & projects** | Practical execution already completed across cybersecurity, Linux, cloud, automation, analytics, AI, and security operations |
-| **720-lab active growth roadmap** | Ongoing next-stage roadmap across blue team, red team, DFIR, cloud security, DevSecOps, AI security, ML, automation, and advanced cyber labs |
+| **720-lab advanced roadmap** | Active next-stage roadmap across blue team, red team, DFIR, cloud security, DevSecOps, AI security, ML, automation, and advanced cyber labs |
 | **SOC/SOAR flagship ecosystem** | 42+ projects, 6 capstones, 11 installations/setups, 6 dashboards, and connected Wazuh + TheHive + MISP + Cortex + n8n workflows |
-| **SOC + SIEM + IR depth** | Wazuh, TheHive, MISP, Cortex, alert triage, enrichment, MITRE mapping, case workflows, incident response, and closure thinking |
-| **Cloud security engineering** | AWS IAM security automation, secure infrastructure MVPs, CloudTrail, GuardDuty, Config, Security Hub, VPC Flow Logs, and monitoring pipelines |
-| **AI security & automation track** | GenAI detection-as-code, MCP/RAG/agentic AI security operations, Hugging Face agents, LangChain RAG, and n8n-based SOC automation |
+| **Cloud security engineering** | AWS IAM security automation, secure infrastructure MVP, CloudTrail, GuardDuty, Config, Security Hub, VPC Flow Logs, and monitoring pipelines |
+| **AI-assisted security automation** | GenAI detection-as-code, MCP/RAG/agentic AI security workflows, Hugging Face agents, LangChain RAG, and n8n-based SOC automation |
 | **Python, data & automation depth** | 57-lab Data Science portfolio and 39-lab Python automation/security engineering portfolio |
-| **Documentation-first mindset** | Strong READMEs, notes, architecture diagrams, workflow mapping, interview Q&A, troubleshooting, evidence packs, and technical reporting |
-
+| **Documentation-first mindset** | READMEs, architecture diagrams, workflow mapping, interview Q&A, troubleshooting, evidence packs, and technical reporting |
 </div>
 
 <hr>
@@ -162,32 +166,34 @@ I also completed a **full-year student internship** alongside my cybersecurity s
 
 ## 📊 Full Skill Matrix
 
-This matrix reflects my **portfolio-wide hands-on implementation** across SOC operations, SIEM, Linux security, AWS monitoring, incident response, security automation, AI security operations, Python engineering, and analytics.
+This matrix reflects my **portfolio-wide hands-on implementation** across SOC operations, SIEM, Linux security, AWS monitoring, incident response, security automation, AI-assisted security workflows, Python engineering, and analytics.
 
-> Exposure bars reflect practical breadth across repositories, capstones, completed labs, workflow experiments, and documented hands-on projects.
+> Depth labels are evidence-based and reflect completed repositories, capstones, labs, workflow prototypes, and documented hands-on projects.
 
-| Skill Area | Exposure Level | Practical Depth | Tools / Frameworks Used |
-|---|---:|---|---|
-| 🛡️ SOC Operations & Alert Triage | ██████████ **100%** | Alert triage, investigation logic, false-positive review, escalation context, analyst-style documentation | Wazuh, TheHive, MITRE ATT&CK |
-| 📊 SIEM Monitoring & Detection Engineering | ██████████ **100%** | Wazuh monitoring, custom rules, decoders, FIM, alert visibility, validation, tuning, and detection-focused workflows | Wazuh, ELK, Kibana, Sysmon, auditd |
-| 🧾 Incident Response & Case Documentation | ██████████ **100%** | Alert-to-case thinking, investigation timelines, containment notes, response lifecycle, lessons learned, and closure documentation | TheHive, Cortex, MISP, SOC reporting workflows |
-| 🧠 Threat Intelligence & ATT&CK Mapping | █████████░ **95%** | IOC enrichment, ATT&CK mapping, investigation context, observable handling, threat intel support | MISP, Cortex, VirusTotal, AlienVault OTX, MITRE ATT&CK |
-| 🐧 Linux Security & System Hardening | ██████████ **100%** | SSH hardening, permissions, services, auditing, logging, firewalling, credential access monitoring, admin troubleshooting | Linux, Ubuntu, Debian, RHEL, auditd, ufw, fail2ban |
-| ☁️ AWS Security Monitoring & Cloud Visibility | █████████░ **95%** | CloudTrail monitoring, IAM activity review, cloud event visibility, GuardDuty/Security Hub style workflows, AWS lab security observation | AWS, CloudTrail, IAM, GuardDuty, Security Hub, AWS CLI |
-| ☁️ AWS Security Engineering & IAM Automation | █████████░ **90%** | IAM triage, containment workflows, scheduled IAM hygiene, secure infrastructure MVPs, assessment/remediation automation, cloud guardrails | AWS IAM, Security Hub, GuardDuty, CloudTrail, Config, VPC Flow Logs |
-| 🧬 GenAI Security Operations & Detection-as-Code | ████████░░ **85%** | AI-app telemetry detection, Wazuh rule CI/CD, MCP/RAG/agentic runtime triage, OWASP LLM mapping, case automation | Wazuh, GitHub PRs, n8n, TheHive, Slack, OWASP LLM, MCP, RAG |
-| ⚙️ Python Security Automation & DevSecOps | █████████░ **90%** | CLI tooling, config validation, testing, backend orchestration, workflow state, logging, metrics, incident-support automation | Python, Bash, FastAPI, Flask, pytest, PostgreSQL, Redis, Prometheus, Grafana |
-| 🤖 AI Automation, Agents, MCP & RAG | ████████░░ **85%** | n8n workflows, prompt/context design, LangChain RAG apps, Hugging Face agents, MCP servers, tool-use workflows | n8n, LangChain, Hugging Face, FastMCP, smolagents, LlamaIndex, LangGraph |
-| 🧪 Vulnerability Assessment & Security Validation | █████████░ **90%** | Vulnerability review, scan interpretation, hardening validation, posture improvement, remediation thinking | Nessus, OpenVAS, Checkov, CIS concepts, OWASP ZAP |
-| 🌐 Web / Network Security Observation | ████████░░ **85%** | Traffic review, service visibility, Nginx/web log observation, WAF monitoring, IDS/NSM visibility | Wireshark, Nmap, Burp Suite, OWASP ZAP, Nginx, Suricata, Snort, Zeek |
-| 🎩 RHEL, Containers & Admin Automation | ████████░░ **85%** | Enterprise-style administration exposure, container workflows, operational consistency, system management | RHEL, Podman, Docker, Kubernetes, OpenShift |
-| 📈 Data Analytics, ML/NLP & Security-Oriented Analysis | ████████░░ **85%** | Data handling, visualization, statistics, ML/NLP foundations, forecasting, deep learning foundations, analytical reasoning | Jupyter, Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch |
+| Skill Area | Portfolio Evidence | Current Depth | Tools / Frameworks Used |
+|---|---|---|---|
+| 🛡️ SOC Operations & Alert Triage | Alert triage, investigation logic, false-positive review, escalation context, analyst-style documentation | High portfolio depth | Wazuh, TheHive, MITRE ATT&CK |
+| 📊 SIEM Monitoring & Detection Engineering | Wazuh monitoring, custom rules, decoders, FIM, telemetry validation, tuning, and detection-focused workflows | High portfolio depth | Wazuh, ELK, Kibana, Sysmon, auditd |
+| 🧾 Incident Response & Case Documentation | Alert-to-case thinking, timelines, containment notes, response lifecycle, lessons learned, closure documentation | Strong applied exposure | TheHive, Cortex, MISP, SOC reporting workflows |
+| 🧠 Threat Intelligence & ATT&CK Mapping | IOC enrichment, ATT&CK mapping, observable handling, case context, threat-intel feedback loops | Strong applied exposure | MISP, Cortex, VirusTotal, AlienVault OTX, MITRE ATT&CK |
+| 🐧 Linux Security & System Hardening | SSH hardening, permissions, services, auditing, logging, firewalling, credential access monitoring | High portfolio depth | Linux, Ubuntu, Debian, RHEL, auditd, ufw, fail2ban |
+| ☁️ AWS Security Monitoring & Cloud Visibility | CloudTrail monitoring, IAM activity review, GuardDuty/Security Hub-style workflows, cloud event visibility | Strong applied exposure | AWS, CloudTrail, IAM, GuardDuty, Security Hub, AWS CLI |
+| ☁️ AWS Security Engineering & IAM Automation | IAM triage, containment workflows, scheduled IAM hygiene, secure infrastructure MVPs, assessment/remediation automation | Growing specialist depth | AWS IAM, Security Hub, GuardDuty, CloudTrail, Config, VPC Flow Logs |
+| 🧬 GenAI Security & Detection-as-Code | AI-app telemetry detection, Wazuh rule CI/CD, MCP/RAG/agentic runtime triage, OWASP LLM mapping | Applied / growing depth | Wazuh, GitHub PRs, n8n, TheHive, Slack, OWASP LLM, MCP, RAG |
+| ⚙️ Python Security Automation & DevSecOps | CLI tooling, config validation, testing, backend orchestration, workflow state, logs, metrics, incident-support automation | Strong applied exposure | Python, Bash, FastAPI, Flask, pytest, PostgreSQL, Redis, Prometheus, Grafana |
+| 🤖 AI Automation, Agents, MCP & RAG | n8n workflows, prompt/context design, LangChain RAG apps, Hugging Face agents, MCP servers, tool-use workflows | Applied / growing depth | n8n, LangChain, Hugging Face, FastMCP, smolagents, LlamaIndex, LangGraph |
+| 🧪 Vulnerability Assessment & Security Validation | Vulnerability review, scan interpretation, hardening validation, posture improvement, remediation thinking | Strong applied exposure | Nessus, OpenVAS, Checkov, CIS concepts, OWASP ZAP |
+| 🌐 Web / Network Security Observation | Traffic review, service visibility, WAF monitoring, IDS/NSM visibility, web log observation | Solid working depth | Wireshark, Nmap, Burp Suite, OWASP ZAP, Nginx, Suricata, Snort, Zeek |
+| 🎩 RHEL, Containers & Admin Automation | Enterprise-style administration exposure, container workflows, operational consistency, system management | Solid working depth | RHEL, Podman, Docker, Kubernetes, OpenShift |
+| 📈 Data Analytics, ML/NLP & Security-Oriented Analysis | Data handling, visualization, statistics, ML/NLP foundations, forecasting, deep learning foundations | Solid working depth | Jupyter, Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch |
 
-## 🔍 Proficiency Scale
+## 🔍 Depth Scale
 
-- ██████████ = High practical exposure across multiple repositories, labs, capstones, and repeat implementations
-- █████████░ = Strong applied experience with clear portfolio depth and documented workflows
-- ████████░░ = Solid working implementation with growing depth and continued expansion
+- **High portfolio depth** = repeated implementation across multiple repositories, labs, capstones, and documented workflows
+- **Strong applied exposure** = clear practical project evidence with hands-on implementation and technical documentation
+- **Growing specialist depth** = active specialization supported by recent capstone or repository work
+- **Applied / growing depth** = hands-on projects completed, with continued expansion underway
+- **Solid working depth** = practical foundation with documented labs and ongoing growth
 
 This matrix reflects **overall portfolio capability**, not one isolated repository — covering:
 
@@ -211,7 +217,7 @@ This matrix reflects **overall portfolio capability**, not one isolated reposito
 | **AWS Security & IAM Automation** | CloudTrail, IAM activity, GuardDuty, Security Hub, Config, identity triage, containment, and hygiene monitoring |
 | **Secure Cloud Infrastructure** | segmented AWS architecture, bastion access, encrypted logging, monitoring controls, validation, and remediation |
 | **Security Automation / SOAR** | n8n, Slack, TheHive, DataTables, workflow state, alert-to-case automation, and closure synchronization |
-| **GenAI Security Operations** | AI-app telemetry, OWASP LLM mapping, MCP/RAG/agentic runtime detection, Wazuh detection-as-code, and SOC triage |
+| **AI Security & GenAI Detection** | AI-app telemetry, OWASP LLM mapping, MCP/RAG/agentic runtime detection, Wazuh detection-as-code, and SOC triage prototypes |
 | **Python Automation & DevSecOps** | secure CLI tooling, backend orchestration, validation, testing, observability, metrics, and evidence generation |
 | **Security Analytics** | data thinking, statistics, ML/NLP foundations, dashboards, forecasting, and security-oriented analytical reasoning |
 
@@ -223,125 +229,20 @@ This matrix reflects **overall portfolio capability**, not one isolated reposito
 
 ## 🚀 Featured Portfolio Highlights
 
-### 🛡 1) End-to-End SOC + SOAR Security Ecosystem on AWS
+<div align="center">
 
-A flagship **open-source security operations environment** built around detection, alerting, triage, investigation, case handling, response support, threat intelligence, automation, and feedback-driven improvement.
+| Highlight | What It Shows |
+| --- | --- |
+| 🛡 **End-to-End SOC + SOAR Ecosystem on AWS** | Connected security operations lab using Wazuh, TheHive, MISP, Cortex, n8n, AWS, dashboards, case workflows, and analyst-style documentation |
+| 🔎 **Detection Engineering & Cyber Defense Portfolio** | Endpoint, network, web, cloud, Linux, Windows, Wazuh rules/decoders, validation workflows, and alert-quality improvement |
+| ☁️ **AWS Security & IAM Automation** | CloudTrail visibility, IAM triage, GuardDuty/Security Hub-style workflows, secure infrastructure, Config, VPC Flow Logs, and remediation automation |
+| 🧬 **GenAI Detection-as-Code & AI Security Workflows** | Wazuh CI/CD, GitHub PR validation, OWASP LLM mapping, MCP/RAG/agentic runtime telemetry, Slack, TheHive, n8n, and audit tables |
+| ⚙️ **Python Automation, DevSecOps & Observability** | 39-lab Python automation engineering portfolio covering CLI tools, backend workflows, testing, logs, metrics, compliance evidence, and AI-assisted runbooks |
+| 📊 **Data Science, ML/NLP & Analytics Foundations** | 57-lab Data Science portfolio covering Python, pandas, NumPy, visualization, statistics, ML, NLP, forecasting, TensorFlow, and PyTorch |
+| 🤗 **AI, Hugging Face, LangChain & MCP Learning** | Hugging Face Agents/LLM/MCP tracks, LangChain RAG app work, MCP automation workflows, AI agents, and source-grounded chatbot development |
+| 📝 **Documentation-First Portfolio Discipline** | Strong READMEs, architecture diagrams, troubleshooting notes, interview Q&A, evidence packs, project reports, and technical storytelling |
 
-**Highlights:**
-
-* 42+ connected SOC/SOAR projects inside one ecosystem
-* 6 portfolio-grade capstones across SOC, cloud security, and GenAI security operations
-* Wazuh SIEM/XDR deployment, tuning, detection logic, rules, decoders, and dashboards
-* TheHive case management workflows with Cortex enrichment and MISP intelligence flow
-* Endpoint, network, web, cloud, and AI-app telemetry coverage
-* n8n workflow orchestration for alert routing, triage, ticketing, closure sync, and automation
-* Structured documentation, workflow mapping, architecture diagrams, evidence packs, and interview-ready notes
-
----
-
-### 🔎 2) Cyber Defense / Detection Engineering Lab Portfolio
-
-A structured defensive-security portfolio focused on **monitoring, visibility, alert understanding, incident logic, and blue-team workflows**.
-
-**Highlights:**
-
-* Windows and Linux detection scenarios
-* Sysmon, auditd, Osquery, Wazuh agent, and endpoint telemetry visibility
-* Suricata, Snort, Zeek, DNS, web, and cloud monitoring projects
-* Wazuh alert validation, custom rules, decoders, and tuning concepts
-* MITRE ATT&CK-aligned investigation thinking
-* Detection workflows with practical documentation and evidence
-
----
-
-### 🐧 3) Linux Security Administration & Hardening Portfolio
-
-A large body of work centered on **Linux administration, system hardening, service control, access security, and enterprise-style operational discipline**.
-
-**Highlights:**
-
-* SSH hardening
-* user, group, and privilege management
-* firewall and access restriction
-* service monitoring and troubleshooting
-* auditing, logging, and baseline defense
-* backup, recovery, and maintenance workflows
-* Linux credential access monitoring with auditd and Wazuh
-
----
-
-### 🎩 4) Red Hat / Enterprise Administration / Automation Track
-
-A portfolio direction showing growth in **RHEL administration, repeatable operations, automation, container workflows, and security-conscious system management**.
-
-**Highlights:**
-
-* RHEL-focused administration
-* SELinux / AppArmor exposure
-* Ansible usage and automation workflows
-* Podman / container exposure
-* system consistency and operational repeatability
-* security-first enterprise administration foundations
-
----
-
-### ☁️ 5) AWS Security Monitoring, IAM Automation & Secure Infrastructure
-
-Hands-on work around **cloud logging, IAM-related activity awareness, event visibility, secure AWS infrastructure, and practical cloud monitoring use cases**.
-
-**Highlights:**
-
-* AWS CloudTrail monitoring and activity review
-* IAM finding triage, enrichment, containment, and scheduled hygiene workflows
-* GuardDuty / Security Hub style detection and routing concepts
-* Secure AWS infrastructure MVP with public/private subnet separation, bastion access, IAM least privilege, encrypted logging, and continuous monitoring
-* AWS Config, VPC Flow Logs, EventBridge, SNS, and remediation-oriented cloud security thinking
-* security observation in AWS lab environments with documentation and validation
-
----
-
-### 🧪 6) Vulnerability Management / Security Validation Labs
-
-Hands-on exposure to **vulnerability review, hardening validation, security checks, scanning, and remediation-oriented analysis**.
-
-**Highlights:**
-
-* vulnerability assessment workflows
-* configuration review and hardening validation
-* security posture observation
-* Checkov-based infrastructure scanning
-* scan result interpretation and remediation thinking
-* documentation-backed validation and evidence handling
-
----
-
-### 🤖 7) AI Security Automation / n8n / GenAI SOC Operations
-
-An active and growing track focused on **automating repetitive workflows, building AI-assisted SOC pipelines, testing agentic ideas, and learning how AI can improve real security operations**.
-
-**Highlights:**
-
-* AI-driven SOC alert triage using Wazuh, n8n, Gemini, and analyst-ready reports
-* GenAI detection-as-code CI/CD for Wazuh rule validation and controlled deployment
-* MCP, RAG/memory, and agentic AI runtime triage through Wazuh → n8n → Slack → TheHive
-* Hugging Face Agents, LLM, and MCP course portfolios
-* LangChain RAG projects and multilingual AI application development
-* prompt engineering, context design, tool-use workflows, and human-in-the-loop automation concepts
-
----
-
-### 📊 8) Python, Data Science & Security Analytics Foundations
-
-A parallel skill track strengthening **scripting, analytical reasoning, automation potential, data-driven thinking, and AI/ML foundations for technical and security-adjacent use cases**.
-
-**Highlights:**
-
-* 57-lab Data Science with Python portfolio
-* 39-lab Python automation, security automation, DevSecOps, observability, and platform-engineering portfolio
-* Pandas / NumPy workflows, visualization, dashboards, statistics, and forecasting
-* machine learning, NLP, deep learning, TensorFlow, Keras, and PyTorch foundations
-* FastAPI / Flask services, PostgreSQL, Redis, workers, pytest, logging, metrics, Prometheus, and Grafana
-* AI-assisted runbooks, CI triage, policy automation, incident-support tooling, and compliance evidence generation
+</div>
 
 <hr>
 
@@ -349,34 +250,27 @@ A parallel skill track strengthening **scripting, analytical reasoning, automati
 
 ## 🚀 Future Vision
 
-I want to become a **cybersecurity expert** who strengthens and scales security operations through **AI automation, detection engineering, and practical security tooling**.
+I am working toward becoming a stronger **cybersecurity professional** who can improve security operations through **defensive engineering, automation, cloud security, and practical AI-assisted workflows**.
 
-My long-term goal is to understand how **SOC workflows, investigations, monitoring pipelines, detection content, reporting, triage, cloud security operations, and repetitive response tasks** can be improved through reliable automation and human-in-the-loop AI.
+My long-term direction is to build useful security systems that connect:
 
-I believe this direction matters because:
+* **SOC monitoring and detection engineering**
+* **incident response and case workflow discipline**
+* **cloud security, IAM visibility, and DevSecOps-style validation**
+* **Python automation, observability, and evidence-driven reporting**
+* **AI-assisted triage, agentic workflows, MCP/RAG learning, and human-in-the-loop automation**
 
-* security challenges are growing faster than manual workflows can handle alone
-* SOC teams need better ways to reduce alert fatigue without losing investigation quality
-* cloud identity, AI applications, and automation platforms are becoming major security surfaces
-* detection content should be validated, deployed, monitored, and improved like engineering work
-* AI-assisted operations can become more practical and cost-effective even for **small organizations**
-
-That is why I’m actively growing in:
-
-* **SOC operations and detection engineering**
-* **security automation and SOAR workflow design**
-* **AWS IAM security, secure cloud infrastructure, and cloud monitoring**
-* **GenAI security operations, MCP/RAG/agentic AI risk detection, and detection-as-code**
-* **Python automation, DevSecOps validation, observability, and evidence-driven reporting**
-* **advanced hands-on labs across blue team, red team, DFIR, cloud security, AI, ML, and automation**
+The goal is not to automate everything blindly. The goal is to automate the repetitive, high-context, and evidence-heavy work that can help analysts move faster while keeping security decisions explainable and reviewable.
 
 <hr>
+
+
 
 <!-- ===================== TECHNICAL SKILLS ===================== -->
 
 ## 🛠 Technical Skills
 
-<details open>
+<details>
 <summary><b>🚀 Click to Expand / Collapse Technical Skills</b></summary>
 
 ### ☁️ Cloud & Platform Security
@@ -536,68 +430,21 @@ That is why I’m actively growing in:
 
 ## 🛡 What I Work On
 
-### 🔍 SOC Operations & SIEM Monitoring
+<div align="center">
 
-* alert triage and investigation thinking
-* Wazuh monitoring, visibility checks, detection workflows, rules, and decoders
-* event interpretation, false-positive review, risk context, and escalation notes
-* case-oriented analysis, reporting, and analyst workflow documentation
+| Area | Practical Work |
+| --- | --- |
+| 🔍 **SOC Operations & SIEM Monitoring** | Alert triage, log analysis, Wazuh monitoring, detection review, escalation logic, and analyst-ready notes |
+| 🧠 **Threat Intelligence & Case Context** | IOC enrichment, MISP/Cortex workflows, VirusTotal/OTX checks, ATT&CK mapping, and case comments |
+| 🐧 **Linux Security & Administration** | Hardening, permissions, SSH security, audit visibility, services, logs, firewalling, and troubleshooting |
+| ☁️ **AWS Security & IAM Automation** | CloudTrail visibility, IAM event review, identity triage, hygiene checks, GuardDuty/Security Hub-style workflows |
+| 🏰 **Secure Cloud Infrastructure** | Segmented AWS architecture, bastion patterns, least-privilege IAM, encrypted logging, assessment, remediation, and monitoring controls |
+| 🧬 **GenAI Detection-as-Code** | Wazuh detection CI/CD, AI-app telemetry, OWASP LLM mapping, MCP/RAG/agentic alert routing, and TheHive case workflows |
+| 🤖 **AI Automation & n8n Workflows** | Prompt/context design, Slack notifications, analyst summaries, workflow orchestration, DataTables, and closure sync |
+| ⚙️ **Python Automation & DevSecOps** | CLI tools, API services, validation gates, testing, drift checks, logs, metrics, dashboards, and evidence generation |
+| 📊 **Data Science & ML/NLP Foundations** | Python analytics, data cleaning, visualization, statistics, ML/NLP basics, forecasting, and model-evaluation practice |
 
-### 🧠 Threat Intelligence & Incident Context
-
-* IOC review and enrichment
-* TheHive / MISP / Cortex-oriented workflows
-* MITRE ATT&CK mapping and analyst context building
-* structured investigation, response documentation, and intelligence feedback loops
-
-### 🐧 Linux Security & Administration
-
-* hardening Linux systems and services
-* SSH security, privilege control, permissions, and access management
-* logging, auditing, endpoint visibility, and service monitoring
-* troubleshooting and security-minded system administration
-
-### ☁️ AWS Security Monitoring & IAM Automation
-
-* CloudTrail visibility and AWS activity review
-* IAM-related event awareness, access-key containment concepts, and identity finding enrichment
-* GuardDuty / Security Hub style alert routing and cloud security observation
-* scheduled IAM hygiene thinking, closure tracking, and documentation-backed workflow design
-
-### 🏰 Secure Cloud Infrastructure Engineering
-
-* secure-by-design AWS infrastructure planning
-* public/private subnet separation, bastion access, encrypted logging, and monitoring baselines
-* IAM least privilege, security assessment, Checkov scanning, and remediation scripts
-* cloud controls mapped to practical security value rather than only resource creation
-
-### 🧬 GenAI Security Operations & Detection-as-Code
-
-* Wazuh detection-as-code CI/CD concepts for AI-app security telemetry
-* GitHub PR validation, controlled deployment gates, replay testing, and deployment audit trails
-* MCP tool-risk, RAG/memory poisoning, and agentic AI runtime security monitoring
-* OWASP LLM / MCP-aligned thinking and MITRE ATLAS-style analyst context
-
-### 🤖 AI Automation & Workflow Prototyping
-
-* n8n-based workflow building
-* multi-step automation experiments
-* prompt engineering and context design practice
-* RAG, LangChain, Hugging Face agents, MCP, and LLM workflow prototyping
-* exploring how automation can support modern security operations
-
-### ⚙️ Python Automation, DevSecOps & Observability
-
-* Python / Bash scripting for operational support
-* secure CLI tooling, configuration validation, testing, backend workflow services, and worker execution
-* structured logging, correlation IDs, metrics, dashboards, and evidence generation
-* reducing repetitive work through automation-first thinking
-
-### 📊 Data Science, ML/NLP & Analytical Reasoning
-
-* notebook-based analytics, data cleaning, visualization, and dashboards
-* statistics, machine learning, NLP, forecasting, and deep learning foundations
-* applying data-driven thinking to technical, security, and automation workflows
+</div>
 
 <hr>
 
@@ -605,28 +452,36 @@ That is why I’m actively growing in:
 
 ## 🏅 Certifications & Professional Training
 
+### ☁️ Cloud, Cybersecurity & Governance
+
 * **Cloud Cyber Security Certificate** — *Al-Nafi International College* *(issued Jan 2026)*
 * **EduQual RQF Level 3 Diploma in Cloud Cyber Security** — *Al-Nafi International College*
 * **Cyber Security Internship** — *Al-Nafi International College*
-* **Certified Information Systems Security Professional (Training)** — *Al-Nafi International College*
+* **CISSP-aligned Training** — *Al-Nafi International College*
 * **Certified in Cybersecurity (CC)** — *ISC2*
-* **SOC Analyst & Cybersecurity Job Simulations** — *FORAGE* *(TATA, Deloitte, AIG, Datacom, Telstra, Commonwealth Bank)*
 * **ISO/IEC 27001:2022 Lead Auditor** — *Mastermind*
+* **Certified Fundamentals in Cybersecurity** — *Fortinet*
+
+### 🛡️ SOC, Threat Intelligence, Job Simulations & Security Practice
+
+* **SOC Analyst & Cybersecurity Job Simulations** — *Forage* *(TATA, Deloitte, AIG, Datacom, Telstra, Commonwealth Bank)*
 * **Certified Phishing Prevention Specialist (CPPS)** — *Hack & Fix*
 * **Certified Threat Intelligence & Governance Analyst (CTIGA)** — *Red Team Leaders*
 * **Certified Red Team Operations Management (CRTOM)** — *Red Team Leaders*
-* **Certified Fundamentals in Cybersecurity** — *Fortinet*
-* **Cybersecurity Fundamentals & SOC in Practice** — *IBM SkillsBuild*
-* **Enterprise Security in Practice** — *IBM SkillsBuild*
-* **Threat Intelligence & Hunting Fundamentals** — *IBM SkillsBuild*
-* **Artificial Intelligence Fundamentals** — *IBM SkillsBuild*
-* **Data Analytics Essentials** — *Cisco Networking Academy*
-* **Introduction to Data Science** — *Cisco Networking Academy*
+* **Cybersecurity Fundamentals, SOC in Practice, Enterprise Security, Threat Intelligence & Hunting** — *IBM SkillsBuild*
+
+### 🤖 AI, MCP, Agents & Automation
+
 * **Hugging Face AI Learning Tracks** — *Agents Course, LLM Fundamentals, Fundamentals of MCP, MCP for Production Automation*
 * **Anthropic AI Fluency & Claude Learning** — *AI Fluency, Claude 101, Claude Code 101, Claude Code in Action, Claude Cowork*
 * **Anthropic MCP / Agentic Workflow Certificates** — *Introduction to MCP, MCP Advanced Topics, Subagents, Agent Skills*
 * **AI Masterclass & Workshops** — *Dhruv Rathee Academy, GrowthSchool, be10x*
 * **AWS DevOps and Agentic AI Masterclass** — *Train with Shubham*
+
+### 📊 Data, Analytics & Technical Foundations
+
+* **Data Analytics Essentials** — *Cisco Networking Academy*
+* **Introduction to Data Science** — *Cisco Networking Academy*
 
 <p align="center">
    <a href="https://www.credly.com/users/abdul4rehman215" target="_blank">
@@ -668,11 +523,11 @@ That is why I’m actively growing in:
         <li>Expanding Wazuh depth through custom rules, decoders, deployment control, regression testing, and dashboard visibility</li>
         <li>Advancing cloud security engineering around AWS IAM, secure infrastructure, posture monitoring, and remediation workflows</li>
         <li>Building stronger Python automation, DevSecOps validation, backend workflow services, observability, and evidence generation</li>
-        <li>Growing in <strong>GenAI security operations</strong>, detection-as-code, MCP/RAG/agentic AI risk detection, and AI-app telemetry monitoring</li>
+        <li>Growing in <strong>GenAI security workflows</strong>, detection-as-code, MCP/RAG/agentic AI risk detection, and AI-app telemetry monitoring</li>
         <li>Learning advanced AI workflow implementation with <strong>Hugging Face</strong>, <strong>LangChain</strong>, <strong>MCP</strong>, agents, and human-in-the-loop automation</li>
         <li>Working through a new <strong>720-lab advanced roadmap</strong> across blue team, red team, DFIR, cloud security, DevSecOps, AI, ML, and automation domains</li>
         <li>Strengthening documentation quality, project storytelling, architecture explanation, and portfolio presentation</li>
-        <li>Moving toward becoming a cybersecurity expert who enhances security operations through reliable, explainable, and practical AI automation</li>
+        <li>Moving toward stronger cybersecurity practice through reliable, explainable, and practical AI-assisted security automation</li>
       </ul>
     </td>
   </tr>
@@ -776,7 +631,7 @@ That is why I’m actively growing in:
     <td valign="top">
       <strong>🧩 MCP Tool Risk → RAG/Memory Risk → Agentic Runtime Risk</strong>
       <ul>
-        <li>Extended the GenAI detection-as-code model into MCP, RAG/memory, and agentic AI security operations</li>
+        <li>Extended the GenAI detection-as-code model into MCP, RAG/memory, and agentic AI security workflows</li>
         <li>Built Flow A2/B2/C2 style validation, deployment, and runtime triage logic using GitHub, Wazuh, n8n, Slack, TheHive, and DataTables</li>
         <li>Added MCP policy monitoring, red-team replay regression, false-positive analytics, and SOC posture metrics</li>
         <li>Documented prototype boundaries honestly while showing practical AI-security engineering depth</li>
@@ -796,7 +651,7 @@ That is why I’m actively growing in:
 
 ## 🏗️ Capstone Architecture & Workflow
 
-This section highlights the **original SOC / SOAR malware investigation architecture, analyst workflow, and threat-intelligence feedback loop** using **Wazuh, TheHive, Cortex, MISP, AWS, and Sysmon**. The featured capstone table above shows how the portfolio has expanded further into **AWS IAM automation, secure AWS infrastructure, GenAI detection-as-code, MCP/RAG security, and agentic AI security operations**.
+This section highlights the **original SOC / SOAR malware investigation architecture, analyst workflow, and threat-intelligence feedback loop** using **Wazuh, TheHive, Cortex, MISP, AWS, and Sysmon**. The featured capstone table above shows how the portfolio has expanded further into **AWS IAM automation, secure AWS infrastructure, GenAI detection-as-code, MCP/RAG security, and agentic AI-assisted security operations**.
 
 ### 🔍 End-to-End SOC Analyst Workflow
 
@@ -1166,7 +1021,7 @@ flowchart LR
 * **Hugging Face** — agents, LLM fundamentals, MCP learning, Spaces, and model ecosystem practice
 * **smolagents / LlamaIndex / LangGraph** — agent and RAG-oriented learning exposure
 * **FastMCP / MCP servers** — MCP workflow servers, tools, resources, and automation integrations
-* **GitHub Actions + Slack automation** — production-style MCP notification and workflow automation practice
+* **GitHub Actions + Slack automation** — production-inspired MCP notification and workflow automation practice
 * **RAG Basics** — retrieval-augmented generation exposure
 * **Vector Workflow Basics** — vector-based retrieval understanding
 
@@ -1178,7 +1033,7 @@ flowchart LR
 * **Human-in-the-Loop Design** — keeping analyst review, approval, and decision quality in automation workflows
 * **LLM-Assisted Automation Thinking** — using AI to reduce repetitive operational work responsibly
 
-### 🧬 GenAI Security Operations
+### 🧬 AI Security & GenAI Detection
 
 * **Detection-as-Code** — detection content validation, deployment gating, and regression thinking
 * **OWASP LLM / GenAI risk mapping** — prompt injection, output handling, sensitive disclosure, and excessive agency thinking
@@ -1233,14 +1088,14 @@ flowchart LR
 
 <div align="center">
 
-<table width="250%" style="table-layout:fixed;">
+<table width="100%" style="table-layout:fixed;">
 <tr>
 <th width="50%">🏀 Outdoor & Fitness</th>
 <th width="50%">🎮 Gaming (PC)</th>
 </tr>
 
 <tr>
-<td valign="middle" style="padding:24px 28px; white-space:nowrap;">
+<td valign="middle" style="padding:18px 22px;">
 
 🏀 <b>Basketball</b> — agility, movement & teamwork<br>
 🏋️ <b>Gym</b> — discipline, consistency & self-improvement<br>
@@ -1249,7 +1104,7 @@ flowchart LR
 
 </td>
 
-<td valign="middle" style="padding:24px 28px; white-space:nowrap;">
+<td valign="middle" style="padding:18px 22px;">
 
 🚗 <b>GTA V</b> — strategy & exploration<br>
 ⚽ <b>FIFA</b> — coordination & competitive gameplay
@@ -1260,14 +1115,14 @@ flowchart LR
 
 <br>
 
-<table width="250%" style="table-layout:fixed;">
+<table width="100%" style="table-layout:fixed;">
 <tr>
 <th width="50%">🧠 Professional Interests</th>
 <th width="50%">📚 Continuous Learning</th>
 </tr>
 
 <tr>
-<td valign="middle" style="padding:24px 28px; white-space:nowrap;">
+<td valign="middle" style="padding:18px 22px;">
 
 🛡 <b>SOC Operations & Detection Engineering</b><br>
 ☁️ <b>AWS Security & IAM Automation</b><br>
@@ -1276,7 +1131,7 @@ flowchart LR
 
 </td>
 
-<td valign="middle" style="padding:24px 28px; white-space:nowrap;">
+<td valign="middle" style="padding:18px 22px;">
 
 📘 <b>Hands-on labs & portfolio building</b><br>
 🧪 <b>Real-world security simulations</b><br>
@@ -1456,5 +1311,5 @@ Support for **building portfolio labs, documenting projects clearly, structuring
 </p>
 
 <p align="center">
-  <sub>Last Updated: May 2026</sub>
+  <sub>Last Updated: March 2026</sub>
 </p>
