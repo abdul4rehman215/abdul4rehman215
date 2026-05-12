@@ -172,20 +172,20 @@ This matrix reflects my **portfolio-wide hands-on implementation** across SOC op
 
 | Skill Area | Portfolio Evidence | Current Depth | Tools / Frameworks Used |
 |---|---|---|---|
-| 🛡️ SOC Operations & Alert Triage | Alert triage, investigation logic, false-positive review, escalation context, analyst-style documentation | High portfolio depth | Wazuh, TheHive, MITRE ATT&CK |
-| 📊 SIEM Monitoring & Detection Engineering | Wazuh monitoring, custom rules, decoders, FIM, telemetry validation, tuning, and detection-focused workflows | High portfolio depth | Wazuh, ELK, Kibana, Sysmon, auditd |
-| 🧾 Incident Response & Case Documentation | Alert-to-case thinking, timelines, containment notes, response lifecycle, lessons learned, closure documentation | Strong applied exposure | TheHive, Cortex, MISP, SOC reporting workflows |
-| 🧠 Threat Intelligence & ATT&CK Mapping | IOC enrichment, ATT&CK mapping, observable handling, case context, threat-intel feedback loops | Strong applied exposure | MISP, Cortex, VirusTotal, AlienVault OTX, MITRE ATT&CK |
-| 🐧 Linux Security & System Hardening | SSH hardening, permissions, services, auditing, logging, firewalling, credential access monitoring | High portfolio depth | Linux, Ubuntu, Debian, RHEL, auditd, ufw, fail2ban |
-| ☁️ AWS Security Monitoring & Cloud Visibility | CloudTrail monitoring, IAM activity review, GuardDuty/Security Hub-style workflows, cloud event visibility | Strong applied exposure | AWS, CloudTrail, IAM, GuardDuty, Security Hub, AWS CLI |
-| ☁️ AWS Security Engineering & IAM Automation | IAM triage, containment workflows, scheduled IAM hygiene, secure infrastructure MVPs, assessment/remediation automation | Growing specialist depth | AWS IAM, Security Hub, GuardDuty, CloudTrail, Config, VPC Flow Logs |
-| 🧬 GenAI Security & Detection-as-Code | AI-app telemetry detection, Wazuh rule CI/CD, MCP/RAG/agentic runtime triage, OWASP LLM mapping | Applied / growing depth | Wazuh, GitHub PRs, n8n, TheHive, Slack, OWASP LLM, MCP, RAG |
-| ⚙️ Python Security Automation & DevSecOps | CLI tooling, config validation, testing, backend orchestration, workflow state, logs, metrics, incident-support automation | Strong applied exposure | Python, Bash, FastAPI, Flask, pytest, PostgreSQL, Redis, Prometheus, Grafana |
-| 🤖 AI Automation, Agents, MCP & RAG | n8n workflows, prompt/context design, LangChain RAG apps, Hugging Face agents, MCP servers, tool-use workflows | Applied / growing depth | n8n, LangChain, Hugging Face, FastMCP, smolagents, LlamaIndex, LangGraph |
-| 🧪 Vulnerability Assessment & Security Validation | Vulnerability review, scan interpretation, hardening validation, posture improvement, remediation thinking | Strong applied exposure | Nessus, OpenVAS, Checkov, CIS concepts, OWASP ZAP |
-| 🌐 Web / Network Security Observation | Traffic review, service visibility, WAF monitoring, IDS/NSM visibility, web log observation | Solid working depth | Wireshark, Nmap, Burp Suite, OWASP ZAP, Nginx, Suricata, Snort, Zeek |
-| 🎩 RHEL, Containers & Admin Automation | Enterprise-style administration exposure, container workflows, operational consistency, system management | Solid working depth | RHEL, Podman, Docker, Kubernetes, OpenShift |
-| 📈 Data Analytics, ML/NLP & Security-Oriented Analysis | Data handling, visualization, statistics, ML/NLP foundations, forecasting, deep learning foundations | Solid working depth | Jupyter, Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch |
+| 🛡️ SOC Operations & Alert Triage | Alert triage, investigation logic, false-positive review, escalation context, analyst-style documentation | **`High portfolio depth`** | Wazuh, TheHive, MITRE ATT&CK |
+| 📊 SIEM Monitoring & Detection Engineering | Wazuh monitoring, custom rules, decoders, FIM, telemetry validation, tuning, and detection-focused workflows | **`High portfolio depth`** | Wazuh, ELK, Kibana, Sysmon, auditd |
+| 🧾 Incident Response & Case Documentation | Alert-to-case thinking, timelines, containment notes, response lifecycle, lessons learned, closure documentation | **`Strong applied exposure`** | TheHive, Cortex, MISP, SOC reporting workflows |
+| 🧠 Threat Intelligence & ATT&CK Mapping | IOC enrichment, ATT&CK mapping, observable handling, case context, threat-intel feedback loops | **`Strong applied exposure`** | MISP, Cortex, VirusTotal, AlienVault OTX, MITRE ATT&CK |
+| 🐧 Linux Security & System Hardening | SSH hardening, permissions, services, auditing, logging, firewalling, credential access monitoring | **`High portfolio depth`** | Linux, Ubuntu, Debian, RHEL, auditd, ufw, fail2ban |
+| ☁️ AWS Security Monitoring & Cloud Visibility | CloudTrail monitoring, IAM activity review, GuardDuty/Security Hub-style workflows, cloud event visibility | **`Strong applied exposure`** | AWS, CloudTrail, IAM, GuardDuty, Security Hub, AWS CLI |
+| ☁️ AWS Security Engineering & IAM Automation | IAM triage, containment workflows, scheduled IAM hygiene, secure infrastructure MVPs, assessment/remediation automation | **`Growing specialist depth`** | AWS IAM, Security Hub, GuardDuty, CloudTrail, Config, VPC Flow Logs |
+| 🧬 GenAI Security & Detection-as-Code | AI-app telemetry detection, Wazuh rule CI/CD, MCP/RAG/agentic runtime triage, OWASP LLM mapping | **`Applied / growing depth`** | Wazuh, GitHub PRs, n8n, TheHive, Slack, OWASP LLM, MCP, RAG |
+| ⚙️ Python Security Automation & DevSecOps | CLI tooling, config validation, testing, backend orchestration, workflow state, logs, metrics, incident-support automation | **`Strong applied exposure`** | Python, Bash, FastAPI, Flask, pytest, PostgreSQL, Redis, Prometheus, Grafana |
+| 🤖 AI Automation, Agents, MCP & RAG | n8n workflows, prompt/context design, LangChain RAG apps, Hugging Face agents, MCP servers, tool-use workflows | **`Applied / growing depth`** | n8n, LangChain, Hugging Face, FastMCP, smolagents, LlamaIndex, LangGraph |
+| 🧪 Vulnerability Assessment & Security Validation | Vulnerability review, scan interpretation, hardening validation, posture improvement, remediation thinking | **`Strong applied exposure`** | Nessus, OpenVAS, Checkov, CIS concepts, OWASP ZAP |
+| 🌐 Web / Network Security Observation | Traffic review, service visibility, WAF monitoring, IDS/NSM visibility, web log observation | **`Solid working depth`** | Wireshark, Nmap, Burp Suite, OWASP ZAP, Nginx, Suricata, Snort, Zeek |
+| 🎩 RHEL, Containers & Admin Automation | Enterprise-style administration exposure, container workflows, operational consistency, system management | **`Solid working depth`** | RHEL, Podman, Docker, Kubernetes, OpenShift |
+| 📈 Data Analytics, ML/NLP & Security-Oriented Analysis | Data handling, visualization, statistics, ML/NLP foundations, forecasting, deep learning foundations | **`Solid working depth`** | Jupyter, Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch |
 
 ## 🔍 Depth Scale
 
@@ -1276,5 +1276,5 @@ flowchart LR
 </p>
 
 <p align="center">
-  <sub>Last Updated: March 2026</sub>
+  <sub>Last Updated: May 2026</sub>
 </p>
