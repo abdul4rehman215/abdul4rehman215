@@ -120,6 +120,8 @@ Current Growth Tracks:
 Approach: Build → Detect → Investigate → Automate → Document → Improve
 Philosophy: Automate Everything
 Goal: Strengthen security operations through practical automation and AI-assisted workflows
+🌐 Open to remote roles & freelance
+
 ```
 
 I’m a **hands-on cybersecurity practitioner** focused on **SOC operations, SIEM monitoring, detection engineering, AWS security, incident response workflows, and open-source security tooling**.
