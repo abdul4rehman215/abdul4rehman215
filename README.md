@@ -1159,6 +1159,8 @@ flowchart LR
 </p>
 
 
+<!--
+
 ### 🟢 Duolingo Language Scores
 
 <p align="center">
@@ -1170,6 +1172,8 @@ flowchart LR
   <img src="https://img.shields.io/badge/English-88-58CC02?style=for-the-badge&logo=duolingo" alt="English Duolingo Score" />
   <img src="https://img.shields.io/badge/Dec%202025-Limited%20Working%20Proficiency-EE0000?style=for-the-badge" alt="English Proficiency" />
 </p>
+
+-->
 
 <hr>
 
