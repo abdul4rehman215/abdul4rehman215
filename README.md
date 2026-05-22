@@ -505,7 +505,7 @@ The goal is not to automate everything blindly. The goal is to automate the repe
     <th width="65%" align="left">🚀 Areas I’m Actively Advancing</th>
   </tr>
   <tr>
-    <td valign="top" width="35%">
+    <td valign="top" width="40%">
       <strong>SOC Operations, Defensive Security &amp; Automation</strong>
       <ul>
         <li>SOC alert monitoring, triage, investigation logic, and analyst-style documentation</li>
@@ -518,7 +518,7 @@ The goal is not to automate everything blindly. The goal is to automate the repe
         <li>Python/Bash automation, workflow support, and documentation-first project execution</li>
       </ul>
     </td>
-    <td valign="top" width="65%">
+    <td valign="top" width="60%">
       <strong>Security Growth, Engineering Depth &amp; AI Automation Direction</strong>
       <ul>
         <li>Deepening detection logic, alert quality tuning, and stronger SOC decision-making</li>
