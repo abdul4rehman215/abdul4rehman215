@@ -1164,7 +1164,7 @@ flowchart LR
 ### 🟢 Duolingo Language Scores
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arabic-13-58CC02?style=for-the-badge&logo=duolingo" alt="Arabic Duolingo Score" />
+  <img src="https://img.shields.io/badge/Arabic-15-58CC02?style=for-the-badge&logo=duolingo" alt="Arabic Duolingo Score" />
   <img src="https://img.shields.io/badge/Dec%202025-Elementary%20Proficiency-326CE5?style=for-the-badge" alt="Arabic Proficiency" />
 </p>
 
