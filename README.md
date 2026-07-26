@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20SIEM%20%7C%20Security%20Automation-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Portfolio-28%20Repositories-1F6FEB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Completed-700%2B%20Hands--On%20Labs%20%26%20Projects-238636?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flagship-42%2B%20SOC%2FSOAR%20Projects-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flagship-30%2B%20SOC%2FSOAR%20Projects-FF9900?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Active Roadmap-720--Labs%20Advanced%20Track-7B61FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation-n8n%20%7C%20SOAR%20%7C%20AI%20Workflows-F97316?style=for-the-badge" />
 </p>
@@ -155,7 +155,7 @@ I also completed a **full-year student internship** alongside my cybersecurity s
 | **28 structured repositories** | Specialist tracks, capstones, guided labs, learning portfolios, and documentation-first technical projects |
 | **700+ completed hands-on labs & projects** | Practical execution already completed across cybersecurity, Linux, cloud, automation, analytics, AI, and security operations |
 | **720-lab advanced roadmap** | Active next-stage roadmap across blue team, red team, DFIR, cloud security, DevSecOps, AI security, ML, automation, and advanced cyber labs |
-| **SOC/SOAR flagship ecosystem** | 42+ projects, 6 capstones, 11 installations/setups, 6 dashboards, and connected Wazuh + TheHive + MISP + Cortex + n8n workflows |
+| **SOC/SOAR flagship ecosystem** | 30+ projects, 6 capstones, 11 installations/setups, 6 dashboards, and connected Wazuh + TheHive + MISP + Cortex + n8n workflows |
 | **Cloud security engineering** | AWS IAM security automation, secure infrastructure MVP, CloudTrail, GuardDuty, Config, Security Hub, VPC Flow Logs, and monitoring pipelines |
 | **AI-assisted security automation** | GenAI detection-as-code, MCP/RAG/agentic AI security workflows, Hugging Face agents, LangChain RAG, and n8n-based SOC automation |
 | **Python, data & automation depth** | 57-lab Data Science portfolio and 39-lab Python automation/security engineering portfolio |
