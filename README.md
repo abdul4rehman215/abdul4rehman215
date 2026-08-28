@@ -678,122 +678,244 @@ This section highlights the **original SOC / SOAR malware investigation architec
 <br>
 
 ```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "#030712",
+    "fontSize": "28px",
+    "primaryTextColor": "#ffffff",
+    "lineColor": "#f8fafc"
+  },
+  "flowchart": {
+    "nodeSpacing": 46,
+    "rankSpacing": 56,
+    "curve": "basis"
+  }
+}}%%
+
 flowchart LR
-  %% =========================================================
-  %% SOC + SOAR + TI — End-to-End Workflow (Swimlanes, Boxed)
-  %% with stronger lane separators (GitHub Mermaid friendly)
-  %% =========================================================
 
-  A_ENR[" "]:::anchor
-  A_IR[" "]:::anchor
-  A_TI[" "]:::anchor
-  A_FB1[" "]:::anchor
-  A_FB2[" "]:::anchor
+    %% =====================================================
+    %% 1 · ENDPOINT + SIEM
+    %% =====================================================
+    subgraph DETECT[" "]
+        direction TB
 
-  F1[" "]:::frame
-  F2[" "]:::frame
-  F3[" "]:::frame
-  F4[" "]:::frame
-  F5[" "]:::frame
-  F6[" "]:::frame
+        H1["🛡️ 1 · ENDPOINT + SIEM"]
 
-  F1 -.-> F2
-  F2 -.-> F3
-  F3 -.-> F4
-  F4 -.-> F5
-  F5 -.-> F6
+        SIM["🧨 Controlled Attack<br/>Simulation"]
 
-  subgraph L1[" "]
-    direction TB
-    H1["🪟 Endpoint"]:::laneHeader
-    SIM["🧨 Controlled Attack Simulation<br/>PowerShell • DNS • File Drop • Persistence • Network"]:::stage
-    ENDPOINT["Sysmon + Wazuh Agent<br/>Telemetry collection"]:::stage
-    H1 --> SIM --> ENDPOINT --> F1
-  end
+        END["🪟 Endpoint Telemetry<br/>Sysmon + Wazuh Agent"]
 
-  subgraph L2[" "]
-    direction TB
-    H2["🛡️ SIEM / XDR (Wazuh)"]:::laneHeader
-    WAZ["Wazuh Manager<br/>Rules • Correlation • Alerts"]:::stage
-    IDX["Wazuh Indexer<br/>OpenSearch"]:::stage
-    WDASH["Wazuh Dashboard<br/>Hunting • Evidence • Discover"]:::stage
-    H2 --> WAZ --> IDX --> WDASH --> F2
-  end
+        WAZ["🛡️ Wazuh Manager<br/>Rules + Correlation<br/>Alerts"]
 
-  subgraph L3[" "]
-    direction TB
-    H3["👨‍💻 SOC Analyst"]:::laneHeader
-    ANALYST["Triage + Investigation<br/>Review ➜ Correlate ➜ Extract IOCs"]:::human
-    GATE["Decision Gate<br/>True Positive confirmed?"]:::decision
-    H3 --> ANALYST --> GATE --> F3
-  end
+        IDX["🗄️ Wazuh Indexer<br/>OpenSearch"]
 
-  subgraph L4[" "]
-    direction TB
-    H4["🗂️ Case Mgmt + SOAR (TheHive + Cortex)"]:::laneHeader
-    THEHIVE["TheHive Case<br/>Alert ➜ Case ➜ Tasks ➜ Timeline"]:::stage
-    OBS["Observables / IOCs<br/>Hash • Domain • IP • URL • File • Registry"]:::stage
-    CORTEX["Cortex Automation<br/>Analyzers / Responders"]:::stage
-    ENR["Enrichment Results<br/>VT • OTX • MISP lookups etc."]:::stage
-    MITRE["MITRE ATT&CK Mapping<br/>Evidence ➜ Techniques ➜ TTPs"]:::stage
+        DASH["📊 Wazuh Dashboard<br/>Hunting + Evidence"]
 
-    H4 --> THEHIVE --> OBS --> A_ENR
-    A_ENR --> CORTEX --> ENR --> A_ENR
-    ENR --> THEHIVE
-    THEHIVE --> MITRE --> A_IR --> F4
-  end
+        H1 ==> SIM ==> END ==> WAZ ==> IDX ==> DASH
+    end
 
-  subgraph L5[" "]
-    direction TB
-    H5["🛠️ Incident Response"]:::laneHeader
-    IRFLOW["IR Lifecycle<br/>Identify ➜ Analyze ➜ Contain ➜ Eradicate ➜ Recover ➜ Review"]:::ir
-    ACTIONS["Endpoint Actions<br/>Triage • Kill proc • Block C2 • Remove persistence • Export EVTX"]:::action
-    CLOSE["Case Closure<br/>Final report • Timeline • Metrics • Lessons learned"]:::outcome
 
-    H5 --> IRFLOW --> ACTIONS --> IRFLOW
-    IRFLOW --> CLOSE --> A_TI --> F5
-  end
+    %% =====================================================
+    %% 2 · SOC + SOAR
+    %% =====================================================
+    subgraph SOAR[" "]
+        direction TB
 
-  subgraph L6[" "]
-    direction TB
-    H6["🧠 Threat Intelligence (MISP)"]:::laneHeader
-    MISP["MISP Event<br/>Validated IOCs + Tags + Context"]:::ti
-    SHARE["Share / Reuse<br/>Correlation • Community • Future detections"]:::ti
-    H6 --> MISP --> SHARE --> F6
-  end
+        H2["🐝 2 · SOC + SOAR"]
 
-  ENDPOINT -->|📤 Sysmon telemetry| WAZ
-  WDASH --> ANALYST
-  GATE -->|📌 Escalate IOCs + evidence| THEHIVE
-  A_IR --> IRFLOW
-  A_TI -->|✅ Export validated IOCs| MISP
+        SOC["👨‍💻 SOC Analyst<br/>Triage + Investigation<br/>Extract IOCs"]
 
-  SHARE -.-> A_FB1 -.->|♻️ Improve detections| WAZ
-  SHARE -.-> A_FB2 -.->|🔍 Faster correlation| WDASH
+        GATE{"✅ TRUE POSITIVE<br/>Confirmed?"}
 
-  OUT["🏁 Outcome<br/>End-to-end SOC workflow + SOAR automation + TI feedback loop"]:::outcome
-  CLOSE --> OUT
+        HIVE["🗂️ TheHive 5<br/>Alert → Case → Tasks<br/>Timeline"]
 
-  classDef laneHeader fill:#0b1220,stroke:#94a3b8,stroke-width:3px,stroke-dasharray: 6 4,color:#e5e7eb;
-  classDef stage fill:#111827,stroke:#475569,stroke-width:1px,color:#e5e7eb;
-  classDef human fill:#0f172a,stroke:#22c55e,stroke-width:1px,color:#e5e7eb;
-  classDef decision fill:#0f172a,stroke:#f59e0b,stroke-width:2px,color:#e5e7eb;
-  classDef ir fill:#0f172a,stroke:#60a5fa,stroke-width:1px,color:#e5e7eb;
-  classDef action fill:#0f172a,stroke:#ef4444,stroke-width:1px,color:#e5e7eb;
-  classDef ti fill:#0f172a,stroke:#a78bfa,stroke-width:1px,color:#e5e7eb;
-  classDef outcome fill:#0f172a,stroke:#14b8a6,stroke-width:2px,color:#e5e7eb;
+        OBS["🧬 Observables<br/>Hash · Domain · IP<br/>URL · File · Registry"]
 
-  classDef anchor fill:transparent,stroke:transparent,color:transparent;
-  classDef frame fill:transparent,stroke:transparent,color:transparent;
+        CORT["⚙️ Cortex<br/>Analyzers + Responders"]
 
-  class A_ENR,A_IR,A_TI,A_FB1,A_FB2 anchor;
-  class F1,F2,F3,F4,F5,F6 frame;
+        ENR["🔎 Enrichment<br/>VT · OTX · MISP"]
 
-  linkStyle 0 stroke:#94a3b8,stroke-width:4px,stroke-dasharray:10 6,opacity:0.95;
-  linkStyle 1 stroke:#94a3b8,stroke-width:4px,stroke-dasharray:10 6,opacity:0.95;
-  linkStyle 2 stroke:#94a3b8,stroke-width:4px,stroke-dasharray:10 6,opacity:0.95;
-  linkStyle 3 stroke:#94a3b8,stroke-width:4px,stroke-dasharray:10 6,opacity:0.95;
-  linkStyle 4 stroke:#94a3b8,stroke-width:4px,stroke-dasharray:10 6,opacity:0.95;
+        MITRE["🧭 MITRE ATT&CK<br/>Evidence → TTP Mapping"]
+
+        H2 ==> SOC ==> GATE ==> HIVE ==> OBS ==> CORT ==> ENR ==> MITRE
+    end
+
+
+    %% =====================================================
+    %% 3 · INCIDENT RESPONSE
+    %% =====================================================
+    subgraph RESPONSE[" "]
+        direction TB
+
+        H3["🚨 3 · INCIDENT RESPONSE"]
+
+        IR["🛠️ IR Lifecycle<br/>Identify · Analyze · Contain"]
+
+        ACT["🪟 Endpoint Actions<br/>Kill Process · Block C2<br/>Remove Persistence"]
+
+        REC["♻️ Eradicate + Recover<br/>Validate Recovery"]
+
+        EVID["📦 Preserve Evidence<br/>EVTX + Investigation Artifacts"]
+
+        CLOSE["🧾 Case Closure<br/>Report · Timeline<br/>Metrics · Lessons"]
+
+        OUT["🏁 VALIDATED OUTCOME<br/>SOC + SOAR + IR<br/>Complete"]
+
+        H3 ==> IR ==> ACT ==> REC ==> EVID ==> CLOSE ==> OUT
+    end
+
+
+    %% =====================================================
+    %% 4 · THREAT INTELLIGENCE
+    %% =====================================================
+    subgraph INTEL[" "]
+        direction TB
+
+        H4["🧠 4 · THREAT INTELLIGENCE"]
+
+        MISP["📌 MISP Event<br/>Validated IOCs<br/>Tags + Context"]
+
+        SHARE["🔁 Share + Reuse<br/>Correlation + Community"]
+
+        IMP["♻️ Detection Improvement<br/>Strengthen Monitoring"]
+
+        FAST["⚡ Faster Future Triage<br/>IOC Correlation"]
+
+        LOOP["🔄 CONTINUOUS FEEDBACK<br/>Improve Future Detections"]
+
+        H4 ==> MISP ==> SHARE ==> IMP ==> FAST ==> LOOP
+    end
+
+
+    %% =====================================================
+    %% KEEP ALL 4 COLUMNS PARALLEL
+    %% =====================================================
+    DETECT ==> SOAR
+    SOAR ==> RESPONSE
+    RESPONSE ==> INTEL
+
+
+    %% =====================================================
+    %% PREMIUM GLOSSY HEADERS
+    %% =====================================================
+    classDef detectHeader fill:#0c4a6e,stroke:#67e8f9,stroke-width:6px,color:#ffffff,font-size:32px;
+    classDef soarHeader fill:#4c1d95,stroke:#d8b4fe,stroke-width:6px,color:#ffffff,font-size:32px;
+    classDef responseHeader fill:#7f1d1d,stroke:#fda4af,stroke-width:6px,color:#ffffff,font-size:32px;
+    classDef intelHeader fill:#14532d,stroke:#86efac,stroke-width:6px,color:#ffffff,font-size:32px;
+
+    class H1 detectHeader;
+    class H2 soarHeader;
+    class H3 responseHeader;
+    class H4 intelHeader;
+
+
+    %% =====================================================
+    %% ENDPOINT + SIEM COLORS
+    %% =====================================================
+    classDef attack fill:#881337,stroke:#fb7185,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef endpoint fill:#172554,stroke:#60a5fa,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef wazuh fill:#075985,stroke:#22d3ee,stroke-width:6px,color:#ffffff,font-size:29px;
+
+    classDef indexer fill:#312e81,stroke:#818cf8,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef dashboard fill:#155e75,stroke:#67e8f9,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    class SIM attack;
+    class END endpoint;
+    class WAZ wazuh;
+    class IDX indexer;
+    class DASH dashboard;
+
+
+    %% =====================================================
+    %% SOC + SOAR COLORS
+    %% =====================================================
+    classDef analyst fill:#0369a1,stroke:#7dd3fc,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef decision fill:#166534,stroke:#86efac,stroke-width:6px,color:#ffffff,font-size:28px;
+
+    classDef hive fill:#854d0e,stroke:#fde047,stroke-width:6px,color:#ffffff,font-size:29px;
+
+    classDef observable fill:#4338ca,stroke:#a5b4fc,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef cortex fill:#7e22ce,stroke:#f0abfc,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef enrich fill:#581c87,stroke:#e879f9,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef mitre fill:#9a3412,stroke:#fdba74,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    class SOC analyst;
+    class GATE decision;
+    class HIVE hive;
+    class OBS observable;
+    class CORT cortex;
+    class ENR enrich;
+    class MITRE mitre;
+
+
+    %% =====================================================
+    %% INCIDENT RESPONSE COLORS
+    %% =====================================================
+    classDef ir fill:#991b1b,stroke:#fb7185,stroke-width:6px,color:#ffffff,font-size:29px;
+
+    classDef action fill:#c2410c,stroke:#fdba74,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef recovery fill:#0f766e,stroke:#5eead4,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef evidence fill:#115e59,stroke:#2dd4bf,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef closure fill:#166534,stroke:#4ade80,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef outcome fill:#065f46,stroke:#86efac,stroke-width:6px,color:#ffffff,font-size:29px;
+
+    class IR ir;
+    class ACT action;
+    class REC recovery;
+    class EVID evidence;
+    class CLOSE closure;
+    class OUT outcome;
+
+
+    %% =====================================================
+    %% THREAT INTELLIGENCE COLORS
+    %% =====================================================
+    classDef misp fill:#7e22ce,stroke:#f0abfc,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef sharing fill:#0369a1,stroke:#7dd3fc,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef improve fill:#15803d,stroke:#86efac,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef future fill:#0f766e,stroke:#5eead4,stroke-width:5px,color:#ffffff,font-size:28px;
+
+    classDef feedback fill:#713f12,stroke:#fde047,stroke-width:6px,color:#ffffff,font-size:28px;
+
+    class MISP misp;
+    class SHARE sharing;
+    class IMP improve;
+    class FAST future;
+    class LOOP feedback;
+
+
+    %% =====================================================
+    %% PREMIUM GLOSSY PARALLEL PANELS
+    %% =====================================================
+    style DETECT fill:#06131d,stroke:#22d3ee,stroke-width:4px
+
+    style SOAR fill:#140b24,stroke:#c084fc,stroke-width:4px
+
+    style RESPONSE fill:#18090d,stroke:#fb7185,stroke-width:4px
+
+    style INTEL fill:#07140d,stroke:#4ade80,stroke-width:4px
+
+
+    %% =====================================================
+    %% THICK BRIGHT CONNECTORS
+    %% =====================================================
+    linkStyle default stroke:#f8fafc,stroke-width:5px;
 ```
 </details> <hr> 
 
